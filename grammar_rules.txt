@@ -1,0 +1,6363 @@
+PRP -> 'u'
+LS -> 'h'
+VBP -> 'r'
+PRP -> 'i'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+PP -> IN NP
+S -> NP VP
+NML -> NN NN
+NP -> NN NN
+VP -> VBP NP
+PP -> IN PP
+NP -> DT NN POS
+NP -> NML NN NN
+NP -> DT NML NN
+NP -> LST NP PP
+NP -> PP NP NP NP
+NP -> DT NN NN NN
+NP -> DT NN NN POS
+NML -> NN NN NN NN NN
+NML -> NN NN NN NN NN NN NN
+NP -> NN
+NN -> 'b'
+NN -> 'g'
+DT -> 'a'
+LST -> LS
+NN -> 't'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NP -> PRP
+LS -> 'd'
+NP -> NP PP
+NP -> DT NN
+PP -> IN NP
+PP -> NP IN
+FRAG -> LST NP NP NP
+NN -> 'y'
+NN -> 'f'
+NN -> 'r'
+NN -> 'e'
+ROOT -> NP
+NN -> 't'
+NN -> 'v'
+NN -> 'l'
+IN -> 'o'
+NN -> 'h'
+NN -> 'u'
+NP -> NP PP
+NP -> NML NN
+NML -> NN NN
+PP -> IN NP
+NP -> NN NN NN NN NN NN NN NN NN
+NN -> 'b'
+VBP -> 'r'
+NP -> DT
+ROOT -> FRAG
+NN -> 'c'
+NN -> 'h'
+NN -> 'u'
+DT -> 'a'
+NN -> 'p'
+NP -> NP NP
+S -> NP VP
+VP -> VBP NP
+NML -> NN NN
+NP -> DT NN
+FRAG -> NP S
+NP -> NML NN NN
+NN -> 'f'
+AFX -> 's'
+VBP -> 'r'
+PRP -> 'i'
+VP -> VBP
+IN -> 'o'
+NP -> NN
+NN -> 't'
+LS -> 'e'
+NP -> CD
+CD -> 'k'
+S -> NP
+IN -> 'w'
+LST -> LS
+NN -> 'e'
+ROOT -> S
+NN -> 's'
+SBAR -> S
+NP -> PRP
+VBP -> 'm'
+VP -> VBP SBAR
+S -> NP VP
+NP-TMP -> NP NP
+NP -> NN NN
+NP -> NP SBAR
+PP -> IN IN NP
+NP -> LST NP PP
+VP -> AFX NP S NP-TMP
+NN -> 'g'
+NN -> 'e'
+CD -> 'i'
+NN -> 't'
+VBP -> 'r'
+NN -> 'd'
+NN -> 'm'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+DT -> 'a'
+NN -> 'i'
+S -> NP VP
+NP -> NP NP
+VP -> VBP NP
+NP -> DT NN
+NP -> NN CD NN NN
+NP -> NN NN NN NN NN NN NN NN NN
+NP -> NN
+LST -> LS
+PRP -> 'u'
+NN -> 't'
+LS -> 'b'
+ROOT -> FRAG
+IN -> 'o'
+POS -> 's'
+NP -> PRP
+NN -> 'm'
+NP -> NP PP
+FRAG -> LST NP
+NP -> NN NN
+PP -> IN NP
+PP -> NP IN
+NP -> NP NN
+NP -> NP PP POS
+PRP -> 'i'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+ROOT -> NP
+NN -> 't'
+NN -> 'b'
+POS -> 's'
+NN -> 'n'
+NN -> 's'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+PP -> IN NP
+NP -> POS POS
+PP -> NP IN
+NML -> NN NN
+NP -> NN NN
+NP -> NP PP PP
+NP -> DT NML NN
+NML -> PP
+ROOT -> NP
+PRP -> 'u'
+NN -> 't'
+NN -> 'w'
+IN -> 'o'
+NN -> 'l'
+NP -> PRP
+DT -> 'a'
+NP -> NP NP
+PP -> IN NP
+NP -> DT NN
+NP -> NML NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+VP -> FRAG
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+IN -> 'w'
+NN -> 'e'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+PRN -> S
+NN -> 'r'
+NP -> PRP
+VBP -> 'm'
+NP -> NP PP
+VP -> VBP SBAR
+PP -> IN NP
+S -> NP VP
+FRAG -> PP NP
+NP -> NN DT
+NML -> NN NN
+VP -> VBP NP
+PP -> IN PRN NP
+NP -> DT NN NML NN
+NP -> NN NN NN NN NN
+NP -> NN NN NN NN NN NN NN NN
+NP -> NN
+PRP -> 's'
+NN -> 'r'
+S -> NP
+NN -> 'e'
+PRP -> 'i'
+NN -> 'n'
+IN -> 'o'
+NP -> PRP
+ROOT -> S
+VBP -> 'm'
+DT -> 'a'
+S -> NP VP
+NP -> NP PP
+NP -> PRP DT
+PP -> IN NP
+VP -> VBP NP S
+NP -> DT NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'r'
+ROOT -> NP
+IN -> 'o'
+NN -> 's'
+NP -> NP PP
+PP -> IN NP
+NP -> NN NN NN
+PRP -> 'u'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'g'
+PP -> IN
+NN -> 't'
+NML -> NN
+CD -> 'k'
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+LS -> 'i'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NML -> NML PP
+NML -> NN NN
+NP -> NML NN NN
+NML -> NP NML NN
+NP -> NML NN POS
+FRAG -> LST NP NP NP
+NP -> NN NN NN NN CD NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NN -> 'v'
+NN -> 'c'
+NN -> 'b'
+NN -> 'e'
+POS -> 's'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+VP -> VBP S
+PP -> NP IN
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+S -> NP NP
+NP -> NP POS
+NP -> NML PP POS
+NP -> DT NN NN
+NP -> NP PP PP
+NP -> NN NN NN NN NN NN NN
+PRP -> 'i'
+ROOT -> FRAG
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+IN -> 'w'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+NP -> NP NP
+FRAG -> FRAG S
+VP -> VBZ NP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+FRAG -> PP NP
+NP -> DT NN NN
+NN -> 'y'
+NN -> 'b'
+IN -> 'w'
+ROOT -> NP
+NN -> 't'
+PRP -> 'i'
+NN -> 'd'
+NP -> PRP
+NN -> 'i'
+DT -> 'a'
+NN -> 'k'
+NN -> 's'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> DT NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'g'
+VBP -> 'v'
+NN -> 't'
+NN -> 'v'
+NN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+SBAR -> S
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NP NN
+NML -> NN NN
+NP -> NML NN
+VP -> VBP NP
+NP-TMP -> NP SBAR
+NP -> DT NN NN
+NP -> NML NML NN
+NP -> NN NN POS
+S -> NP-TMP NP VP
+NP -> NN NN NN NN NN
+NP -> DT NN NN NN NN NN
+NN -> 'f'
+FRAG -> NP
+NP -> POS
+ROOT -> FRAG
+NN -> 'l'
+QP -> DT
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+PP -> IN
+NN -> 't'
+LS -> 'e'
+NN -> 'c'
+S -> NP
+IN -> 'w'
+LST -> LS
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+WHNP -> DT
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> QP NN
+S -> NP VP
+SBAR -> SBAR SBAR
+ADJP -> NN SBAR
+VP -> LST VP
+NML -> NML PP
+VP -> NP ADJP
+NML -> NN NN
+SBAR -> WHNP S
+NP -> DT NML
+NP -> SBAR NP
+WHNP -> WHNP PP
+NP -> DT NML NN NN
+NP -> DT NN NN NN
+NP -> NN NN NN NN NN
+NN -> 'f'
+ROOT -> X
+PRP -> 'u'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+IN -> 'w'
+NN -> 'e'
+CD -> 'i'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+SBAR -> S
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+VP -> VBZ NP
+NP -> NP PP
+NP -> PP NP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+PP -> NP IN
+NML -> NN NN
+X -> X NP
+NP -> NN NN
+NP -> NN SBAR
+NP -> NN NML
+X -> NP NP NP
+NP -> DT NN NN
+NP -> NP PP PP
+NP -> NML NN NN
+NP -> DT NML NN
+NML -> NN NN NN NN NN
+NP -> NML NN NN NN CD NML NN
+NN -> 'y'
+CD -> 'k'
+PRN -> S
+NN -> 'e'
+VBP -> 'r'
+NN -> 't'
+ROOT -> FRAG
+NN -> 'h'
+NN -> 'i'
+NP -> CD NN
+S -> NP VP
+FRAG -> PRN NP
+VP -> VBP NP
+NP -> NN CD
+NP -> NN NN
+NP -> NN NN NN NN NP NN NN NN
+NN -> 'o'
+FRAG -> VP
+VBP -> 'r'
+NP-TMP -> NN
+ROOT -> FRAG
+NN -> 'l'
+NN -> 'u'
+DT -> 'a'
+NP -> DT NN NN
+VP -> VBP NP NP-TMP
+VBP -> 'r'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NP -> CD
+CD -> 'k'
+S -> NP
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+PRN -> S VP
+FRAG -> NP NP
+NML -> NN NN
+NP -> NML NN
+VP -> VBP NP S
+NP -> DT NN NN
+PP -> IN IN NP
+NML -> NML NN NN PRN
+NP -> DT NML NN NN
+PRP -> 'i'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NN -> 'c'
+IN -> 'w'
+NN -> 'e'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'i'
+SBAR -> S
+NP -> PRP
+VP -> VBZ NP
+NP -> NP PP
+NP -> PP NP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NML -> NN NN
+NP -> NP SBAR
+NP -> NML DT NN
+NML -> NML NN NN
+NP -> DT NN NN NN NN
+NP -> NN
+NN -> 's'
+NN -> 'e'
+ROOT -> NP
+NN -> 'l'
+IN -> 'o'
+NN -> 'c'
+NN -> 'h'
+NN -> 'n'
+DT -> 'a'
+NN -> 'p'
+NP -> NP NP
+NP -> PP NP
+PP -> IN NP
+NP -> DT NN
+NP -> NN NML
+NML -> NN NN NN NN NN NN NN NN NN
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+FRAG -> FRAG S
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> NN POS
+NP -> NP NN
+FRAG -> PP NP
+NML -> NN NN
+NP -> NN NN
+VP -> VBP NP
+NP -> NN NML NN
+NP -> DT NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'b'
+NN -> 'e'
+NN -> 'd'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+VP -> VBP NP
+S -> NP NP
+S -> S S
+NP -> DT NN NN
+NP -> NN NN NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'f'
+ROOT -> NP
+NN -> 'n'
+IN -> 'o'
+NN -> 'u'
+NN -> 's'
+NP -> NP PP
+PP -> IN NP
+NP -> NN NN NN NN NN
+NN -> 'p'
+NN -> 'g'
+NN -> 'e'
+ROOT -> X
+NN -> 'u'
+NN -> 'l'
+IN -> 'o'
+NN -> 'c'
+NN -> 'm'
+X -> PP
+NN -> 'n'
+NN -> 'h'
+NN -> 'i'
+NP -> NP PP
+PP -> IN NP
+NP -> NN NML
+NP -> NN NN NN NN NN NN
+NML -> NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+VP -> VBP
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NP -> CD
+CD -> 'k'
+NN -> 'b'
+NN -> 'e'
+NN -> 'n'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+S -> VP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+NP -> NN NML
+NP -> DT NN NN
+PP -> IN IN NP
+FRAG -> NP NP NP NP NP NP
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+SYM -> 'x'
+NN -> 'c'
+NN -> 'b'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+VBP -> 'm'
+NN -> 'n'
+NN -> 'i'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+S -> NP VP
+NP -> NP X
+NP -> NP NN
+FRAG -> NP NP
+NML -> NML PP
+PP -> SYM NP
+NP-TMP -> DT NN
+NML -> NN NN
+NP -> NP SBAR
+NP -> NML NN
+VP -> VBP NP NP-TMP
+X -> NP NP NP
+NP -> NML NN NN
+NML -> NP NML NN
+NP -> NML NN POS
+NP -> DT NML NN NN
+NP -> DT NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+VBP -> 'm'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+S -> VP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> NP NN
+FRAG -> NP X
+NML -> NN NN
+X -> X NP
+NP -> NN NN
+NP -> DT NML
+NP -> NP SBAR
+VP -> VBP NP
+X -> NP NP NP
+NP -> DT NN POS
+NP -> NML NN NN
+NP -> NML NN POS
+NML -> NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+VP -> VBP
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+CD -> 'i'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NN POS
+NP -> POS POS
+PP -> NP IN
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+NP -> NN NML
+NP -> NP PP PP
+NP -> NML NN NN
+NP -> CD NML NN
+NML -> NN NN NN
+FRAG -> NP NP NP NP NP NP NP
+NP -> NN NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+NN -> 'w'
+NML -> PP
+IN -> 'w'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'd'
+LS -> 'f'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+ROOT -> SBARQ
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN PP
+PP -> IN NP
+SBARQ -> WHPP SQ
+WHPP -> IN NP
+NML -> NML PP
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+VP -> VBP NP
+NP -> DT NN NN
+NP -> NN NN POS
+NP -> DT NN POS
+NP -> NP NP NP
+NP -> NML NN NN
+SQ -> VP NP PP
+NML -> NN NN NN
+NP -> NML NN NN POS
+NP -> LST NP PP PP
+NP -> DT NN NN NN
+NP -> NP NML NN NN
+NP -> DT NN NN NN NN NN
+NML -> NN NN NN NN NN NN NN
+NP -> NP NN NN NN NN NN NN NN NN NN
+PRP -> 'u'
+VBP -> 'r'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'y'
+PRN -> S
+NP -> PRP
+VBP -> 'm'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+VP -> VBP NP
+S -> PRN NP VP
+NP -> DT NN NN
+NP -> DT NML NP
+NML -> NN NN NN NN NN NN
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+FRAG -> X VP
+NP -> NN NN
+VP -> VBP NP
+X -> NP NP NP
+NP -> DT NN NN
+NP -> DT NML NN
+NP -> DT NN NN NN
+NML -> NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+VBP -> 'r'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+NN -> 'c'
+S -> NP
+NN -> 'e'
+CD -> 'i'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 's'
+SBAR -> S
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+S -> NP VP
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+NP -> NP SBAR
+NP -> NN NML
+NP -> NN CD NN
+VP -> VBP NP S
+NP -> NP NN NN
+NP -> NML NN NN POS
+NP -> DT NN NN NN
+NP -> NP NP NP NP
+NP -> DT NML NN POS
+NP -> NP NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP
+NP -> NN NN NN NN NN NN NN NN
+MD -> 'd'
+NN -> 'f'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+VP -> NP
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NN POS
+NML -> NN NN
+VP -> MD VP
+NP -> NP POS
+NP -> NP NN NN
+NP -> PP DT NML NN
+NP -> NN NN NN NN NN NN NN NN
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NP-TMP -> NN
+VP -> VBP
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+NN -> 'c'
+NN -> 'b'
+NML -> PP
+CD -> 'k'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+S -> VP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+S -> NP VP
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NN NN NN
+NP -> NP NP-TMP PP
+NML -> NML NN NN
+NP -> NML NN NN
+NP -> CD NML NN
+NP -> DT NML NN
+NML -> NN POS NN
+NP -> DT NML NN NN
+NP -> NP NML NN NN
+NP -> DT NN NN NN POS
+NP -> DT NN NML NN POS
+NP -> NP NN NN NN NML NN
+FRAG -> NP NP NP NP NP NP NP
+NP -> NN NN NN NN NN NN NN
+MD -> 'd'
+NN -> 'f'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+VP -> NP
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NN POS
+NML -> NN NN
+VP -> MD VP
+NP -> NN NN NN
+NP -> NP NN NN
+NP -> DT NN POS
+NP -> PP DT NML NN
+PRP -> 'u'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NP-TMP -> NN
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+NN -> 'b'
+IN -> 'w'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'j'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+FRAG -> FRAG FRAG
+PP -> IN NP
+NP -> DT NN
+FRAG -> PP NP
+FRAG -> NP NP-TMP
+NP -> NN NN NP NN NP NN NN NN NN
+POS -> 's'
+ROOT -> NP
+NN -> 'h'
+NP -> POS NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'z'
+NN -> 'r'
+NN -> 'e'
+PRP -> 'u'
+VBP -> 'r'
+IN -> 'o'
+NN -> 'c'
+NP -> PRP
+ROOT -> S
+DT -> 'a'
+NP-TMP -> NP PP
+VP -> VBP NP
+PP -> IN NP
+S -> NP-TMP NP VP
+NP -> DT NN NN
+NP -> DT NN NN NN
+NP -> NN
+NN -> 'e'
+IN -> 'w'
+ROOT -> NP
+NN -> 't'
+NN -> 'h'
+DT -> 'a'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN NN
+NP -> NP NP NP
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+S -> VP
+NN -> 'v'
+NN -> 'c'
+NN -> 'w'
+NN -> 'b'
+NML -> PP
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+SBAR -> S
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+NN -> 'u'
+VP -> VBZ NP
+NP -> NP NP
+NP -> NP PP
+SBAR -> IN S
+VP -> VBP SBAR
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+VP -> VBP NP
+NP-TMP -> NP SBAR
+NP -> DT NN NN
+NP -> DT NN POS
+NP -> DT NML NN
+S -> NP-TMP NP VP
+NP -> PP NP NP NP
+NP -> NP NML NML NN
+NP -> DT NN NN POS
+NML -> NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN NN
+NP -> NN NN NN NN NN NN NN NN
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+LS -> 'd'
+NML -> NN
+CD -> 'k'
+NML -> PP
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'j'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NML -> NML PP
+NP -> NML NML
+NML -> NN NN
+NP -> NN NN
+NML -> NML NN
+NP -> CD NN
+FRAG -> LST NP
+PP -> IN X
+NML -> DT NN POS
+X -> NP NP NP
+NML -> NML NN NN
+NP -> NML NN NN
+NP -> DT NML NN NN
+NN -> 'f'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+NN -> 'e'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP NP
+PP -> IN NP
+S -> NP VP
+NML -> NML PP
+NML -> NN NN
+NP -> NN NN
+NML -> NML NN NN
+NML -> NN NN NN
+NP -> DT NN NML NML NN
+NP -> DT NML NN NN NN NN NML NN
+IN -> 'o'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+SYM -> 'x'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+NP -> NP NN
+NP -> NN NN
+NP -> NP SYM NP
+NP -> NN NN NN NN NN
+NP -> NN
+ROOT -> NP
+NN -> 't'
+IN -> 'o'
+NN -> 'c'
+NN -> 'n'
+DT -> 'a'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+IN -> 'w'
+NN -> 'e'
+ROOT -> PP
+NN -> 't'
+POS -> 's'
+NN -> 'v'
+NN -> 'm'
+NN -> 'h'
+NN -> 'n'
+DT -> 'a'
+NP -> NP NP
+NP -> NP NML
+PP -> IN NP
+NP -> NN NN
+NP -> DT NN NN POS
+NML -> NN NN NN NN NN NN NN
+NN -> 'f'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'b'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'r'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NP NN
+NML -> NN NN
+NP -> NP NML
+NP -> NML NML NN
+NP -> DT NN POS
+NP -> NML NN POS
+FRAG -> NP NP NP NP NP
+NML -> NN NN NN NN NN NN
+NN -> 'f'
+ROOT -> X
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+PRP -> 's'
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+S -> NP
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+PP -> NP IN
+NP -> NP NN
+NML -> NN NN
+X -> X NP
+NP -> NN NN
+NP -> NP SBAR
+PP -> IN PP
+NP -> NN NN NN
+X -> NP NP NP
+NP -> NML PP POS
+NP -> DT NN NN
+NML -> NN NN NN
+NP -> NML NN NN
+NP -> DT NN NN POS
+NP -> DT NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NN -> 'g'
+PP -> IN
+NN -> 't'
+LS -> 'e'
+NN -> 'c'
+NML -> NN
+CD -> 'k'
+NN -> 'e'
+LST -> LS
+NN -> 'd'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+VP -> VBZ NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NML -> NML PP
+NP -> LST NP
+NML -> NN NN
+NP -> NN NN
+S -> NP NP
+S -> S S
+NP -> NP POS
+NP -> NML PP POS
+NP -> NP PP PP
+NP -> NP NML NN
+NML -> NML NN NN
+NP -> NML NN NN POS
+NP -> DT NN NN NN
+NP -> NN NN NN NN NN
+NP -> NP NN NN NN CD NML NN
+NN -> 'f'
+NN -> 'e'
+ROOT -> NP
+NN -> 't'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+NN -> 'h'
+NN -> 'n'
+DT -> 'a'
+NN -> 'i'
+NP -> NP PP
+NML -> NN NN
+PP -> IN NP
+NP -> NML NML NN
+NP -> DT NN NN NN NN NN NN
+PRP -> 'i'
+NP -> POS
+NN -> 'l'
+IN -> 'o'
+NP -> NN
+NN -> 'g'
+PP -> IN
+NN -> 't'
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+VBP -> 'm'
+NML -> NN POS
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+VP -> VP NP
+NP -> NN PRP
+NML -> NN NN
+NP -> NML NN
+NML -> NML NML
+NP -> NN NML
+PP -> NP IN NP
+VP -> PP VBP NP
+NP -> NN NN NN NN
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+PRP -> 'u'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 'v'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NP -> NP NN
+NML -> NN NN
+PP -> IN PP
+NP -> NN NN NN
+NP -> DT NML NN
+NP -> DT NN NN POS
+FRAG -> NP NP NP NP NP NP
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+NN -> 'b'
+NML -> PP
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+NP -> PRP POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+NML -> NML NP
+NP -> NP NN NN
+NP -> DT NN NN
+NP -> DT NN POS
+NP -> NN NN NN NN NN
+NP -> NP NN NN NP NN NN NN NN NN
+FRAG -> PP NP NP NP NP NP NP NP NP NP NP NP
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'v'
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+CD -> 'i'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> PRP POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> CD NN
+NP -> DT NML NN POS
+NP -> NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP NP NP
+AFX -> 's'
+PRP -> 'i'
+ROOT -> FRAG
+DT -> 'a'
+NN -> 't'
+NN -> 'c'
+CD -> 'm'
+NN -> 'e'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+VP -> VBZ NP
+NP -> NP NP
+S -> NP VP
+NP -> NP SBAR
+FRAG -> NP AFX NP
+NP -> CD NN NN NN
+NP -> DT NN NN NN
+NP -> DT NN NN NN NN
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NP-TMP -> NN
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+IN -> 'w'
+NN -> 'e'
+LST -> LS
+NN -> 'd'
+POS -> 's'
+LS -> 'f'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+FRAG -> FRAG FRAG
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+FRAG -> NP NP
+NP -> LST NP
+FRAG -> NP NP-TMP
+PP -> IN PP
+NP -> NN NN NN NN
+NP -> NN NN NN NN NN
+NP -> NP NN NP NN NP NN NN NN NN
+PRP -> 'i'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 'v'
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NML -> NN POS
+NP -> NP PP
+PP -> IN NP
+PP -> NP IN
+NML -> NML PP
+NML -> NN NN
+NP -> NN NN
+NP -> NP PP PP
+NP -> DT NML NN
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'k'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'j'
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NP -> NP NN
+FRAG -> PP NP
+NML -> NN NN
+NP -> NN NML NN
+NP -> NP PP POS
+NP -> NN NN NN NN NN NN
+NP -> NN NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NP-TMP -> NN
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+CD -> 'k'
+NML -> PP
+NN -> 'b'
+S -> NP
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+PRN -> S
+NN -> 'r'
+NP -> PRP
+VBP -> 'm'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+PP -> PP PP
+S -> NP VP
+ADVP -> NP NP
+ADVP -> ADVP NP-TMP
+NP -> NN NN
+NP -> CD NN
+VP -> VBP NP
+NP -> NP NP-TMP
+NP -> NN NN NN
+VP -> VBP NP S
+NP -> DT NN NN
+NP -> DT CD NN
+NP -> NML NN NN
+NP -> DT NN NN NN
+S -> PP NP ADVP PRN NP VP
+NP -> NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'v'
+NN -> 'b'
+CD -> 'k'
+NN -> 'e'
+CD -> 'i'
+NN -> 'u'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+VBP -> 'm'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+S -> NP VP
+NP -> NN NN
+NP -> NP CD
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NN NML
+NP -> NN CD NN
+NP -> NP NP NP
+NML -> NN NN NN NN NN
+FRAG -> NP NP NP NP NP
+NP -> NN NML CD NN NN
+NML -> NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'v'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NML -> NN NN
+NP -> NN NN
+NP -> NN NML
+NP -> DT NN NN NN
+FRAG -> PP NP NP NP NP NP NP NP
+PRP -> 'u'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NP -> NN
+CD -> 'k'
+IN -> 'w'
+CD -> 'i'
+NN -> 'n'
+NN -> 'y'
+NN -> 'j'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> CD NN
+FRAG -> NP NP-TMP
+PP -> IN PP
+NP-TMP -> CD NN NN
+PRP -> 'i'
+LS -> 'b'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+LS -> 'e'
+NML -> NN
+CD -> 'k'
+LST -> LS
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NML -> CD
+NP -> PRP
+NP -> NP NP
+ADJP -> NP ADJP
+PP -> NN NP
+ADJP -> NML NP
+NP -> NP ADJP
+NP -> LST NN NML
+NP -> LST NP PP
+NP -> NN
+NN -> 'g'
+NN -> 'e'
+PRP -> 'u'
+NN -> 't'
+ROOT -> FRAG
+IN -> 'o'
+NP -> PRP
+NN -> 'i'
+NP -> NP PP
+PP -> IN NP
+FRAG -> NP NP
+NP -> NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+NP -> POS
+IN -> 'o'
+NN -> 'l'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+NN -> 'c'
+NML -> S
+NN -> 'b'
+NML -> PP
+S -> NP
+NN -> 'e'
+IN -> 'w'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+S -> NP VP
+VP -> VBP S
+NP -> POS POS
+NP -> NP NN
+NP-TMP -> DT NN
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+NP -> NN NML
+NP -> NML NML NN
+PP -> IN IN NP
+NP -> NML NN NN
+NP -> NML NN POS
+NML -> NN NN NN
+NP -> DT NN NN NN
+NP -> NP NP-TMP NML NN
+NP -> DT NN NN NN POS
+NML -> NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP NP NP NP NP
+NN -> 'f'
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+S -> VP
+NN -> 'c'
+NP -> CD
+CD -> 'k'
+NML -> PP
+IN -> 'w'
+NN -> 'e'
+CD -> 'i'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+SBAR -> S
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+NML -> NN NN
+NP -> NN NN
+NP -> CD NN
+NP -> NML NN
+NP -> NP SBAR
+VP -> VBP NP
+PP -> IN PP
+NP -> NML NML NN
+NP -> NP NML NN
+NP -> NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP
+NN -> 'f'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'b'
+NN -> 'e'
+NN -> 'u'
+POS -> 's'
+NN -> 'd'
+NN -> 'n'
+NN -> 'i'
+PRN -> S
+NP -> PRP
+VBP -> 'm'
+NP -> NP NP
+NP -> DT NN
+S -> NP VP
+NP -> NN POS
+FRAG -> PRN NP
+VP -> VBP NP
+NP -> DT NN NN NN
+NP -> NP NN NN NN NP NN NP NN NN NN NN
+NN -> 'y'
+NN -> 'b'
+IN -> 'w'
+ROOT -> NP
+NN -> 't'
+PRP -> 'i'
+NP -> PRP
+NN -> 'n'
+DT -> 'a'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> DT NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'b'
+IN -> 'w'
+NN -> 't'
+NN -> 'j'
+ROOT -> FRAG
+NN -> 'c'
+NN -> 'h'
+DT -> 'a'
+NN -> 'k'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> DT NN NN
+FRAG -> NP NP NP NP
+NN -> 'y'
+NN -> 'b'
+ROOT -> NP
+POS -> 's'
+NN -> 'j'
+NN -> 'l'
+NN -> 'u'
+DT -> 'a'
+NN -> 'i'
+NP -> DT NN
+NP -> NN NN
+NP -> NP NN NN
+NP -> NP NP NP
+NP -> DT NN NN NN POS
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 'q'
+NN -> 't'
+CD -> 'k'
+NML -> PP
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+NN -> 's'
+PRN -> S
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+VP -> VBP FRAG
+PP -> PP PP
+S -> NP VP
+NP -> NN POS
+NML -> NN NN
+NP -> NN NN
+NP -> CD NN
+NP -> NML NN
+VP -> VBP NP
+NP -> NN NN NN
+NP -> DT NN POS
+S -> PP PRN NP VP
+NP -> DT NN NN NN
+NP -> NP NN NN NN
+FRAG -> NP NP NP NP NP
+NP -> NP NML NML NN NN NN NN
+NN -> 'f'
+VBP -> 'r'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NP -> NN
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NN -> 'j'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+VP -> VBP S
+NP -> NN NN
+S -> NP NP
+NP -> NP POS
+NP -> NN NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'e'
+ROOT -> NP
+NN -> 't'
+NN -> 'd'
+POS -> 's'
+SYM -> 'x'
+IN -> 'o'
+NN -> 'h'
+NN -> 'i'
+NP -> NN POS
+NP -> NP PP
+PP -> IN NP
+NP -> NP NN
+NP -> NP SYM NP
+NP -> NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NP-TMP -> NN
+DT -> 'a'
+NP -> NN
+ROOT -> SQ
+NN -> 'g'
+NN -> 't'
+LS -> 'e'
+NN -> 'v'
+NN -> 'c'
+NP -> CD
+NN -> 'b'
+NML -> PP
+CD -> 'k'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+CD -> 'i'
+POS -> 's'
+NN -> 'd'
+NML -> NP
+NN -> 'n'
+NN -> 'h'
+NN -> 'y'
+SBAR -> S
+NN -> 'z'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+VP -> VBP SBAR
+PP -> IN NP
+S -> NP VP
+SQ -> S SQ
+NP-TMP -> DT NN
+NML -> NN NN
+NP-TMP -> CD NN
+NP -> NN NN
+NP -> NML NN
+VP -> VBP NP
+SQ -> VBP NP
+NP -> NN NML
+NP -> NP NP-TMP
+PP -> IN PP
+S -> LST NP VP
+NP -> NP PP NP-TMP
+NP -> NN NN NN
+NP -> DT NN NN
+NML -> NML NN NN
+NP -> NML NN NN
+NML -> NP NML NN
+NP -> NML NN POS
+NP -> PP NP NP NP
+NP -> DT NML NN NN
+NP -> DT NN NN NN
+NP -> NP PP NP-TMP SBAR
+NML -> NN NN NN NN NN
+NP -> NN NN NN NN NN NN
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+SYM -> 'x'
+NN -> 'c'
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 's'
+NN -> 'r'
+LS -> 'i'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+VP -> VBP S
+NP -> NP NN
+NML -> NML PP
+PP -> SYM NP
+NML -> NN NN
+NP -> NN NN
+NML -> NML NN
+S -> NP NP
+VP -> VBP NP
+S -> LST NP VP
+NP -> DT NN NN
+PP -> IN IN NP
+NP -> NP NP NP
+NP -> NML NN NN
+S -> S NP VP
+NP -> DT NML NN POS
+NP -> NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+NN -> 'b'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> NN NN
+VP -> VBP NP
+NP-TMP -> NP SBAR
+NP -> DT NN NN
+PP -> IN IN NP
+S -> NP-TMP NP VP
+NP -> NN NN NN NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN NN NN
+NN -> 'y'
+NN -> 'e'
+ROOT -> NP
+NN -> 'h'
+NP -> NML NN
+NML -> NN NN
+PRP -> 'i'
+ROOT -> FRAG
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+VBP -> 'v'
+NN -> 't'
+IN -> 'w'
+NN -> 'e'
+NN -> 'h'
+NN -> 's'
+NP -> PRP
+NP -> NP NP
+FRAG -> FRAG S
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+FRAG -> PP NP
+NP -> NN NN
+VP -> VBP NP
+ROOT -> X
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NP -> POS
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+NML -> NN
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+S -> NP
+POS -> 's'
+LS -> 'f'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> NN POS
+PP -> NP IN
+NML -> NML PP
+X -> NP SBAR
+SBAR -> LST S
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+VP -> VBP NP
+S -> NP NML
+VP -> VBP S NP
+NP -> DT NML NN
+S -> S NP VP
+NP -> NP NML NML NN
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+NN -> 'y'
+NP -> NN
+ROOT -> X
+PRP -> 'u'
+IN -> 'o'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+X -> NP NP NP
+PRP -> 'u'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> PRP POS
+NP -> NP NN
+NP -> DT NN NN
+NP -> NN NN NN NN NN
+MD -> 'd'
+PRP -> 'i'
+IN -> 'o'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+CD -> 'k'
+VP -> NP
+IN -> 'w'
+ROOT -> S
+NN -> 'n'
+NN -> 'j'
+NP -> PRP
+NP -> NP PP
+NP -> PP NP
+PP -> IN NP
+S -> NP VP
+VP -> MD VP
+NP -> CD NN
+NP -> NML NN
+PP -> IN PP
+NML -> NN DT NN
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+PP -> NP IN
+NML -> NN NN
+NP -> NN NN
+PP -> IN PP
+NP -> NP NN NN
+NP -> DT NN NN
+NP -> NP PP PP
+VP -> VBP NP FRAG
+NP -> NML NP NN
+NP -> DT NN NN POS
+FRAG -> NP NP NP NP NP NP NP
+ROOT -> X
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'w'
+NN -> 'b'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NP -> NP PP
+PP -> IN NP
+NP -> NP NN
+NML -> NN NN
+NP -> NML NN
+X -> NP NP NP
+NP -> DT NML NN
+NP -> DT NN NN POS
+NML -> NN NN NN NN NN
+NP -> NN NN NN NN NN
+NNP -> 'i'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NNP -> 'e'
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+S -> VP
+VP -> VBZ NP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+NP -> NNP NNP NNP
+NP -> DT NN POS
+NP -> NML NN NN
+FRAG -> NP NP NP NP
+NP -> DT NN NN NN NN NN NN
+NP -> NP NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 'r'
+NP -> PRP
+VBP -> 'm'
+FRAG -> FRAG S
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+FRAG -> PP NP
+NML -> NML RRC
+NML -> NN NN
+NP -> NN NN
+RRC -> NP NP
+VP -> VBP NP
+NP -> DT NN NN
+NP -> NML NML NN
+NML -> NP NML NN
+NP -> NML NN POS
+NP -> DT NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+VP -> VBP
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'v'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'h'
+ROOT -> S
+SBAR -> S
+NP -> PRP
+S -> VP
+NP -> NP PP
+VP -> VBP SBAR
+PP -> IN NP
+S -> NP VP
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NML NN
+PP -> IN IN NP
+NML -> NN NN NN
+NP -> PP DT NML NN
+NML -> NN NN NN NN NN
+PRP -> 'u'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'e'
+POS -> 's'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+PP -> IN NP
+NP -> DT NN
+NP -> NP NN
+FRAG -> NP NP
+NML -> NN NN
+NP -> NP NML
+NP -> NP PP POS
+PRP -> 'u'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'e'
+POS -> 's'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+PP -> IN NP
+NP -> DT NN
+NP -> NP NN
+FRAG -> NP NP
+NML -> NN NN
+NP -> NP NML
+NP -> NP PP POS
+NN -> 'f'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+NP -> CD
+CD -> 'k'
+NML -> PP
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+NML -> NN NN
+NP -> NN NN
+NP -> NN NN NN
+PP -> IN IN NP
+NP -> NP NML NML NN NN NN NN
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 'b'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+NML -> NML PP
+NML -> NN NN
+NP -> DT NML NN NN
+NN -> 'f'
+ROOT -> X
+PRP -> 'u'
+PRP -> 'i'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+VP -> VBZ
+NN -> 'e'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+X -> X NP
+NP -> NP SBAR
+NP -> NN NN NN
+X -> NP NP NP
+NP -> DT NN NN
+NP -> DT NN NN NN
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+NN -> 'b'
+VBP -> 'r'
+NP -> DT
+ROOT -> FRAG
+NN -> 'c'
+NN -> 'h'
+NN -> 'u'
+DT -> 'a'
+NN -> 'p'
+NP -> NP NP
+S -> NP VP
+VP -> VBP NP
+NML -> NN NN
+NP -> DT NN
+FRAG -> NP S
+NP -> NML NN NN
+NN -> 'b'
+VBP -> 'r'
+NP -> DT
+ROOT -> FRAG
+NN -> 'c'
+NN -> 'h'
+NN -> 'u'
+DT -> 'a'
+NN -> 'p'
+NP -> NP NP
+S -> NP VP
+VP -> VBP NP
+NML -> NN NN
+NP -> DT NN
+FRAG -> NP S
+NP -> NML NN NN
+NN -> 'b'
+VBP -> 'r'
+NP -> DT
+ROOT -> FRAG
+NN -> 'c'
+NN -> 'h'
+NN -> 'u'
+DT -> 'a'
+NN -> 'p'
+NP -> NP NP
+S -> NP VP
+VP -> VBP NP
+NML -> NN NN
+NP -> DT NN
+FRAG -> NP S
+NP -> NML NN NN
+NN -> 'b'
+VBP -> 'r'
+NP -> DT
+ROOT -> FRAG
+NN -> 'c'
+NN -> 'h'
+NN -> 'u'
+DT -> 'a'
+NN -> 'p'
+NP -> NP NP
+S -> NP VP
+VP -> VBP NP
+NML -> NN NN
+NP -> DT NN
+FRAG -> NP S
+NP -> NML NN NN
+PRP -> 'u'
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'c'
+NN -> 'e'
+IN -> 'w'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'z'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+FRAG -> NP NP
+NP -> NP SBAR
+VP -> VBP NP
+NP -> DT NN NN
+PP -> IN IN NP
+PRP -> 'i'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+PP -> IN
+NN -> 't'
+NN -> 'c'
+NN -> 'b'
+NML -> PP
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NP NN
+NML -> NML RRC
+NML -> NN NN
+NP -> NN NN
+RRC -> NP NP
+NP -> DT NN POS
+NP -> NP NML NN
+NP -> NP PP POS
+NML -> NML NN NN
+NP -> NML NN POS
+ROOT -> X
+PRP -> 'u'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'e'
+CD -> 'i'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'j'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+PP -> NP IN
+NP -> NP NN
+NML -> NN NN
+X -> X NP
+NML -> NML NP
+X -> NP NP NP
+NP -> NP NN NN
+NP -> NN NN POS
+NP -> NP NML NN
+NP -> NP PP POS
+NP -> DT NML NN
+NP -> NML NN POS
+NML -> NN NN NN
+NP -> DT NN CD NN
+NML -> NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN NN NN NN NN NN NN
+PRP -> 'u'
+VBP -> 'r'
+IN -> 'o'
+NN -> 'k'
+NN -> 'p'
+NN -> 't'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+ROOT -> S
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+NML -> NN POS
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NML -> NN NN
+VP -> VBP NP
+NML -> NML NML
+NP -> NN NML
+NP -> NN NN NN NN NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'e'
+IN -> 'w'
+VBP -> 'r'
+NN -> 'v'
+NN -> 'l'
+ROOT -> S
+S -> NP VP
+NP -> NML NN
+NML -> NN NN
+PP -> IN NP
+NP -> NN NN
+VP -> VBP NP PP
+NN -> 'f'
+ROOT -> X
+PRP -> 'u'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NML -> NN
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+CD -> 'i'
+NN -> 'd'
+POS -> 's'
+LS -> 'f'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+NP -> NML CD
+NP -> NN CD
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+NP -> NP NN
+X -> NP SBAR
+SBAR -> LST S
+NML -> NN NN
+NP -> NN NN
+VP -> VBZ FRAG
+S -> NP NML
+NP -> NN NML
+NP -> DT NN NN
+NML -> NML NN NN
+S -> S NP VP
+NML -> NN NN NN
+NP -> NN NN NN NN
+NP -> DT NML CD NML NN NN
+NP -> NN NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP NP NP NP NP NP
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'x'
+ROOT -> NP
+NN -> 't'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NML -> NN NN
+NP -> NN NN
+PP -> IN PP
+NP -> DT NML NN
+NP -> DT NN NN NN
+NP -> NP PP PP NP
+NP -> NN NN NN NN NN NN NN NN NN NN
+NN -> 'e'
+ROOT -> NP
+PP -> IN
+NN -> 'l'
+IN -> 'o'
+NN -> 'h'
+NP -> NP PP
+NML -> NN NN
+NP -> NML NN NN
+NN -> 'y'
+NN -> 'f'
+LS -> 'c'
+NN -> 'e'
+LST -> LS
+ROOT -> NP
+NN -> 'u'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+NN -> 'n'
+DT -> 'a'
+PP -> IN NP
+NP -> NN NML
+NP -> DT NN NN
+NP -> LST NP PP
+NML -> NN NN NN NN NN NN
+NN -> 'y'
+NN -> 'f'
+NN -> 'r'
+NN -> 'e'
+ROOT -> NP
+NN -> 'u'
+NN -> 'd'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'i'
+NP -> NP PP
+PP -> IN NP
+NP -> NN NN
+NP -> NP NP NP
+NP -> DT NN NN
+NP -> DT NN NN NN NN NN NN
+PRP -> 'u'
+LS -> 'h'
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+NN -> 'd'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+FRAG -> NP NP
+NP -> LST NP
+FRAG -> NP PP
+FRAG -> FRAG FRAG FRAG
+NP -> NN NN NP NN NN NN
+NP -> NN NN NN NN NN NN NN NN NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'r'
+NN -> 'e'
+ROOT -> NP
+PRP -> 'u'
+NN -> 'n'
+IN -> 'o'
+NN -> 'w'
+NP -> PRP
+NN -> 'm'
+DT -> 'a'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> DT NN NN
+NN -> 'r'
+NN -> 'e'
+ROOT -> NP
+NN -> 't'
+NN -> 'u'
+NN -> 'm'
+DT -> 'a'
+NP -> NP NP
+NML -> NN NN
+NP -> DT NN
+NP -> DT NML NN NN
+NML -> PP
+IN -> 'w'
+PP -> IN
+ROOT -> PP
+IN -> 'o'
+NN -> 'w'
+NP -> NML NN
+PP -> IN NP
+PRP -> 'i'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NML -> PP
+NN -> 'e'
+IN -> 'w'
+CD -> 'i'
+POS -> 's'
+NN -> 'r'
+NP -> NP NP
+NP -> NP PP
+NP -> POS NN
+PP -> IN NP
+NP -> CD NN
+NP -> DT PRP
+NP -> DT NML NN
+PRP -> 'u'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+NN -> 't'
+NN -> 'c'
+NP -> PP
+NN -> 'b'
+NN -> 'e'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+VP -> VBZ NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NML NN
+NML -> NN NN NN NN NN NN
+NP -> NN NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+NN -> 'e'
+CD -> 'i'
+NN -> 'h'
+NN -> 'n'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+S -> VP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP-TMP -> DT NN
+NML -> NN NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NP NP-TMP PP
+NML -> NML NN NN
+NP -> CD NML NN
+FRAG -> NP NP NP NP
+NN -> 'e'
+ROOT -> NP
+PP -> IN
+NN -> 'l'
+IN -> 'o'
+NN -> 'h'
+NP -> NP PP
+NML -> NN NN
+NP -> NML NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NML -> PP
+NN -> 'e'
+CD -> 'm'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> CD NN
+NP -> NML NN
+VP -> VBP NP
+NP -> DT NN NN NN NN NN NN NN NN NN
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'o'
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+CD -> 'k'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'h'
+NN -> 'y'
+NP -> PRP
+LS -> 'i'
+NP -> NP PP
+PP -> IN NP
+NP -> NP NN
+NP -> NN NN
+NP -> CD NN
+NP -> DT NN NN POS
+NP -> DT NN NN NN NN NN
+NP -> LST NP NP NP NP NP NP
+PRP -> 'u'
+PRP -> 'i'
+VP -> VBP
+VBP -> 'r'
+IN -> 'o'
+DT -> 'a'
+NN -> 'k'
+NN -> 'p'
+NN -> 't'
+LS -> 'e'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'd'
+VBZ -> 's'
+ROOT -> S
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+PRN -> S
+NN -> 'r'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP NP
+PP -> IN NP
+NP -> DT NN
+NML -> NN DT
+S -> NP VP
+NP -> NP NN
+S -> PRN S
+NP -> NP SBAR
+S -> NP NML
+NP -> NP NN NN
+NP -> NN NN POS
+NP -> NP NP POS
+NP -> LST NP PP
+NP -> NN NN NN NN NN
+NN -> 'f'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NP-TMP -> NN
+NN -> 'm'
+DT -> 'a'
+NN -> 'g'
+NN -> 't'
+NN -> 'e'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+NN -> 'r'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NML -> NN NN
+S -> NP NP
+S -> S S
+NP -> NP NP-TMP
+NML -> NN DT NN
+NP -> NML NN NN POS
+NP -> NML NN NN NN NN NN NML NN
+AFX -> 's'
+PRP -> 'u'
+VBP -> 'r'
+NP -> POS
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'g'
+NN -> 't'
+NML -> PP
+S -> NP
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NP -> PRP
+NP -> NP NP
+PP -> IN NP
+VP -> VBP PP
+NP -> NML NN NN
+NP -> DT NN NN NN
+S -> S NP VP AFX
+NP -> NN NN NN NN NN NN
+NN -> 'f'
+VBP -> 'r'
+NP -> POS
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'b'
+CD -> 'k'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+VP -> PP VP
+PP -> IN NP
+S -> NP VP
+VP -> VP NP
+NML -> NN NN
+VP -> VBP NP
+NML -> NN DT NN
+NP -> DT CD NML NN NN
+NP -> NML NML NN NN NN NN
+PRP -> 'i'
+VBP -> 'r'
+VP -> VBP
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'g'
+NN -> 't'
+S -> VP
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+SBAR -> S
+NN -> 'r'
+LS -> 'i'
+NP -> PRP
+VBP -> 'm'
+FRAG -> FRAG S
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+S -> NP VP
+FRAG -> NP NP
+NP-TMP -> DT NN
+NP -> LST NN
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NP NP-TMP
+NP -> NN NN NN
+NP -> NML NN NN
+NP -> NP NML NN NN
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NN -> 'v'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'i'
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+PP -> NP IN
+NML -> NN NN
+NP -> NN NN
+NP -> DT NML NN NN
+NN -> 'l'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NN -> 'x'
+ROOT -> NP
+NN -> 't'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NN -> 'u'
+NML -> NN NN
+NP -> NP NP NP
+NP -> DT NML NN
+NP -> NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+S -> NP
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> PRP POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+PP -> IN PP
+PP -> IN PP NP
+VP -> VBP NP S
+NP -> DT NML NN
+NP -> DT NN NN NN
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+CD -> 'k'
+IN -> 'w'
+NN -> 'e'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+PP -> IN NP
+S -> NP VP
+PP -> NP IN
+FRAG -> NP NP
+NP -> CD NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> DT NN NN
+NP -> NP PP PP PP
+VBP -> 'r'
+PRP -> 'i'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+NN -> 'v'
+NN -> 'e'
+NN -> 'h'
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+VP -> VBP SBAR
+PP -> IN NP
+S -> NP VP
+VP -> VBP S
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+S -> NP NP
+NP -> NML NN
+NP -> DT NML NML NN
+PRP -> 'u'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'p'
+NN -> 'g'
+NN -> 't'
+NN -> 'b'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+FRAG -> NP NP NP
+NP -> NN NN POS
+PP -> IN IN NP
+NP -> NML NN NN
+NP -> NN NN NN NN NN
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'r'
+NP -> NP PP
+PP -> IN NP
+NML -> NN NN
+NP -> NN NN
+PP -> IN IN NP
+NP -> NML NN NN
+NP -> DT NN NN NN NN
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+S -> VP
+NP -> NP NP
+NML -> NN POS
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+PP -> NP IN
+NML -> NN NN
+NP -> NML NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NN NML
+NML -> NN NML
+NP -> DT NN NN
+NP -> NP PP PP
+PP -> IN IN NP
+NP -> DT NML NN
+FRAG -> NP NP NP NP NP NP NP NP
+NN -> 'y'
+NN -> 'b'
+NN -> 'e'
+PRP -> 'u'
+NN -> 't'
+VBP -> 'r'
+NN -> 'd'
+IN -> 'o'
+NP -> PRP
+ROOT -> S
+DT -> 'a'
+S -> NP VP
+NP -> NP PP
+NP -> NML NN
+VP -> VBP NP
+NML -> NN NN
+PP -> IN NP
+NP -> DT NN NML NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NML -> S
+NN -> 'b'
+NML -> PP
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NML -> NN POS
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NN POS
+NML -> NML PP
+NML -> NN NN
+NP -> NN NN
+VP -> VBP NP
+NP -> NN NML
+NP -> NP NML NN
+NP -> DT NN NN NN NN
+NP -> NML NML NP NML NN NN
+NML -> NN NN NN NN NN NN NN
+NP -> DT NML NN NN NN NN NN NN NN NN NML NN
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NML -> NN NN
+NP -> NML NN
+FRAG -> NP NP NP NP NP NP NP NP NP
+NN -> 'f'
+VBP -> 'r'
+PRP -> 'i'
+ROOT -> FRAG
+NP -> POS
+IN -> 'o'
+NN -> 'l'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'b'
+S -> NP
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+SBAR -> S
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+VP -> VBP S
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+NP -> NP SBAR
+NP-TMP -> NP SBAR
+PP -> IN PP
+NP -> NN NN NN
+VP -> VBP NP NP-TMP
+NP -> DT NN NN
+FRAG -> NP NP NP NP NP NP
+NP -> NN NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+VP -> VBP
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'l'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+NP -> CD
+NN -> 'b'
+CD -> 'k'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+NN -> 'r'
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+SBAR -> IN S
+VP -> VBP SBAR
+PP -> IN NP
+NML -> DT NN
+S -> NP VP
+PP -> NP IN
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+FRAG -> S NP
+NP -> NP SBAR
+NP -> NML NN
+VP -> VBP NP
+NP -> NN NML NN
+PP -> PP PP NML
+NP -> DT NN NN
+PP -> IN IN NP
+NP -> DT NN POS
+NP -> NP NML NN
+NP -> NP PP POS
+NML -> NP NML NN
+NP -> DT NML NN
+NP -> NML NN POS
+NP -> NML NN NN POS
+NP -> DT NN NN POS
+NP -> NN NN NN NN NN NN NN NN NN NN
+VBP -> 'r'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NN -> 'r'
+PP -> IN NP
+S -> NP VP
+NML -> NN NN
+NP -> NN NN
+VP -> VBP NP
+S -> S S
+NP -> NN NML
+VP -> VBP PP PP
+NP -> DT NN NML NN
+NML -> NN NN NN NN NN NN
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'v'
+CD -> 'k'
+NN -> 'e'
+IN -> 'w'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+FRAG -> NP NP
+NML -> NN NN
+FRAG -> S FRAG
+NP -> NML NN
+PP -> IN PP
+NP -> DT NML CD NN
+NN -> 'f'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+ROOT -> SQ
+NN -> 'g'
+VBP -> 'v'
+NN -> 't'
+NN -> 'v'
+NN -> 'c'
+VP -> VBZ
+NN -> 'b'
+S -> NP
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+NN -> 'd'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+IN -> 'v'
+NN -> 'r'
+LS -> 'i'
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+NP -> NP FRAG
+NP -> DT NN
+PP -> IN NP
+S -> NP VP
+NP -> NN POS
+NP-TMP -> NP NP
+NP-TMP -> NP SBAR
+SQ -> S SQ
+NML -> NN NN
+NP -> NP SBAR
+NP -> NML NN
+VP -> VBP NP
+SQ -> VBP NP
+NP -> NN NML
+S -> LST NP VP
+NP -> NN NN NN
+NP -> NP NN NN
+NP -> DT NN NN
+PP -> IN IN NP
+NP -> DT NN POS
+NP -> NP NP NP
+NP -> NML NN NN
+FRAG -> S NP-TMP NP
+NP -> DT NN NN NN
+VP -> VBP NP S NP-TMP
+NP -> NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+NP -> POS
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'c'
+S -> NP
+NN -> 'e'
+POS -> 's'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+FRAG -> NP NP
+NP -> NP SBAR
+NP -> DT NN NN
+VP -> VBP S NP
+NP -> NN NN NN NN NN NN NN
+NP -> NN
+IN -> 'w'
+NN -> 't'
+PRP -> 'i'
+ROOT -> FRAG
+DT -> 'a'
+NP -> DT PRP
+PP -> IN NP
+FRAG -> PP NP
+NN -> 'r'
+NN -> 'e'
+ROOT -> NP
+PRP -> 'u'
+NN -> 't'
+IN -> 'o'
+NP -> PRP
+NN -> 'h'
+NN -> 'm'
+DT -> 'a'
+NP -> NML NN
+NML -> NN NN
+PP -> IN NP
+NP -> DT NN
+NP -> NN NN
+NML -> NML PP
+NP -> NP NP NP
+NP -> CD
+CD -> 'k'
+ROOT -> X
+IN -> 'o'
+X -> PP
+PP -> IN NP
+AFX -> 's'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+IN -> 'o'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+LS -> 'e'
+CD -> 'k'
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+PRN -> S
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+VP -> VBP S
+NP -> NN NN
+S -> NP NP
+VP -> VBP NP
+S -> PRN NP VP
+NP -> NN NN NN
+NP -> NN NN POS
+NP -> NP AFX NP
+NP -> NN NN CD
+NP -> LST NP PP
+NP -> NP NN NN POS
+NP -> NP NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+LS -> 'b'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NN -> 't'
+NML -> PP
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+NP -> NP NN
+NP -> NN NN
+NP -> NP NN NN
+NP -> NML NN NN
+NP -> NN NN NN NN NN NN
+FRAG -> LST NP NP NP NP NP
+NN -> 'f'
+PRP -> 'i'
+NP -> POS
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'w'
+NP -> CD
+CD -> 'k'
+S -> NP
+NN -> 'e'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+PP -> NP NP
+NML -> NN NN
+VP -> NP S
+VP -> VP VP
+NP -> NML NN
+VP -> PP VBZ NP
+NP -> DT NN POS
+NP -> NML NN POS
+NN -> 'f'
+LS -> 'c'
+PRP -> 'u'
+LS -> 'h'
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+NP -> LST LS
+PP -> IN NP
+NP -> NN POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> DT PRP
+NP -> NP NN NN
+NP -> NML NN POS
+FRAG -> NP NP NP NP NP NP
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NML -> PP
+NN -> 'e'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+VP -> VBZ NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP-TMP -> NP NP
+NP -> NN NN
+NML -> NML NP
+S -> NP-TMP NP VP
+NP -> NML NML NN NN NN
+NP -> NP PP PP PP NP
+NP -> NN NN NN NN NN
+NML -> NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NP -> POS
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'v'
+NN -> 'c'
+NP -> CD
+CD -> 'k'
+NML -> PP
+NN -> 'b'
+S -> NP
+IN -> 'w'
+NN -> 'e'
+CD -> 'i'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+NP -> NML CD
+NP -> PP NP
+NP -> NN CD
+PP -> IN NP
+NML -> DT NN
+S -> NP VP
+NP -> POS POS
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+SQ -> VBP NP
+NP -> NN NN NN
+S -> S S SQ
+NP -> DT NN NN
+VP -> VBP S PP
+NP -> NP CD NN
+VP -> VBP NP FRAG
+NP -> NP NP NP
+NP -> DT NML NN
+NML -> NN NN NN
+NP -> DT NML NN NN
+NP -> NN NN NN NN
+FRAG -> NP NP NP NP NP
+NP -> NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+PRN -> SINV
+NP -> NN
+NN -> 'g'
+VBP -> 'v'
+NN -> 't'
+NN -> 'v'
+NN -> 'c'
+CD -> 'k'
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+VP -> VBP S
+NP -> POS POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> CD NN
+S -> NP NP
+NP -> NML NN
+NP -> NP SBAR
+VP -> VBP NP
+SINV -> VP NP
+PP -> IN PP
+NP -> NN NN NN
+NP -> DT NN NN
+NP -> NN NN POS
+NP -> NP PP PP
+NP -> NP PRN NP
+NP -> NP NP NP
+NP -> DT NML NN NN
+NP -> NN NN NN NN
+NP -> DT NN NN NN
+NP -> DT NN NN POS
+NP -> NP NML NN NN
+NML -> NN NN NN NN NN
+NML -> NN NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+VP -> VBP
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+VBP -> 'v'
+ROOT -> NP
+NN -> 't'
+NML -> S
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'n'
+NN -> 'y'
+IN -> 'v'
+NP -> PRP
+SBAR -> IN S
+VP -> VBP SBAR
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+PP -> NP IN
+NP -> NN NN
+NML -> NML NN
+NP -> NP NML
+NP -> NP PP PP
+NP -> NP PP POS
+ROOT -> X
+PRP -> 'u'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'e'
+NN -> 'd'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NML -> NN NN
+X -> NP NP NP
+NP -> DT NN NN
+NP -> NML NN NN
+NN -> 'f'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+CD -> 'b'
+NN -> 'm'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NN -> 'v'
+NML -> NN
+NN -> 'e'
+IN -> 'w'
+CD -> 'i'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'j'
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NML -> NML PP
+NML -> NN NN
+NP -> CD NN
+NP -> CD NN NN
+NP -> DT NN NN
+NP -> NP NP NP
+NP -> NML NN NN
+NML -> NP NML NN
+NP -> NML NN POS
+NP -> DT NML POS
+NP -> NP NN NN NN NN NN NN NML NN
+PRP -> 'u'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+CD -> 'k'
+IN -> 'w'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN NN
+NP -> CD NN
+PP -> IN PP
+NN -> 'b'
+NN -> 'e'
+ROOT -> NP
+NN -> 't'
+POS -> 's'
+NN -> 'n'
+NN -> 'l'
+IN -> 'o'
+NN -> 'h'
+NN -> 'u'
+NP -> NP PP
+NML -> NN NN
+PP -> IN NP
+NP -> NP NN
+NP -> NP NML NN
+NP -> NN NN POS
+NP -> NML NN NN POS
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'v'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NP NN
+FRAG -> PP NP
+FRAG -> NP NP
+NML -> NN NN
+NP -> NN NN
+PP -> IN PP
+NP -> DT NN POS
+NP -> NML NN NN
+FRAG -> FRAG FRAG FRAG
+NP -> NP NN NN POS
+NP -> NN NN NN NN NN
+NP -> NN NN NN NN NN NN
+NP -> NN NN NN NN NN NN NN
+PRP -> 'u'
+LS -> 'b'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'k'
+ROOT -> NP
+PP -> IN
+NN -> 't'
+NN -> 'c'
+LST -> LS
+NN -> 'd'
+NN -> 'n'
+NN -> 'i'
+NN -> 'j'
+NP -> PRP
+NP -> NP PP
+NP -> NN NN
+NP -> DT NN NN
+NP -> LST NP NP NP NP
+NP -> DT NN NN NN NN NN NN NN
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NN -> 't'
+NN -> 'e'
+IN -> 'w'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+FRAG -> FRAG S
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+FRAG -> NP NP
+NML -> NN NN
+VP -> VBP PP
+NP -> DT NN NN
+NP -> NML NN NN
+NP -> NN NN NN NN
+PRP -> 'u'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'w'
+NP -> CD
+NN -> 'b'
+CD -> 'k'
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP-TMP -> NN NN
+NP -> NN POS
+FRAG -> PP NP
+NML -> NML PP
+NP -> NML NML
+NP-TMP -> DT NN
+NML -> NN NN
+FRAG -> NP PP
+NP -> NN NN
+NP -> NML NN
+FRAG -> NP NP-TMP
+PP -> IN PP
+NP -> DT NN NN
+NP -> DT NN POS
+FRAG -> FRAG FRAG FRAG
+NP -> NP NN NP-TMP
+NML -> NN NN NN NN NN NN
+NP -> NN NN NN NN NN NN
+PRP -> 'u'
+NP -> POS
+IN -> 'o'
+QP -> DT
+DT -> 'a'
+NP -> NN
+NN -> 't'
+VP -> VBZ
+IN -> 'w'
+POS -> 's'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+VP -> PP VP
+PP -> IN NP
+NP -> QP NN
+S -> NP VP
+VP -> VP NP
+PP -> IN PP
+NP -> DT NN NN
+NP -> NN
+NN -> 'r'
+NN -> 'e'
+ROOT -> NP
+NN -> 't'
+POS -> 's'
+NN -> 'n'
+DT -> 'a'
+NN -> 'p'
+NP -> NP NP
+NP -> NN POS
+NP -> DT NN NN NN NN
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+NN -> 'g'
+NN -> 'e'
+DT -> 'a'
+VBP -> 'r'
+PRP -> 'i'
+NN -> 'v'
+NP -> PRP
+ROOT -> S
+NN -> 'n'
+S -> NP VP
+NP -> NP NP
+VP -> VBP NP
+NML -> NN NN
+NP -> DT NN
+NP -> DT NP NN
+NP -> NN NML NN
+NN -> 'y'
+NP -> NN
+NN -> 'r'
+ROOT -> NP
+PRP -> 'i'
+POS -> 's'
+IN -> 'o'
+NP -> PRP
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NP -> NP NP
+NML -> NN POS
+NP -> NP PP
+PP -> IN NP
+NP -> NN NN
+NML -> NML PP
+NP -> DT NML NN
+PRP -> 'u'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+NML -> NN
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NML -> NML PP
+NP -> NN NN
+PP -> IN PP
+X -> NP NP NP
+NP -> NML NN NN
+NP -> NP PP X
+NP -> DT NN NN NN
+NP -> DT NN NN NN NN NN NN
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NN -> 'v'
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+LS -> 'i'
+NP -> NP NP
+NP -> NN POS
+NP -> LST NP
+NML -> NN NN
+NP -> DT NN POS
+NML -> NP NML NN
+NP -> NML NN POS
+NP -> NP NN NML NN NN NN
+PRP -> 'i'
+NN -> 'l'
+NP-TMP -> NN
+DT -> 'a'
+CD -> '3'
+NN -> 't'
+NN -> 'c'
+CD -> '5'
+CD -> 'k'
+NN -> 'e'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> DT NN
+NML -> CD CD
+NP-TMP -> NP NP
+NP -> NN NN
+S -> NP NP
+S -> S S
+NP -> DT NN POS
+S -> NP-TMP NP VP
+VP -> VBZ NP-TMP NP
+NP -> CD NN NML NN
+NP -> DT NN NN NN
+NN -> 'y'
+NP -> NN
+NN -> 'e'
+PRP -> 'u'
+NN -> 'd'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+NP -> PRP
+NN -> 'n'
+NP -> NP PP
+PP -> IN NP
+NP -> NN NML
+FRAG -> NP NP
+NML -> NN NN NN NN NN
+NN -> 'y'
+NN -> 'e'
+ROOT -> NP
+PRP -> 'u'
+NN -> 'd'
+IN -> 'o'
+NP -> PRP
+NN -> 'n'
+DT -> 'a'
+NN -> 'i'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN NN NN NN NN NN NN NN
+NN -> 's'
+ROOT -> NP
+POS -> 's'
+NN -> 'u'
+NN -> 'p'
+NP -> NP NN
+NP -> NN NN POS
+LS -> 'c'
+AFX -> 's'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'w'
+NML -> S
+NML -> PP
+NN -> 'e'
+LST -> LS
+NN -> 'd'
+POS -> 's'
+NP -> AFX
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NP -> PRP
+SBAR -> S
+NN -> 'r'
+S -> VP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+S -> NP VP
+NP -> NN NN
+NP -> NML NN
+VP -> VBP NP
+NP -> NP NML
+NP -> NP SBAR
+NP -> DT NN NN
+NP -> LST NP PP
+NP -> DT NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP
+NN -> 'f'
+ROOT -> X
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+NN -> 't'
+LS -> 'e'
+IN -> 'w'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+VP -> VBP S
+NP -> LST NP
+NML -> NN NN
+X -> X NP
+NP -> NN NN
+NML -> NP NN
+NP -> NML NN
+S -> NP NP
+NP -> NP VP
+X -> NP NP NP
+NP -> NML NN NN
+NP -> NML NN POS
+VBP -> 'r'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'v'
+NN -> 'e'
+LST -> LS
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+LS -> 'i'
+NP -> NP NP
+FRAG -> FRAG S
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+FRAG -> NP NP
+NP -> LST NN
+VP -> VBP NP
+NP -> DT NN NN
+NP -> DT NN NN NN
+PRP -> 'u'
+PRP -> 'i'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'u'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+SBAR -> S
+NP -> PRP
+VBP -> 'm'
+VP -> VBZ NP
+NP -> DT NN
+S -> NP VP
+VP -> VBP NP
+NP-TMP -> NP SBAR
+S -> NP-TMP NP VP
+NP -> NN NN NN NN NN NN NN NN NN
+AFX -> 's'
+PRP -> 'i'
+LS -> 'b'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NML -> PP
+LST -> LS
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+SBAR -> S
+NP -> PRP
+VP -> VBZ NP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> LST NP
+NP -> NP SBAR
+NP -> NP AFX NP
+NP -> NML NN NN
+AFX -> 's'
+PRP -> 'i'
+LS -> 'b'
+DT -> 'a'
+ROOT -> NP
+NN -> 't'
+LST -> LS
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+SBAR -> S
+NP -> PRP
+VP -> VBZ NP
+NP -> DT NN
+S -> NP VP
+NP -> LST NP
+NP -> NN NN
+NP -> NP SBAR
+NP -> NP AFX NP
+NN -> 'f'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+LS -> 'd'
+NML -> PP
+IN -> 'w'
+LST -> LS
+NN -> 'e'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NML -> NML PP
+NML -> NN NN
+NP -> NML NN
+NP -> NN NN NN
+NP -> DT NN NN
+PP -> IN IN NP
+NP -> DT NML NN
+FRAG -> LST NP NP NP NP NP NP NP NP
+PRP -> 'i'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+ROOT -> NP
+PP -> IN
+NN -> 't'
+NN -> 'w'
+CD -> 'k'
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> CD NN
+PP -> IN PP
+NP -> NP NN NN
+NP -> NP PP POS
+NP -> DT CD NN NN
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+PRP -> 's'
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+NML -> NN
+CD -> 'k'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+VP -> VBP SBAR
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> NP X
+NP -> NN POS
+NP -> PRP POS
+NP -> NP NN
+NML -> NML PP
+NML -> NN NN
+X -> X NP
+NP -> NN NN
+NP -> CD NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NML NN
+X -> NP NP NP
+NP -> NP NN NN
+NP -> DT NN POS
+NP -> NP NML NN
+NP -> NP PP POS
+NML -> NML NN NN
+NP -> NML NN NN
+NP -> NP NML NML NN
+NP -> DT NN NN POS
+NP -> NP NML NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'k'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+NP -> CD
+CD -> 'k'
+NN -> 'e'
+IN -> 'w'
+LST -> LS
+NN -> 'd'
+LS -> 'f'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'y'
+PRN -> S
+NN -> 'r'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NML -> NN NN
+NP -> NN NN
+NP -> LST IN
+S -> PRN NP VP
+NP -> NN NN NN
+VP -> VBP NP FRAG
+PP -> IN IN NP
+NP -> NML NN NN
+NP -> DT NML NN
+NP -> NP PP PP PP
+FRAG -> NP NP NP NP NP
+NN -> 'f'
+NP -> POS
+IN -> 'o'
+NN -> 'm'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+NML -> NN
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> NP PP
+PP -> IN NP
+NML -> NML PP
+NP -> NML NML
+NML -> NN NN
+NP -> NN NN
+NP -> NML NN
+NML -> NP NML NN
+NP -> NML NN POS
+AFX -> 's'
+PRP -> 'u'
+VBP -> 'r'
+VP -> VBP
+IN -> 'o'
+DT -> 'a'
+NN -> 'g'
+ROOT -> NP
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+NP -> PP NP
+PP -> IN NP
+S -> NP VP
+NP -> NN NN
+NP -> NP SBAR
+NP -> NP PP AFX
+NP -> DT NN NN NN
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NN -> 'g'
+NN -> 't'
+NP-TMP -> CD
+CD -> 'k'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+NP -> NP NN
+NP -> NN NN
+NP -> NP NP-TMP
+FRAG -> NP NP NP
+NP -> DT NN POS
+NP -> NN NN NN NN NN
+NP -> NN NN NP NN NN NN
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+VP -> VBP
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+PP -> IN
+NN -> 't'
+NN -> 'c'
+NML -> NN
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+SBAR -> S
+NN -> 'j'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NP X
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+NP -> NML NN
+X -> NP NP NP
+NP -> NML DT NN
+NP -> NML NN NN
+NP -> DT NML NN
+NP -> NML NN POS
+NML -> NN NN NN NN NN
+NP -> NP NN NN NN NN NN NN
+NN -> 'f'
+IN -> 'o'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+PP -> IN
+NN -> 't'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'h'
+NN -> 'r'
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> NP NN
+NML -> NN NN
+NP -> NML NN
+NP -> NN NN POS
+NP -> NP PP PP
+PP -> IN IN NP
+NML -> NN NN NN NN NN
+NN -> 'f'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+PP -> FRAG
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'd'
+NN -> 'n'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+FRAG -> PP PP
+FRAG -> NP NP
+NP-TMP -> DT NN
+NML -> NN NN
+NP -> NN NN
+NP -> NP POS
+NP -> NP NP-TMP PP
+NP -> DT NN POS
+NP -> NML NP NN
+NP -> NN NN NN NN NN NN NN
+NN -> 'y'
+IN -> 'w'
+ROOT -> NP
+PRP -> 'u'
+NN -> 'e'
+NN -> 'd'
+NN -> 'm'
+IN -> 'o'
+NP -> PRP
+NN -> 'n'
+DT -> 'a'
+NP -> NP PP
+PP -> IN PP
+NP -> NML NN
+NML -> NN NN
+PP -> IN NP
+NP -> DT NN NN NN
+NN -> 'y'
+IN -> 'w'
+NN -> 'e'
+ROOT -> NP
+PRP -> 'u'
+PRP -> 'i'
+IN -> 'o'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NP -> NN NN
+PP -> IN PP
+PRP -> 'u'
+LS -> 'h'
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+NN -> 'd'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+FRAG -> NP NP
+NP -> LST NP
+FRAG -> NP PP
+FRAG -> FRAG FRAG FRAG
+NP -> NN NN NP NN NN NN
+NP -> NN NN NN NN NN NN NN NN NN NN
+NN -> 'g'
+NN -> 'r'
+NN -> 'e'
+NN -> 't'
+PRP -> 'i'
+VBP -> 'r'
+NP -> PRP
+NN -> 'h'
+ROOT -> S
+NN -> 'u'
+DT -> 'a'
+NN -> 'i'
+S -> NP VP
+NP -> NP NP
+VP -> VBP NP
+NP -> DT NN
+NP -> NN NN NN NN NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+IN -> 'o'
+NN -> 'g'
+VBP -> 'v'
+CD -> 'k'
+NML -> PP
+NN -> 'e'
+CD -> 'i'
+ROOT -> S
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NP -> CD CD
+NP -> NN NN
+NP -> NML NN
+VP -> VBP NP
+S -> NP NP VP
+NP -> NNP
+PRP -> 'u'
+NNP -> 'y'
+PRP -> 'i'
+NP -> POS
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'e'
+POS -> 's'
+NN -> 'n'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+FRAG -> NP NP
+NP -> DT NN NN
+NP -> NP NP NP
+VBP -> 'r'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+VP -> VBZ
+NN -> 'b'
+NN -> 'e'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NML -> NN NN
+NP -> NML NN
+VP -> VBP NP
+NP -> NP SBAR
+NP -> NML NN NN
+NP -> NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN
+PRP -> 'i'
+ROOT -> FRAG
+DT -> 'a'
+NP -> NN
+NN -> 't'
+IN -> 'w'
+NN -> 'd'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+SBAR -> S
+NP -> PRP
+VP -> VBZ NP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+FRAG -> NP NP
+NP -> NN NN
+NP -> NP SBAR
+NP -> DT NN NN
+NN -> 'f'
+PRP -> 'u'
+IN -> 'o'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+CD -> 'k'
+NML -> PP
+IN -> 'w'
+NN -> 'e'
+NN -> 'h'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+NP -> NN CD
+PP -> IN NP
+NP -> NML NN
+NP -> NN NML
+NML -> NN NN NN NN NN NN
+NP -> NN
+NN -> 's'
+NN -> 'e'
+ROOT -> NP
+NN -> 'u'
+POS -> 's'
+NN -> 'n'
+IN -> 'o'
+NN -> 'c'
+NN -> 'm'
+NN -> 'p'
+NP -> NP PP
+NP -> NP NN
+NML -> NN NN
+PP -> IN NP
+NP -> NML PP POS
+NP -> NN NN NN
+PRP -> 'u'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NML -> NN NN
+NP -> DT NN POS
+NP -> NML NN NN
+NP -> DT NML NN
+FRAG -> PP NP NP NP NP NP NP NP
+NML -> NN NN NN NN NN NN NN NN
+NP -> NN NN NN NN NN NN NN NN NN
+NN -> 'f'
+PRP -> 'i'
+VBP -> 'r'
+VP -> VBP
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+ROOT -> NP
+NN -> 't'
+NN -> 'c'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+NP -> DT NN
+PP -> IN NP
+NP -> NN POS
+S -> NP VP
+NP -> NP X
+NP -> NP NN
+NML -> NN NN
+X -> X NP
+NP -> NP SBAR
+X -> NP NP NP
+NP -> DT NN NN
+PP -> IN IN NP
+NP -> DT NN POS
+NP -> NML NN NN
+NP -> DT NN NN NN
+NP -> DT NN NN NN NN NN NN NN NN NN NN
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'd'
+NN -> 'n'
+NP -> PRP
+NN -> 'r'
+LS -> 'i'
+VBP -> 'm'
+NP -> NP NP
+FRAG -> FRAG S
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+PP -> NP IN
+NP -> NP NN
+FRAG -> NP NP
+NP -> LST NN
+NML -> NN NN
+VP -> VBP NP
+NP -> NN NN NN
+NP -> DT NN NN POS
+NP -> DT NN NML NN
+NP -> NN
+NML -> PP
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'h'
+NN -> 'n'
+NP -> NP PP
+NP -> NML NN
+PP -> IN NP
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'v'
+NN -> 'e'
+IN -> 'w'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NN POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NML NN
+VP -> VBP PP
+X -> NP NP NP
+NP -> DT NN NN
+PP -> IN X NP
+NP -> NML NN NN
+NP -> DT NML NN
+NP -> DT NML NN NN
+NP -> NN NN NN NN NN
+NML -> NN NN NN NN NN NN
+PRP -> 'u'
+PRP -> 'i'
+NP -> POS
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+IN -> 'w'
+POS -> 's'
+ROOT -> S
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+VBP -> 'm'
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+PP -> NP IN
+NP -> NN NN
+S -> NP NP
+S -> S S
+NP -> PRP NN
+VP -> VBP NP PP
+NN -> 'f'
+PRP -> 'i'
+VP -> VBP
+ROOT -> FRAG
+NN -> 'l'
+LS -> 'i'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+PRN -> SBAR
+NN -> 'q'
+NN -> 't'
+NN -> 'e'
+LST -> LS
+NN -> 'u'
+POS -> 's'
+VBZ -> 's'
+NN -> 'i'
+NN -> 'n'
+SBAR -> S
+NP -> PRP
+VBP -> 'm'
+VP -> VBZ NP
+NP -> DT NN
+S -> NP VP
+NP -> NN POS
+FRAG -> PRN NP
+SBAR -> LST S
+NP-TMP -> NP SBAR
+NP -> DT NN NN
+S -> NP-TMP NP VP
+NP -> NP NN NN NN NN NN NN NP NN NN NN NN
+CD -> 'k'
+NML -> PP
+NN -> 'g'
+NN -> 'r'
+NN -> 'e'
+IN -> 'w'
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'h'
+NP -> NP PP
+PP -> IN NP
+NP -> NN NN
+NP -> NML NN NN
+NP -> CD NN NN
+NN -> 'f'
+PRP -> 'i'
+VBP -> 'r'
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NN -> 'c'
+S -> NP
+IN -> 'w'
+LST -> LS
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+LS -> 'i'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NML -> NN NN
+NP -> PRP NN
+VP -> VBP NP S
+NP -> DT NN NN
+NP -> NML NML NN
+NP -> NP NP NP
+NP -> LST NP PP
+NML -> DT NN NN NN
+NP -> DT NN NN NN
+NP -> NN NN NML NN NML
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NP -> CD
+NN -> 'b'
+CD -> 'k'
+NN -> 'e'
+IN -> 'w'
+CD -> 'i'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NP NN
+NP -> NN NN
+NP -> CD NN
+NP -> DT NN NN
+NP -> DT NN POS
+NP -> DT NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP NP NP
+PRP -> 'u'
+PRP -> 'i'
+LS -> 'b'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 'x'
+PP -> IN
+NN -> 't'
+NN -> 'c'
+NP -> CD
+CD -> 'k'
+NML -> PP
+NN -> 'b'
+NN -> 'e'
+LST -> LS
+IN -> 'w'
+CD -> 'i'
+NN -> 'd'
+POS -> 's'
+LS -> 'f'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NML NML
+NP-TMP -> CD NN
+NP -> NN NN
+NML -> NML NN
+NML -> DT NN POS
+NP -> NP PP NP-TMP
+NP -> NML DT NN
+NML -> NML NN NN
+NP -> LST NP PP
+NP -> DT DT NN NN NN
+NP -> NN NN NN NN NN NN NN
+NP -> NN NN NN NN NN NN NN NN NN NN CD NN
+FRAG -> LST NP NP NP NP NP NP NP NP NP NP NP NP NP NP
+NN -> 'f'
+PRP -> 'u'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+PP -> IN
+NN -> 't'
+NN -> 'c'
+NP -> CD
+NN -> 'e'
+CD -> 'i'
+POS -> 's'
+NN -> 'd'
+NN -> 'n'
+NN -> 'i'
+NN -> 'h'
+NN -> 'r'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN
+NP -> NML PP POS
+NP -> NN NN POS
+NP -> NP NML NN
+NP -> DT NML NN
+NML -> NN NN NN
+NP -> NN NN NN NN NN
+NP -> NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP
+VBP -> 'r'
+PRP -> 'i'
+NP -> DT
+NN -> 'l'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 'e'
+IN -> 'w'
+NN -> 'd'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 's'
+PRN -> S
+NP -> PRP
+VBP -> 'm'
+NP -> NP NP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NML -> NN NN
+NP -> NN NN
+VP -> VBP NP
+NP -> NML NN
+S -> PRN NP VP
+NP -> DT NN NN
+VP -> VBP NP PP
+PRP -> 'i'
+VBP -> 'r'
+VP -> VBP
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NML -> NN
+CD -> 'k'
+NML -> PP
+NN -> 'e'
+IN -> 'w'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'n'
+NN -> 'i'
+NN -> 's'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN PP
+PP -> IN NP
+S -> NP VP
+NML -> NML PP
+NML -> NN NN
+NP -> NN NN
+NP -> CD NN
+NP -> NP SBAR
+VP -> VBP NP
+NP-TMP -> NP SBAR
+NP -> DT NN NN
+NP -> DT NN POS
+NP -> NP NML NN
+NP -> NP NP NP
+NP -> NML NN NN
+NP -> CD NML NN
+NP -> DT NML NN
+S -> NP-TMP NP VP
+NML -> NN NN NN
+NP -> DT NN NN NN
+NP -> DT NML NML NN POS
+NN -> 'e'
+CD -> 'i'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+NN -> 'c'
+NP -> PRP
+IN -> 'o'
+NN -> 'n'
+NN -> 's'
+FRAG -> NP NP
+NP -> NP PP
+NML -> NN NN
+NP -> NN CD
+PP -> NP IN
+NP -> NML NN NN
+NN -> 'e'
+CD -> 'i'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+NN -> 'c'
+NP -> PRP
+IN -> 'o'
+NN -> 'n'
+NN -> 's'
+FRAG -> NP NP
+NP -> NP PP
+NML -> NN NN
+NP -> NN CD
+PP -> NP IN
+NP -> NML NN NN
+NN -> 'f'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NN -> 'g'
+CD -> 'k'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NP -> PRP
+NP -> NP PP
+FRAG -> FRAG FRAG
+NP -> NN CD
+PP -> IN NP
+NP -> DT NN
+NP -> NN POS
+NP -> NP NN
+FRAG -> NP NP
+NML -> NN NN
+NP -> NN NN NN
+NP -> POS NN NN
+NP -> DT NN NML NN
+FRAG -> NP PP NP NP NP
+NN -> 'e'
+CD -> 'i'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+NN -> 'c'
+NP -> PRP
+IN -> 'o'
+NN -> 'n'
+NN -> 's'
+FRAG -> NP NP
+NP -> NP PP
+NML -> NN NN
+NP -> NN CD
+PP -> NP IN
+NP -> NML NN NN
+NN -> 'f'
+PRP -> 'i'
+IN -> 'o'
+NN -> 'm'
+NP -> NN
+PP -> IN
+NN -> 't'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+ROOT -> S
+NP -> PRP
+VBP -> 'm'
+NP -> NP PP
+PP -> IN NP
+NP -> NP NN
+NML -> NN NN
+VP -> VBP NP
+NP -> NML NML NN
+NP -> NP PP POS
+S -> NP NP VP
+PRP -> 'u'
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NP -> CD
+CD -> 'k'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+NN -> 'i'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+NN -> 'j'
+NP -> PRP
+NN -> 'u'
+NP -> NP PP
+PP -> IN NP
+NML -> NN NN
+NP -> NN NN
+NP -> DT NN NN
+PP -> IN IN NP
+NP -> NML NN NN
+NP -> NN NN NN NN NN NN
+FRAG -> NP NP NP NP NP NP NP NP NP
+PRP -> 'i'
+IN -> 'o'
+NN -> 'p'
+NP -> NN
+NN -> 'q'
+NN -> 't'
+CD -> 'k'
+NML -> PP
+NN -> 'e'
+LST -> LS
+VBZ -> 's'
+ROOT -> S
+LS -> 'i'
+NP -> PRP
+NN -> 'u'
+VP -> VBZ NP
+NP -> NP PP
+PP -> IN NP
+PP -> NP IN
+NP -> LST NP
+NP -> NN NN
+NP -> CD NN
+NP -> NML NN NN
+S -> NP NP VP
+NN -> 'f'
+PRP -> 'u'
+PRP -> 'i'
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+ROOT -> NP
+NN -> 't'
+NN -> 'c'
+NML -> NN
+IN -> 'w'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'y'
+NP -> PRP
+NP -> NP NP
+PP -> IN NP
+NML -> NML PP
+PP -> IN PP
+NP -> NP NML NML
+NP -> DT NN NN
+NP -> NP PP POS
+NML -> NN NN NN NN NN NN
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+PP -> IN IN NP
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'x'
+NN -> 't'
+IN -> 'w'
+NN -> 'e'
+NN -> 'u'
+NN -> 'd'
+NN -> 'h'
+NN -> 'n'
+NN -> 's'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+VBP -> 'm'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NML -> NN NN
+NP -> NML NN
+NP -> NP SBAR
+VP -> VBP NP
+NP -> NN NML
+NP -> DT NML NN
+NP -> DT NML NML NN
+FRAG -> NP NP NP NP NP
+NP -> NN NN NN NN NN NN NN NN
+NP -> DT NN NN NN NN NN NN NN NN NN NN
+QP -> CD
+PRP -> 'i'
+NP -> NN
+CD -> 'k'
+NN -> 'e'
+IN -> 'w'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP PP
+PP -> IN NP
+NML -> NN NN
+NP -> NML NN
+NP -> QP NP
+NP -> NN NN POS
+S -> NP NP VP
+PRP -> 'u'
+PRP -> 'i'
+VP -> VBP
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+VBP -> 'r'
+DT -> 'a'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+NN -> 'c'
+NN -> 'b'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+SBAR -> S
+NN -> 'r'
+NN -> 'u'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+FRAG -> NP NP
+NML -> NN NN
+NP -> NP SBAR
+NP -> DT PRP
+NP -> NP NN NN
+NP -> NML NN NN POS
+NP -> DT NN NN POS
+NP -> NP NN NN NN NN NN NN NN NN NN NN NN NN NN NN
+NP -> NN
+NML -> PP
+NN -> 'e'
+ROOT -> NP
+NN -> 'n'
+IN -> 'o'
+NN -> 'c'
+NN -> 'h'
+NN -> 'm'
+NP -> NP PP
+NP -> NML NN
+NP -> NN NN
+PP -> IN NP
+PRP -> 'i'
+ROOT -> FRAG
+DT -> 'a'
+NN -> 't'
+NN -> 'c'
+NN -> 'e'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'i'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+VP -> VBZ NP
+NP -> NP NP
+S -> NP VP
+NP -> POS POS
+NP -> NP NN
+FRAG -> NP NP
+NML -> NN NN
+FRAG -> S FRAG
+NP -> NML NN
+NP -> DT NN NN
+NP -> NML NN POS
+LS -> 'c'
+PRP -> 'u'
+PRP -> 'i'
+VBP -> 'r'
+VP -> VBP
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NP -> CD
+CD -> 'k'
+NN -> 'b'
+IN -> 'w'
+LST -> LS
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'z'
+FRAG -> PP
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+S -> NP VP
+NP -> NN POS
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+NP -> NML NN
+PP -> IN PP
+NP -> NN NN NN
+NP -> NP PP PP
+NP -> NP NP NP
+NP -> LST NP PP
+NN -> 'f'
+PRP -> 'u'
+ROOT -> FRAG
+IN -> 'o'
+DT -> 'a'
+NP -> NN
+NN -> 't'
+NP -> CD
+CD -> 'k'
+NN -> 'b'
+IN -> 'w'
+NN -> 'e'
+NN -> 'd'
+NN -> 'h'
+NN -> 's'
+NN -> 'y'
+NN -> 'r'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> NN NN
+NP -> NN NN NN
+NP -> DT CD NN
+FRAG -> PP NP NP NP NP NP NP
+NN -> 'f'
+PRP -> 'u'
+VBP -> 'r'
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 'g'
+NN -> 't'
+S -> VP
+NML -> S
+NN -> 'b'
+NN -> 'e'
+IN -> 'w'
+NN -> 'u'
+NN -> 'd'
+POS -> 's'
+VBZ -> 's'
+NN -> 'h'
+ROOT -> S
+NN -> 'i'
+NN -> 'n'
+NN -> 'y'
+SBAR -> S
+NN -> 'r'
+NP -> PRP
+VBP -> 'm'
+VP -> VBZ NP
+NP -> NP PP
+VP -> VBP SBAR
+PP -> IN NP
+NP -> DT NN
+S -> NP VP
+NP -> NN POS
+NP-TMP -> NP NP
+VP -> VBP S
+NP -> NP NN
+NML -> NML PP
+NML -> NN NN
+NP -> NN NN
+NML -> NML NN
+NP -> NP SBAR
+NP -> NML NN
+VP -> VBP NP
+S -> NP NP
+NP -> NN NML
+PP -> IN PP
+NP -> NN NN NN
+VP -> VBP NP NP-TMP
+VP -> VBP PP NP
+NP -> NP NN NN
+NP -> DT NN POS
+NP -> DT NML NN
+NML -> NN NN NN NN NN NN
+NP -> DT NN NML NN NN NN
+NP -> NN NN NN NN NN NN NN NN
+PRP -> 'i'
+VP -> VBP
+ROOT -> FRAG
+NN -> 'l'
+NN -> 'p'
+NN -> 't'
+NN -> 'e'
+POS -> 's'
+NN -> 'h'
+NN -> 'n'
+VBP -> 'm'
+SBAR -> S
+NP -> PRP
+NN -> 'u'
+NP -> NP NP
+S -> NP VP
+NP -> POS POS
+NP -> NP NN
+FRAG -> NP NP
+NML -> NN NN
+NP -> NN NN
+NP -> NP SBAR
+NP -> NML NN NN
+PRP -> 'i'
+ROOT -> FRAG
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+NN -> 'e'
+NN -> 'd'
+POS -> 's'
+NN -> 'n'
+NN -> 's'
+NP -> PRP
+NP -> NP PP
+PP -> IN NP
+NP -> NN POS
+NP -> NP NN
+NML -> NN NN
+NP -> NN NN NN
+NP -> DT NML NN
+FRAG -> NP NP NP NP
+PRP -> 'i'
+ROOT -> FRAG
+IN -> 'o'
+NN -> 'm'
+NN -> 'p'
+NP -> NN
+NN -> 't'
+LS -> 'd'
+NN -> 'e'
+LST -> LS
+POS -> 's'
+NN -> 'n'
+NP -> PRP
+PP -> IN NP
+NP -> NP NN
+NP -> PP PP
+NP -> NN NN
+NP -> NP POS
+FRAG -> LST NP NP NP NP
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+PRP -> 'i'
+IN -> 'o'
+NP -> PRP
+NN -> 'n'
+DT -> 'a'
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NP -> DT NN
+NP -> DT NP NN
+NP -> NN
+ROOT -> NP
+PP -> IN
+IN -> 'o'
+NN -> 'n'
+NP -> NP PP
+PRP -> 'i'
+NN -> 'l'
+IN -> 'o'
+NN -> 'm'
+DT -> 'a'
+NN -> 'k'
+NP -> NN
+NN -> 'g'
+ROOT -> NP
+NN -> 't'
+NN -> 'n'
+NN -> 'y'
+NP -> PRP
+NP -> NP NP
+NP -> NP PP
+PP -> IN NP
+NML -> NML PP
+NML -> NN NN
+NP -> NN NN
+NP -> DT NML NN NN NN
