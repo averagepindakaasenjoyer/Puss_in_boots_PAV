@@ -1,0 +1,12633 @@
+ROOT -> S
+S -> PP NP VP
+PP -> IN NP
+IN -> 'through'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'years'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBN PP
+VBN -> 'known'
+PP -> IN NP
+IN -> 'by'
+NP -> JJ NNS
+JJ -> 'many'
+NNS -> 'names'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'diablo'
+NN -> 'gato'
+ROOT -> NP
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'furry'
+NN -> 'lover'
+ROOT -> NP
+NP -> NNS
+NNS -> 'chupacabra'
+ROOT -> NP
+NP -> NN NNS
+NN -> 'friskie'
+NNS -> 'twotimes'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> DT NN
+DT -> 'the'
+NN -> 'ginger'
+VP -> VBD NP
+VBD -> 'hit'
+NP -> NN
+NN -> 'man'
+ROOT -> S
+S -> CC NP ADVP
+CC -> 'but'
+NP -> TO
+TO -> 'to'
+ADVP -> RBS
+RBS -> 'most'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'am'
+NP -> NP PP
+NP -> NNS
+NNS -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+ROOT -> S
+S -> VP
+VP -> VB
+VB -> 'outlaw'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD ADVP VP
+MD -> 'will'
+ADVP -> RB
+RB -> 'never'
+VP -> VB S
+VB -> 'forget'
+S -> NP NP
+NP -> PRP
+PRP -> 'you'
+NP -> NN
+NN -> 'margherita'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'mean'
+NP -> NN
+NN -> 'rosa'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'sorry'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP
+VBP -> 'think'
+ADVP -> RB
+RB -> 'maybe'
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'should'
+VP -> VB
+VB -> 'go'
+ROOT -> S
+S -> PRN ADVP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD RB VP
+MD -> 'can'
+RB -> 'not'
+VP -> VB
+VB -> 'run'
+ADVP -> RB
+RB -> 'forever'
+VP -> VB PP
+VB -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> MD NP VP
+MD -> 'can'
+NP -> PRP
+PRP -> 'i'
+VP -> VB
+VB -> 'say'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'was'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'bad'
+NN -> 'kitty'
+ROOT -> UCP
+UCP -> FRAG S
+FRAG -> NP PP
+NP -> RB DT JJ
+RB -> 'just'
+DT -> 'a'
+JJ -> 'fugitive'
+PP -> IN NP
+IN -> 'from'
+NP -> DT NN
+DT -> 'the'
+NN -> 'law'
+S -> ADVP VP
+ADVP -> RB
+RB -> 'forever'
+VP -> VBG
+VBG -> 'running'
+ROOT -> S
+S -> VP
+VP -> VBG PP S
+VBG -> 'searching'
+PP -> IN NP
+IN -> 'for'
+NP -> DT NN
+DT -> 'a'
+NN -> 'way'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'clear'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'name'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'would'
+VP -> VB NP PP
+VB -> 'get'
+NP -> DT NN
+DT -> 'that'
+NN -> 'chance'
+PP -> IN NP
+IN -> 'on'
+NP -> DT CD JJ NN
+DT -> 'this'
+CD -> 'one'
+JJ -> 'fateful'
+NN -> 'night'
+ROOT -> FRAG
+FRAG -> ADVP NP NP
+ADVP -> RB
+RB -> 'here'
+NP -> NN
+NN -> 'kitty'
+NP -> NN
+NN -> 'kitty'
+ROOT -> NP
+NP -> NN
+NN -> 'raoul'
+ROOT -> S
+S -> VP
+VP -> VB SBAR
+VB -> 'look'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'cat'
+VP -> VBD PRT
+VBD -> 'dragged'
+PRT -> RP
+RP -> 'in'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'oh'
+VP -> VB S
+VB -> 'wait'
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT NN
+DT -> 'the'
+NN -> 'cat'
+ROOT -> FRAG
+FRAG -> NP INTJ
+NP -> CD NN
+CD -> 'one'
+NN -> 'leche'
+INTJ -> UH
+UH -> 'please'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBP NP VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+VP -> VBG ADVP NP
+VBG -> 'doing'
+ADVP -> RB
+RB -> 'here'
+NP -> NN
+NN -> 'seor'
+ROOT -> SQ
+SQ -> VBD NP VP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'lose'
+NP -> NP PP
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'ball'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'yarn'
+ROOT -> ADJP
+ADJP -> RB JJ
+RB -> 'so'
+JJ -> 'funny'
+ROOT -> S
+S -> NP
+NP -> NP VP
+NP -> CD NN
+CD -> 'one'
+NN -> 'leche'
+VP -> VBG PRT
+VBG -> 'coming'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'am'
+RB -> 'not'
+VP -> VBG PP
+VBG -> 'looking'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'trouble'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VP CC VP
+VP -> VBP
+VBP -> 'am'
+CC -> 'but'
+VP -> NP PP
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'humble'
+NN -> 'gato'
+PP -> IN NP
+IN -> 'in'
+NP -> NP PP
+NP -> NN
+NN -> 'search'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP$ JJ NN
+PRP$ -> 'his'
+JJ -> 'next'
+NN -> 'meal'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'perhaps'
+NP -> PRP NNS
+PRP -> 'you'
+NNS -> 'gentlemen'
+VP -> MD VP
+MD -> 'can'
+VP -> VB S
+VB -> 'help'
+S -> NP VP
+NP -> PRP
+PRP -> 'me'
+VP -> VB NP
+VB -> 'find'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'simple'
+NN -> 'score'
+ROOT -> S
+S -> NP VP
+NP -> NP SBAR
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'only'
+NN -> 'thing'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP-TMP
+VB -> 'find'
+NP-TMP -> NN
+NN -> 'tonight'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP PP
+NP -> NN NN
+NN -> 'trouble'
+NN -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+ROOT -> S
+S -> INTJ SBAR NP VP
+INTJ -> UH
+UH -> 'well'
+SBAR -> ADVP IN S
+ADVP -> RB
+RB -> 'perhaps'
+IN -> 'if'
+S -> NP VP
+NP -> NP PP
+NP -> CD
+CD -> 'one'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP
+PRP -> 'us'
+VP -> VBD S
+VBD -> 'were'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'tell'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'the'
+NN -> 'law'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'that'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP PP
+VBP -> 'are'
+PP -> IN NP
+IN -> 'in'
+NP -> NN
+NN -> 'town'
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'could'
+VP -> VB NP
+VB -> 'split'
+NP -> DT NN
+DT -> 'the'
+NN -> 'reward'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD S
+VBD -> 'made'
+S -> NP ADJP
+NP -> DT NN
+DT -> 'the'
+NN -> 'cat'
+ADJP -> JJ
+JJ -> 'angry'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB S
+VB -> 'want'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB S
+VB -> 'make'
+S -> NP ADJP
+NP -> DT NN
+DT -> 'the'
+NN -> 'cat'
+ADJP -> JJ
+JJ -> 'angry'
+ROOT -> S
+S -> NP VP
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'church'
+PP -> IN NP
+IN -> 'of'
+NP -> NNP NNP
+NNP -> 'st'
+NNP -> 'michael'
+VP -> VBZ ADVP VP
+VBZ -> 'has'
+ADVP -> RB
+RB -> 'just'
+VP -> VBN PRT NP
+VBN -> 'put'
+PRT -> RP
+RP -> 'up'
+NP -> NP PP
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'golden'
+NN -> 'statue'
+PP -> IN NP
+IN -> 'of'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'virgin'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'guadalupe'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'steal'
+PP -> IN NP
+IN -> 'from'
+NP -> NNS
+NNS -> 'churches'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> DT NNS NN
+DT -> 'the'
+NNS -> 'boys'
+NN -> 'orphanage'
+VP -> VBZ VP
+VBZ -> 'has'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBN NP
+VBN -> 'donated'
+NP -> NN NNS
+NN -> 'silver'
+NNS -> 'candlesticks'
+NP -> PRP
+PRP -> 'they'
+VP -> MD VP
+MD -> 'would'
+VP -> VB ADJP PP
+VB -> 'look'
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'lovely'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'home'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'steal'
+PP -> IN NP
+IN -> 'from'
+NP -> NNS
+NNS -> 'orphans'
+ROOT -> FRAG
+FRAG -> WHNP PP
+WHNP -> WP
+WP -> 'what'
+PP -> IN NP
+IN -> 'about'
+NP -> NN CC NN
+NN -> 'jack'
+CC -> 'and'
+NN -> 'jill'
+ROOT -> NP
+NP -> NN
+NN -> 'shh'
+ROOT -> FRAG
+FRAG -> PRN
+PRN -> SQ
+SQ -> VBP NP ADJP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+ADJP -> JJ
+JJ -> 'crazy'
+ROOT -> NP
+NP -> NP SBAR
+NP -> DT
+DT -> 'the'
+SBAR -> WHNP
+WHNP -> WP
+WP -> 'what'
+ROOT -> S
+S -> NP VP
+NP -> NP CC NP
+NP -> DT JJ NNS NN
+DT -> 'the'
+JJ -> 'murderous'
+NNS -> 'outlaws'
+NN -> 'jack'
+CC -> 'and'
+NP -> NN
+NN -> 'jill'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN NP PP
+VBN -> 'gotten'
+NP -> PRP$ NNS
+PRP$ -> 'their'
+NNS -> 'hands'
+PP -> IN NP
+IN -> 'on'
+NP -> JJ NNS
+JJ -> 'magic'
+NNS -> 'beans'
+ROOT -> S
+S -> VP
+VP -> VB RB VP
+VB -> 'do'
+RB -> 'not'
+VP -> VB PP PP
+VB -> 'joke'
+PP -> IN NP
+IN -> 'with'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'about'
+NP -> NN NNS
+NN -> 'magic'
+NNS -> 'beans'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PP
+VBD -> 'searched'
+NP -> PDT PRP$ NN
+PDT -> 'half'
+PRP$ -> 'my'
+NN -> 'life'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB
+VB -> 'exist'
+ROOT -> NP
+NP -> DT NN
+DT -> 'no'
+NN -> 'cat'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN NP
+VBN -> 'seen'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'these'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NP PP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'beans'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'legend'
+ROOT -> S
+S -> VP
+VP -> VBZ NP PP
+VBZ -> 'grows'
+NP -> DT NN
+DT -> 'a'
+NN -> 'vine'
+PP -> IN NP
+IN -> 'to'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'land'
+PP -> IN NP
+IN -> 'of'
+NP -> NP CC NP
+NP -> NNS
+NNS -> 'giants'
+CC -> 'and'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'golden'
+NN -> 'goose'
+ROOT -> S
+S -> NP VP
+NP -> NP NP
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'golden'
+NN -> 'goose'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'heist'
+PP -> IN NP
+IN -> 'like'
+NP -> DT
+DT -> 'this'
+VP -> MD VP
+MD -> 'could'
+VP -> VB NP PRT PP
+VB -> 'set'
+NP -> PRP
+PRP -> 'you'
+PRT -> RP
+RP -> 'up'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'life'
+ROOT -> NP
+NP -> NP PP
+NP -> DT CD
+DT -> 'all'
+CD -> 'nine'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> VP
+VP -> VB NP NP
+VB -> 'show'
+NP -> PRP
+PRP -> 'him'
+NP -> DT JJ NNS
+DT -> 'the'
+JJ -> 'golden'
+NNS -> 'eggs'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'please'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN S
+VBN -> 'shown'
+S -> ADJP
+ADJP -> JJ
+JJ -> 'enough'
+ROOT -> S
+S -> NP VP
+NP -> NP PP
+NP -> RB DT NN
+RB -> 'only'
+DT -> 'a'
+NN -> 'cat'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'death'
+NN -> 'wish'
+VP -> MD VP
+MD -> 'would'
+VP -> VB NP PP
+VB -> 'steal'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'beans'
+PP -> IN NP
+IN -> 'from'
+NP -> NN CC NN
+NN -> 'jack'
+CC -> 'and'
+NN -> 'jill'
+ROOT -> S
+S -> NP VP
+NP -> NP SBAR
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'only'
+NN -> 'wish'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP
+VBP -> 'have'
+VP -> VBZ S
+VBZ -> 'is'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'repay'
+NP -> DT JJ NN
+DT -> 'an'
+JJ -> 'old'
+NN -> 'debt'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'chance'
+ROOT -> SBARQ
+SBARQ -> ADVP WHADVP SQ
+ADVP -> RB
+RB -> 'now'
+WHADVP -> WRB
+WRB -> 'where'
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'i'
+VP -> VB NP
+VB -> 'find'
+NP -> DT NN CC NN
+DT -> 'this'
+NN -> 'jack'
+CC -> 'and'
+NN -> 'jill'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'sorry'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'have'
+NP -> DT NNS
+DT -> 'no'
+NNS -> 'rooms'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'well'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'one'
+ADVP -> RB
+RB -> 'just'
+VP -> VBD PRT
+VBD -> 'opened'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'would'
+VP -> VB NP
+VB -> 'like'
+NP -> DT JJ JJ NN
+DT -> 'a'
+JJ -> 'complimentary'
+JJ -> 'continental'
+NN -> 'breakfast'
+ROOT -> S
+S -> CC VP
+CC -> 'and'
+VP -> VB RB ADVP VP
+VB -> 'do'
+RB -> 'not'
+ADVP -> RB
+RB -> 'even'
+VP -> VB PP PP
+VB -> 'think'
+PP -> IN NP
+IN -> 'about'
+NP -> NN
+NN -> 'skimpin'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP NN NNS
+PRP -> 'them'
+NN -> 'baby'
+NNS -> 'muffins'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'have'
+NP -> DT NN NNS
+DT -> 'any'
+NN -> 'baby'
+NNS -> 'muffins'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'know'
+NP -> NN
+NN -> 'jill'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'been'
+VP -> VBG
+VBG -> 'thinking'
+ROOT -> S
+S -> VP
+VP -> VB NP PRT
+VB -> 'get'
+NP -> PRP
+PRP -> 'it'
+PRT -> RP
+RP -> 'out'
+ROOT -> S
+S -> NP ADVP PRN NP NP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'once'
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VP CC VP
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBN PP
+VBN -> 'done'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NML NN
+DT -> 'this'
+NML -> NN NN
+NN -> 'magic'
+NN -> 'bean'
+NN -> 'business'
+CC -> 'and'
+VP -> VBD NP S
+VBD -> 'got'
+NP -> PRP
+PRP -> 'ourselves'
+S -> NP
+NP -> DT
+DT -> 'all'
+NP -> PRP
+PRP -> 'them'
+NP -> JJ JJ NNS
+JJ -> 'beautiful'
+JJ -> 'golden'
+NNS -> 'eggs'
+VP -> VBP PP
+VBP -> 'go'
+PP -> IN
+IN -> 'on'
+ROOT -> SBAR
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD PRT PP
+VBD -> 'cut'
+PRT -> RP
+RP -> 'down'
+PP -> IN NP
+IN -> 'on'
+NP -> NP PP
+NP -> DT
+DT -> 'some'
+PP -> IN NP
+IN -> 'of'
+NP -> DT NN CC NN
+DT -> 'the'
+NN -> 'hijacking'
+CC -> 'and'
+NN -> 'murdering'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'mean'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ UCP
+VBZ -> 'is'
+UCP -> ADJP CC ADVP
+ADJP -> JJ
+JJ -> 'fun'
+CC -> 'and'
+ADVP -> DT RB
+DT -> 'all'
+RB -> 'but'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'want'
+NP -> DT NN
+DT -> 'a'
+NN -> 'baby'
+ROOT -> FRAG
+FRAG -> NP NP NP
+NP -> DT NN
+DT -> 'a'
+NN -> 'baby'
+NP -> WDT
+WDT -> 'what'
+NP -> NN
+NN -> 'jack'
+ROOT -> FRAG
+FRAG -> NP NP NP
+NP -> DT NN
+DT -> 'a'
+NN -> 'baby'
+NP -> PRP
+PRP -> 'us'
+NP -> NN
+NN -> 'jill'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'will'
+VP -> VB S
+VB -> 'raise'
+S -> NP ADJP
+NP -> PRP
+PRP -> 'it'
+ADJP -> JJ PP
+JJ -> 'wild'
+PP -> IN NP
+IN -> 'like'
+NP -> DT NN CC NN
+DT -> 'a'
+NN -> 'squirrel'
+CC -> 'or'
+NN -> 'something'
+ROOT -> NP
+NP -> JJ NNS
+JJ -> 'holy'
+NNS -> 'frijoles'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP VP
+VBP -> 'do'
+VP -> VB
+VB -> 'exist'
+ROOT -> S
+S -> ADVP SBAR NP VP
+ADVP -> RB
+RB -> 'ever'
+SBAR -> IN S
+IN -> 'since'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VP CC VP
+VP -> VBD PRT NP
+VBD -> 'fell'
+PRT -> RP
+RP -> 'down'
+NP -> DT NN
+DT -> 'that'
+NN -> 'hill'
+CC -> 'and'
+VP -> VBD NP
+VBD -> 'broke'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'crown'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBG ADJP
+VBG -> 'talking'
+ADJP -> JJ
+JJ -> 'crazy'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> MD RB VP
+MD -> 'could'
+RB -> 'not'
+VP -> VB S
+VB -> 'hurt'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP PP
+VB -> 'have'
+NP -> DT JJ NN
+DT -> 'an'
+JJ -> 'extra'
+NN -> 'shooter'
+PP -> IN NP
+IN -> 'during'
+NP -> NNS
+NNS -> 'ambushes'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'maybe'
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PP PP
+VBD -> 'cut'
+NP -> ADJP NN
+ADJP -> RB JJ
+RB -> 'too'
+JJ -> 'deep'
+NN -> 'cut'
+PP -> NP IN
+NP -> WDT NN
+WDT -> 'that'
+NN -> 'brain'
+IN -> 'out'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'head'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'hey'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VP
+VP -> VBZ
+VBZ -> 'gives'
+ROOT -> S
+S -> SBAR NP VP
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ S
+VBZ -> 'is'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'be'
+NP -> DT NN
+DT -> 'a'
+NN -> 'girl'
+NP -> PRP
+PRP -> 'she'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'have'
+NP -> PRP$ ADJP
+PRP$ -> 'your'
+ADJP -> JJ DT
+JJ -> 'strong'
+DT -> 'no'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> FRAG
+FRAG -> NP NP NP
+NP -> PRP
+PRP -> 'you'
+NP -> PRP
+PRP -> 'you'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP SBAR
+VBP -> 'stop'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'where'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'are'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'know'
+NP -> NN
+NN -> 'jack'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'how'
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'i'
+VP -> VB CC VB SBAR
+VB -> 'ride'
+CC -> 'and'
+VB -> 'shoot'
+SBAR -> IN S
+IN -> 'with'
+S -> NP VP
+NP -> DT NN
+DT -> 'a'
+NN -> 'baby'
+VP -> VBD PP
+VBD -> 'slung'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'back'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBD NP NP ADVP
+VBD -> 'got'
+NP -> PRP
+PRP -> 'them'
+NP -> NNS
+NNS -> 'backpacks'
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> NP VP
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'the'
+NN -> 'way'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP S
+VBP -> 'see'
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VB NP
+VB -> 'jill'
+NP -> DT NNS
+DT -> 'those'
+NNS -> 'beans'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> PRP
+PRP -> 'mine'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP PRT NP
+VBP -> 'fall'
+PRT -> RP
+RP -> 'off'
+NP -> NP NP-TMP
+NP -> DT JJ NN
+DT -> 'this'
+JJ -> 'flat'
+NN -> 'earth'
+NP-TMP -> CD NN
+CD -> 'one'
+NN -> 'time'
+ROOT -> FRAG
+FRAG -> NP NP NP
+NP -> WP
+WP -> 'what'
+NP -> NP PP
+NP -> JJR NN
+JJR -> 'better'
+NN -> 'proof'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'love'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'snap'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'snap'
+NP -> PRP
+PRP -> 'me'
+ROOT -> SQ
+SQ -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBG PP
+VBG -> 'looking'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'something'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> NP
+NP -> DT NN NNS
+DT -> 'no'
+NN -> 'hablo'
+NNS -> 'ingls'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'pay'
+PP -> IN NP
+IN -> 'for'
+NP -> DT
+DT -> 'this'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> NP
+NP -> NNS
+NNS -> 'chupacabra'
+ROOT -> NP
+NP -> NNS
+NNS -> 'chupacabra'
+ROOT -> NP
+NP -> NNS
+NNS -> 'chupacabra'
+ROOT -> NP
+NP -> NNS
+NNS -> 'chupacabra'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'are'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'crazy'
+NN -> 'woman'
+ROOT -> S
+S -> NP VP
+NP -> DT JJ NNS
+DT -> 'those'
+JJ -> 'magic'
+NNS -> 'beans'
+VP -> VBD NP
+VBD -> 'were'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'score'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'just'
+VP -> VBD NP NP
+VBD -> 'cost'
+NP -> PRP
+PRP -> 'me'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'chance'
+PP -> IN S
+IN -> 'at'
+S -> VP
+VP -> VBG NP
+VBG -> 'getting'
+NP -> NP NP
+NP -> DT JJ NNS
+DT -> 'the'
+JJ -> 'golden'
+NNS -> 'eggs'
+NP -> NNP NNP
+NNP -> 'mi'
+NNP -> 'amigo'
+ROOT -> S
+S -> VP
+VP -> VB PRT NP
+VB -> 'put'
+PRT -> RP
+RP -> 'up'
+NP -> PRP$ NNS
+PRP$ -> 'your'
+NNS -> 'dukes'
+ROOT -> ADVP
+ADVP -> RB RB
+RB -> 'very'
+RB -> 'well'
+ROOT -> S
+S -> SBAR ADVP NP VP
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ S
+VBZ -> 'is'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'be'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'dance'
+NN -> 'fight'
+ADVP -> RB
+RB -> 'then'
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP PP
+VB -> 'tuesdaynightdancefight'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'to'
+NP -> DT NN
+DT -> 'the'
+NN -> 'death'
+ROOT -> SBAR
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'how'
+S -> VP
+VP -> VBP S
+VBP -> 'dare'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP PP
+VB -> 'do'
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'litter'
+NN -> 'box'
+PP -> IN NP
+IN -> 'at'
+NP -> PRP
+PRP -> 'me'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'hello'
+ROOT -> SQ
+SQ -> MD NP VP
+MD -> 'can'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'feel'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> VP
+VP -> VB NP SBAR
+VB -> 'fear'
+NP -> PRP
+PRP -> 'me'
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'dare'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP PP PP
+VBD -> 'hit'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'in'
+NP -> DT NN
+DT -> 'the'
+NN -> 'head'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NN
+DT -> 'a'
+NN -> 'guitar'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'are'
+NP -> DT NN
+DT -> 'a'
+NN -> 'woman'
+ROOT -> NP
+NP -> NN
+NN -> 'amateur'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'wow'
+ROOT -> NP
+NP -> NN NN
+NN -> 'seorita'
+NN -> 'wait'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'me'
+VP -> VB NP NP
+VB -> 'buy'
+NP -> PRP
+PRP -> 'you'
+NP -> DT NN
+DT -> 'some'
+NN -> 'leche'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP NP
+VBP -> 'am'
+ADVP -> NP RB
+NP -> DT NN
+DT -> 'a'
+NN -> 'lover'
+RB -> 'not'
+NP -> DT NN
+DT -> 'a'
+NN -> 'fighter'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'hello'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG PP
+VBG -> 'hiding'
+PP -> IN NP
+IN -> 'from'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP S
+VBP -> 'like'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP ADVP
+VB -> 'play'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'games'
+ADVP -> RB
+RB -> 'too'
+ROOT -> S
+S -> PRN NP-TMP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP PP
+VBP -> 'sense'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP
+PRP -> 'you'
+NP-TMP -> NP NP
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'kindred'
+NN -> 'spirit'
+NP -> DT
+DT -> 'a'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP S
+VBP -> 'smell'
+NP -> NN
+NN -> 'something'
+S -> ADJP
+ADJP -> JJ
+JJ -> 'familiar'
+ROOT -> FRAG
+FRAG -> NP ADJP
+NP -> NN
+NN -> 'something'
+ADJP -> JJ
+JJ -> 'dangerous'
+ROOT -> NP
+NP -> NN NN
+NN -> 'something'
+NN -> 'breakfasty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ VP
+VBZ -> 'is'
+VP -> VBN NP
+VBN -> 'been'
+NP -> DT NML NN
+DT -> 'a'
+NML -> JJ NN
+JJ -> 'long'
+NN -> 'time'
+NN -> 'brother'
+ROOT -> NP
+NP -> NN NN
+NN -> 'maldito'
+NN -> 'huevo'
+ROOT -> NP
+NP -> JJ NN NN
+JJ -> 'humpty'
+NN -> 'alexander'
+NN -> 'dumpty'
+ROOT -> SBAR
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'how'
+S -> VP
+VP -> VBP S
+VBP -> 'dare'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP PP
+VB -> 'show'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'face'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> JJ
+JJ -> 'angry'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'have'
+NP -> DT NN
+DT -> 'every'
+NN -> 'right'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ S
+JJ -> 'good'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB S
+VB -> 'see'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB
+VB -> 'puss'
+ROOT -> S
+S -> VP
+VP -> VBP NP
+VBP -> 'are'
+NP -> DT JJ NNS
+DT -> 'those'
+JJ -> 'new'
+NNS -> 'boots'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NP SBAR
+NP -> DT JJ NNS
+DT -> 'the'
+JJ -> 'same'
+NNS -> 'boots'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD SBAR
+VBD -> 'wore'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'betrayed'
+NP -> PRP
+PRP -> 'me'
+ROOT -> FRAG
+FRAG -> VP
+VP -> VBN NP
+VBN -> 'betrayed'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD S
+VBD -> 'left'
+S -> NP VP
+NP -> PRP
+PRP -> 'me'
+VP -> VBN PP
+VBN -> 'cracked'
+PP -> IN NP
+IN -> 'in'
+NP -> NP PP
+NP -> NNS
+NNS -> 'pieces'
+PP -> IN NP
+IN -> 'on'
+NP -> NP VP
+NP -> DT NN
+DT -> 'a'
+NN -> 'bridge'
+VP -> VBN PP
+VBN -> 'surrounded'
+PP -> IN NP
+IN -> 'by'
+NP -> NNS
+NNS -> 'soldiers'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBD NP PP
+VBD -> 'wrote'
+NP -> DT NN
+DT -> 'a'
+NN -> 'song'
+PP -> IN NP
+IN -> 'about'
+NP -> PRP
+PRP -> 'it'
+ROOT -> SBARQ
+SBARQ -> CC WHADVP SQ
+CC -> 'and'
+WHADVP -> WRB
+WRB -> 'how'
+SQ -> VBD NP VP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'we'
+VP -> VB PP
+VB -> 'get'
+PP -> IN NP
+IN -> 'on'
+NP -> NP PP
+NP -> DT NN
+DT -> 'that'
+NN -> 'bridge'
+PP -> IN NP
+IN -> 'in'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'first'
+NN -> 'place'
+ROOT -> SBAR
+SBAR -> IN S
+IN -> 'because'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP
+VBD -> 'were'
+NP -> NP SBAR
+NP -> NNS CC NNS
+NNS -> 'brothers'
+CC -> 'and'
+NNS -> 'brothers'
+SBAR -> S
+S -> VP
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBN S
+VBN -> 'supposed'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'look'
+PP -> IN NP
+IN -> 'after'
+NP -> DT JJ NN
+DT -> 'each'
+JJ -> 'other'
+NN -> 'humpty'
+ROOT -> S
+S -> VP
+VP -> VB SBAR
+VB -> 'remember'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'why'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP ADVP
+VBP -> 'are'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'should'
+VP -> VB VP
+VB -> 'have'
+VP -> VBN
+VBN -> 'known'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'had'
+NP -> NP PP
+NP -> DT NN NNS
+DT -> 'the'
+NN -> 'magic'
+NNS -> 'beans'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'grasp'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP S
+VBD -> 'sent'
+NP -> DT ADJP NN NN
+DT -> 'this'
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'attractive'
+NN -> 'devil'
+NN -> 'woman'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'interfere'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'curse'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'life'
+ROOT -> S
+S -> VP
+VP -> VB
+VB -> 'wait'
+ROOT -> S
+S -> VP
+VP -> VB NP PRT
+VB -> 'hear'
+NP -> PRP
+PRP -> 'me'
+PRT -> RP
+RP -> 'out'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'ok'
+ROOT -> S
+S -> INTJ INTJ NP VP
+INTJ -> UH
+UH -> 'yes'
+INTJ -> UH
+UH -> 'yes'
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP S
+VBD -> 'sent'
+NP -> NN
+NN -> 'kitty'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP ADVP
+VB -> 'bring'
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN
+DT -> 'no'
+JJ -> 'ordinary'
+NN -> 'thief'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NN NNS
+NN -> 'kitty'
+NNS -> 'softpaws'
+ROOT -> NP
+NP -> NP PP
+NP -> DT JJS NN
+DT -> 'the'
+JJS -> 'softest'
+NN -> 'touch'
+PP -> IN NP
+IN -> 'in'
+NP -> NNP
+NNP -> 'spain'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP SBAR
+VBZ -> 'is'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'lot'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'heel'
+SBAR -> IN S
+IN -> 'for'
+S -> NP VP
+NP -> DT NN
+DT -> 'a'
+NN -> 'guy'
+VP -> VBP RB
+VBP -> 'do'
+RB -> 'not'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'think'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> VP
+VP -> VB PP NP
+VB -> 'look'
+PP -> IN NP
+IN -> 'with'
+NP -> NN NN
+NN -> 'kittys'
+NN -> 'skill'
+NP -> NP CC NP
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'sword'
+CC -> 'and'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'brain'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN NP ADVP
+VBN -> 'got'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'fighting'
+NN -> 'chance'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> NNS
+NNS -> 'puss'
+VP -> VBP PP
+VBP -> 'come'
+PP -> IN NP
+IN -> 'on'
+NP -> NP PP
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'of'
+NP -> DT
+DT -> 'all'
+NP -> NNS
+NNS -> 'people'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> IN S
+IN -> 'that'
+S -> NP ADVP VP
+NP -> NNS
+NNS -> 'nobodys'
+ADVP -> RB
+RB -> 'ever'
+VP -> VP CC VP
+VP -> VBD PRT NP
+VBD -> 'ripped'
+PRT -> RP
+RP -> 'off'
+NP -> DT NNS NN
+DT -> 'the'
+NNS -> 'giants'
+NN -> 'castle'
+CC -> 'and'
+VP -> VBD S
+VBD -> 'lived'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'tell'
+NP -> DT NN
+DT -> 'the'
+NN -> 'tale'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP S
+VBP -> 'want'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'survive'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'need'
+NP -> DT NN
+DT -> 'a'
+NN -> 'plan'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN NP
+VBN -> 'studied'
+NP -> NP NP
+NP -> DT NN
+DT -> 'this'
+NN -> 'job'
+NP -> PRP$ JJ NN
+PRP$ -> 'my'
+JJ -> 'whole'
+NN -> 'life'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'know'
+NP -> DT
+DT -> 'that'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'us'
+VP -> VB ADJP
+VB -> 'be'
+ADJP -> JJ
+JJ -> 'honest'
+ROOT -> S
+S -> PP NP VP
+PP -> IN NP
+IN -> 'without'
+NP -> PRP
+PRP -> 'me'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB ADVP VP
+VBP -> 'do'
+RB -> 'not'
+ADVP -> RB
+RB -> 'even'
+VP -> VB SBAR
+VB -> 'know'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'where'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'plant'
+NP -> DT NNS NN
+DT -> 'the'
+NNS -> 'beans'
+NN -> 'puss'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> NNP CC NNP
+NNP -> 'jack'
+CC -> 'and'
+NNP -> 'jill'
+VP -> VBP
+VBP -> 'do'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP PP
+VBP -> 'are'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP$ NN
+PRP$ -> 'their'
+NN -> 'way'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP PRT NP
+VBP -> 'go'
+PRT -> RP
+RP -> 'up'
+NP -> DT NN NNS
+DT -> 'the'
+NN -> 'beanstalk'
+NNS -> 'outlaws'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP PRT NP
+VBP -> 'come'
+PRT -> RP
+RP -> 'down'
+NP -> NNS
+NNS -> 'legends'
+ROOT -> SBARQ
+SBARQ -> ADVP WHNP SQ
+ADVP -> RB
+RB -> 'so'
+WHNP -> WP
+WP -> 'what'
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'you'
+VP -> VB
+VB -> 'say'
+ROOT -> NP
+NP -> NNS
+NNS -> 'partners'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> ADVP ADVP
+ADVP -> RB
+RB -> 'never'
+ADVP -> RB
+RB -> 'again'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> JJ JJ
+JJ -> 'sorry'
+JJ -> 'ok'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB RB
+WRB -> 'how'
+RB -> 'long'
+SQ -> VBP NP VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'hold'
+NP -> DT NN
+DT -> 'a'
+NN -> 'grudge'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ VP
+VBZ -> 'is'
+VP -> VBN NP
+VBN -> 'been'
+NP -> CD NNS
+CD -> 'seven'
+NNS -> 'years'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ PP
+VBZ -> 'is'
+PP -> IN NP
+IN -> 'like'
+NP -> CD NN NNS
+CD -> '35'
+NN -> 'cat'
+NNS -> 'years'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'need'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'need'
+NP -> PRP
+PRP -> 'you'
+ROOT -> NP
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'got'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'any'
+NN -> 'idea'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP PP
+VBP -> 'do'
+PP -> IN NP
+IN -> 'to'
+NP -> NP PP
+NP -> NNS
+NNS -> 'eggs'
+PP -> IN NP
+IN -> 'in'
+NP -> NP NP
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardo'
+NP -> NN
+NN -> 'prison'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP NP
+VB -> 'tell'
+NP -> PRP
+PRP -> 'you'
+NP -> DT PRP$ NN
+DT -> 'this'
+PRP$ -> 'my'
+NN -> 'friend'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBP RB ADVP ADJP
+VBP -> 'are'
+RB -> 'not'
+ADVP -> RB
+RB -> 'over'
+ADJP -> JJ
+JJ -> 'easy'
+ROOT -> FRAG
+FRAG -> NP NP
+NP -> NN
+NN -> 'adis'
+NP -> JJ NN
+JJ -> 'humpty'
+NN -> 'dumpty'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'oh'
+NP -> DT
+DT -> 'this'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'bad'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'bad'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB SBAR
+VB -> 'worry'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'take'
+NP -> NP PP
+NP -> NN
+NN -> 'care'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'how'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'speak'
+NP -> NN
+NN -> 'meow'
+ROOT -> NP
+NP -> NP PP
+NP -> JJ NN
+JJ -> 'sad'
+NN -> 'story'
+PP -> IN NP
+IN -> 'with'
+NP -> NP PP
+NP -> PRP$ VBN NNS
+PRP$ -> 'your'
+VBN -> 'twisted'
+NNS -> 'lies'
+PP -> IN NP
+IN -> 'in'
+NP -> NP SBAR
+NP -> NP SBAR
+NP -> PRP$ JJ
+PRP$ -> 'your'
+JJ -> 'greasy'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> MD
+MD -> 'will'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'that'
+S -> VP
+VP -> VBZ PP
+VBZ -> 'smells'
+PP -> IN NP
+IN -> 'like'
+NP -> JJ NN
+JJ -> 'old'
+NN -> 'ham'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'should'
+VP -> VB S
+VB -> 'crack'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB PP SBAR
+VB -> 'open'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'look'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD
+VBD -> 'found'
+ROOT -> S
+S -> NP VP
+NP -> NN
+NN -> 'someone'
+VP -> VBD NP
+VBD -> 'forgot'
+NP -> PRP$ NN
+PRP$ -> 'his'
+NN -> 'money'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'oh'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> JJ
+JJ -> 'dangerous'
+ROOT -> S
+S -> NP VP
+NP -> NN
+NN -> 'humpty'
+VP -> VBZ NP PP
+VBZ -> 'says'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'like'
+NP -> NN
+NN -> 'danger'
+ROOT -> S
+S -> ADVP PRN NP VP
+ADVP -> RB
+RB -> 'just'
+PRN -> S
+S -> VP
+VP -> VB PP
+VB -> 'think'
+PP -> IN NP
+IN -> 'of'
+NP -> PDT DT NN
+PDT -> 'all'
+DT -> 'the'
+NN -> 'trouble'
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'can'
+VP -> VB PP
+VB -> 'get'
+PP -> IN
+IN -> 'into'
+ROOT -> S
+S -> NP ADVP
+NP -> NP PP
+NP -> DT CD
+DT -> 'the'
+CD -> 'two'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP
+PRP -> 'us'
+ADVP -> RB
+RB -> 'together'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'can'
+VP -> VB NP
+VB -> 'steal'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'lot'
+PP -> IN NP
+IN -> 'of'
+NP -> JJ NNS
+JJ -> 'golden'
+NNS -> 'eggs'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'owe'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'owe'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP PP PP
+VBD -> 'hit'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'in'
+NP -> DT NN
+DT -> 'the'
+NN -> 'head'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NN
+DT -> 'a'
+NN -> 'guitar'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'regret'
+NP -> DT NN
+DT -> 'the'
+NN -> 'guitar'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'ok'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'forgive'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'so'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP PP
+VBP -> 'are'
+PP -> IN
+IN -> 'in'
+ROOT -> SINV
+SINV -> ADVP VP NP
+ADVP -> RB
+RB -> 'there'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> NML JJ
+NML -> CD NN
+CD -> 'one'
+NN -> 'teeny'
+JJ -> 'tiny'
+NP -> JJ NN
+JJ -> 'ittybitty'
+NN -> 'problem'
+ROOT -> SBARQ
+SBARQ -> CC WHNP SQ
+CC -> 'and'
+WHNP -> WP
+WP -> 'what'
+SQ -> VBZ NP
+VBZ -> 'is'
+NP -> DT
+DT -> 'that'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP PP
+VBP -> 'work'
+PP -> IN NP
+IN -> 'for'
+NP -> DT NN
+DT -> 'the'
+NN -> 'egg'
+ROOT -> S
+S -> VP
+VP -> VB PP
+VB -> 'come'
+PP -> IN NP
+IN -> 'on'
+NP -> NN
+NN -> 'puss'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VP
+VP -> VP CC VP
+VP -> VBD PP
+VBD -> 'happened'
+PP -> IN NP
+IN -> 'between'
+NP -> PRP
+PRP -> 'you'
+CC -> 'and'
+VP -> VB SBAR
+VB -> 'humpty'
+SBAR -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBD ADJP
+VBD -> 'was'
+ADJP -> RB JJ
+RB -> 'so'
+JJ -> 'bad'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VP CC VP
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> JJ PP
+JJ -> 'afraid'
+PP -> IN NP
+IN -> 'with'
+NP -> PRP
+PRP -> 'me'
+CC -> 'and'
+VP -> VB SBAR
+VB -> 'humpty'
+SBAR -> S
+S -> NP VP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'scars'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> RB JJ
+RB -> 'too'
+JJ -> 'deep'
+ROOT -> S
+S -> NP NP VP
+NP -> PRP
+PRP -> 'it'
+NP -> DT
+DT -> 'all'
+VP -> VBD ADVP
+VBD -> 'started'
+ADVP -> NP RB
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'long'
+NN -> 'time'
+RB -> 'ago'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'really'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB S
+VB -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP NP INTJ
+VB -> 'tell'
+NP -> PRP
+PRP -> 'me'
+NP -> PRP$ JJ NN NN
+PRP$ -> 'your'
+JJ -> 'whole'
+NN -> 'life'
+NN -> 'story'
+INTJ -> UH
+UH -> 'please'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'may'
+VP -> VB S
+VB -> 'want'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'sit'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ PP ADJP
+VBZ -> 'is'
+PP -> IN NP
+IN -> 'at'
+NP -> NNS
+NNS -> 'times'
+ADJP -> RB JJ
+RB -> 'quite'
+JJ -> 'painful'
+ROOT -> S
+S -> INTJ ADVP NP VP
+INTJ -> UH
+UH -> 'ok'
+ADVP -> RB
+RB -> 'here'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP
+VBP -> 'go'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBD NP
+VBD -> 'was'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'a'
+NN -> 'year'
+SBAR -> WHPP S
+WHPP -> IN WHNP
+IN -> 'in'
+WHNP -> WDT
+WDT -> 'which'
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'rain'
+VP -> VBD RB VP
+VBD -> 'had'
+RB -> 'not'
+VP -> VBN
+VBN -> 'fallen'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'wind'
+VP -> VBD ADJP
+VBD -> 'was'
+ADJP -> JJ
+JJ -> 'big'
+CC -> 'and'
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'basket'
+VP -> VBD ADJP
+VBD -> 'was'
+ADJP -> JJ
+JJ -> 'small'
+ROOT -> S
+S -> PP NP VP
+PP -> IN NP
+IN -> 'for'
+NP -> NNS
+NNS -> 'days'
+NP -> PRP
+PRP -> 'i'
+VP -> VBD PP NP
+VBD -> 'bounced'
+PP -> IN NP
+IN -> 'along'
+NP -> NP PP
+NP -> DT JJ JJ NN
+DT -> 'a'
+JJ -> 'hungry'
+JJ -> 'little'
+NN -> 'kitten'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NN
+DT -> 'no'
+NN -> 'milk'
+NP -> NP CC NP
+NP -> DT NN
+DT -> 'no'
+NN -> 'mama'
+CC -> 'and'
+NP -> DT NN NN
+DT -> 'no'
+NN -> 'litter'
+NN -> 'box'
+ROOT -> SBAR
+SBAR -> IN S
+IN -> 'until'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD S
+VBD -> 'came'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'rest'
+PP -> IN NP
+IN -> 'at'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'home'
+PP -> IN NP
+IN -> 'for'
+NP -> VBN NNS
+VBN -> 'lost'
+NNS -> 'children'
+ROOT -> S
+S -> NP VP
+NP -> PRP$ NN
+PRP$ -> 'her'
+NN -> 'name'
+VP -> VBD NP
+VBD -> 'was'
+NP -> NNP
+NNP -> 'imelda'
+ROOT -> S
+S -> CC INTJ NP VP
+CC -> 'and'
+INTJ -> INTJ NP
+INTJ -> UH
+UH -> 'like'
+NP -> DT NN
+DT -> 'a'
+NN -> 'mother'
+NP -> PRP
+PRP -> 'she'
+VP -> VP CC VP
+VP -> VBD NP PP
+VBD -> 'took'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'into'
+NP -> PRP$ NN
+PRP$ -> 'her'
+NN -> 'heart'
+CC -> 'and'
+VP -> VBD NP PP
+VBD -> 'raised'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'as'
+NP -> PRP$ JJ
+PRP$ -> 'her'
+JJ -> 'own'
+ROOT -> NP
+NP -> NN
+NN -> 'silencio'
+ROOT -> NP
+NP -> NN
+NN -> 'silencio'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBD NP
+VBD -> 'was'
+NP -> NP PP
+NP -> DT NN
+DT -> 'an'
+NN -> 'angel'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'kindness'
+ROOT -> NP
+NP -> NN
+NN -> 'silencio'
+ROOT -> NP
+NP -> NP PP
+NP -> JJS
+JJS -> 'most'
+PP -> IN NP
+IN -> 'of'
+NP -> DT NN
+DT -> 'the'
+NN -> 'time'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'would'
+VP -> VB S
+VB -> 'like'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP S
+VB -> 'introduce'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'new'
+NN -> 'boy'
+S -> VP
+VP -> VBG NP
+VBG -> 'joining'
+NP -> PRP
+PRP -> 'us'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> JJ NN
+JJ -> 'ok'
+NN -> 'pequeo'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP PP
+VBP -> 'show'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NN
+DT -> 'the'
+NN -> 'face'
+ROOT -> S
+S -> VP
+VP -> VB ADVP
+VB -> 'go'
+ADVP -> RB
+RB -> 'on'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> DT
+DT -> 'that'
+VP -> VBD NP
+VBD -> 'was'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'the'
+NN -> 'moment'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'met'
+NP -> JJ NN NN
+JJ -> 'humpty'
+NN -> 'alexander'
+NN -> 'dumpty'
+ROOT -> FRAG
+FRAG -> INTJ NP
+INTJ -> UH
+UH -> 'hey'
+NP -> NNS
+NNS -> 'whiskers'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG PP
+VBG -> 'sitting'
+PP -> IN NP
+IN -> 'in'
+NP -> JJ NML NN
+JJ -> 'little'
+NML -> NN NNS
+NN -> 'boy'
+NNS -> 'blues'
+NN -> 'chair'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'oh'
+VP -> VB PRT
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+ROOT -> SQ
+SQ -> VBZ NP ADJP
+VBZ -> 'is'
+NP -> DT
+DT -> 'this'
+ADJP -> JJ
+JJ -> 'necessary'
+ROOT -> S
+S -> SBAR NP VP
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'why'
+S -> VP
+VP -> VBP RB
+VBP -> 'do'
+RB -> 'not'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP PP
+VBP -> 'pick'
+PP -> IN NP
+IN -> 'on'
+NP -> NP NP
+NP -> NN
+NN -> 'somebody'
+NP -> PRP$ JJ NN
+PRP$ -> 'your'
+JJ -> 'own'
+NN -> 'size'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'who'
+SQ -> VP
+VP -> VBD NP NP
+VBD -> 'asked'
+NP -> PRP
+PRP -> 'you'
+NP -> NN
+NN -> 'breakfast'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> VP
+VP -> VB SBAR
+VB -> 'remember'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> NNP
+NNP -> 'imelda'
+VP -> VBZ S
+VBZ -> 'says'
+S -> NP ADJP SBAR
+NP -> NN
+NN -> 'boy'
+ADJP -> JJ
+JJ -> 'blue'
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'blow'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'top'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP ADVP
+VBP -> 'blow'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'horn'
+ADVP -> RB RB
+RB -> 'instead'
+RB -> 'right'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'us'
+VP -> VB NP
+VB -> 'spin'
+NP -> PRP
+PRP -> 'him'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'please'
+VP -> VB RB VP
+VB -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'spin'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'spin'
+NP -> PRP
+PRP -> 'me'
+ROOT -> ADVP
+ADVP -> RB RB
+RB -> 'not'
+RB -> 'again'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBG PP
+VBG -> 'going'
+PP -> IN NP
+IN -> 'to'
+NP -> NN
+NN -> 'yolk'
+ROOT -> S
+S -> ADVP SBAR NP VP
+ADVP -> RB
+RB -> 'even'
+SBAR -> IN S
+IN -> 'though'
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD NP
+VBD -> 'took'
+NP -> PRP$ NNS
+PRP$ -> 'my'
+NNS -> 'beans'
+NP -> DT NN
+DT -> 'the'
+NN -> 'egg'
+VP -> VBD PRT SBAR
+VBD -> 'stood'
+PRT -> RP
+RP -> 'up'
+SBAR -> IN S
+IN -> 'for'
+S -> NP VP
+NP -> PRP CC PRP
+PRP -> 'me'
+CC -> 'and'
+PRP -> 'i'
+VP -> VBD ADVP SBAR
+VBD -> 'decided'
+ADVP -> RB
+RB -> 'then'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD ADVP VP
+MD -> 'would'
+ADVP -> RB
+RB -> 'always'
+VP -> VB NP
+VB -> 'have'
+NP -> PRP$ NN
+PRP$ -> 'his'
+NN -> 'back'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'wow'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBD ADJP
+VBD -> 'was'
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'impressive'
+ROOT -> NP
+NP -> NNS
+NNS -> 'thanks'
+ROOT -> FRAG
+FRAG -> INTJ NP
+INTJ -> UH
+UH -> 'hey'
+NP -> NN NN
+NN -> 'egg'
+NN -> 'boy'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'there'
+VP -> VBD NP
+VBD -> 'was'
+NP -> NP PP
+NP -> NN
+NN -> 'something'
+PP -> IN NP
+IN -> 'about'
+NP -> NP SBAR
+NP -> DT JJ JJ NN
+DT -> 'this'
+JJ -> 'strange'
+JJ -> 'little'
+NN -> 'egg'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'that'
+S -> VP
+VP -> VBD NP
+VBD -> 'intrigued'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'oh'
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBG PP ADVP
+VBG -> 'collecting'
+PP -> IN NP
+IN -> 'for'
+NP -> NNS
+NNS -> 'months'
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'never'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB ADJP
+VB -> 'get'
+ADJP -> JJ
+JJ -> 'lucky'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP
+VBP -> 'mean'
+ROOT -> S
+S -> NP VP
+NP -> JJ NNS
+JJ -> 'magic'
+NNS -> 'beans'
+VP -> VBZ SBAR
+VBZ -> 'is'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP
+VBP -> 'are'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'hello'
+ROOT -> SQ
+SQ -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'tell'
+NP -> NP SBAR
+NP -> PDT DT JJ NNS
+PDT -> 'all'
+DT -> 'the'
+JJ -> 'other'
+NNS -> 'kids'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'that'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP PP ADVP
+VBP -> 'believe'
+PP -> IN NP
+IN -> 'in'
+NP -> NN
+NN -> 'magic'
+ADVP -> RB
+RB -> 'now'
+ROOT -> SQ
+SQ -> VBZ NP SBAR
+VBZ -> 'is'
+NP -> DT
+DT -> 'that'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'do'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'name'
+ROOT -> SQ
+SQ -> S SQ
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB ADJP
+VB -> 'say'
+ADJP -> JJ
+JJ -> 'much'
+SQ -> VBP NP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB S
+VB -> 'call'
+S -> NP ADJP
+NP -> PRP
+PRP -> 'you'
+ADJP -> JJ
+JJ -> 'sparky'
+ROOT -> NP
+NP -> NNS
+NNS -> 'whiskers'
+ROOT -> NP
+NP -> NNP
+NNP -> 'zoltar'
+ROOT -> FRAG
+FRAG -> ADVP NP
+ADVP -> WRB
+WRB -> 'how'
+NP -> QP NN
+QP -> RB
+RB -> 'about'
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> JJ NN
+JJ -> 'humptys'
+NN -> 'mind'
+VP -> VBD ADJP
+VBD -> 'was'
+ADJP -> JJ PP
+JJ -> 'full'
+PP -> IN NP
+IN -> 'of'
+NP -> NN CC NN
+NN -> 'imagination'
+CC -> 'and'
+NN -> 'invention'
+ROOT -> SBAR
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> VP
+VP -> VBZ ADVP ADVP
+VBZ -> 'is'
+ADVP -> IN NP
+IN -> 'that'
+NP -> CD NNS
+CD -> '50'
+NNS -> 'feet'
+ADVP -> RB RB
+RB -> 'down'
+RB -> 'there'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'here'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP
+VBP -> 'go'
+ROOT -> S
+S -> VP
+VP -> VB NP NP
+VB -> 'give'
+NP -> PRP
+PRP -> 'me'
+NP -> DT NN
+DT -> 'a'
+NN -> 'puss'
+ROOT -> S
+S -> VP
+VP -> VB PP NP
+VB -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> PRP
+PRP -> 'me'
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBG
+VBG -> 'flying'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD PP PP
+VBD -> 'spoke'
+PP -> IN NP
+IN -> 'of'
+NP -> NNS CC NNS
+NNS -> 'legends'
+CC -> 'and'
+NNS -> 'adventures'
+PP -> IN NP
+IN -> 'beyond'
+NP -> PRP$ JJ NNS
+PRP$ -> 'my'
+JJ -> 'wildest'
+NNS -> 'dreams'
+ROOT -> S
+S -> SBAR NP VP
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'find'
+NP -> DT JJ NNS
+DT -> 'those'
+JJ -> 'magic'
+NNS -> 'beans'
+NP -> PRP
+PRP -> 'they'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP ADVP SBAR
+VB -> 'grow'
+NP -> DT NN
+DT -> 'a'
+NN -> 'vine'
+ADVP -> ADVP PP
+ADVP -> RB RB
+RB -> 'straight'
+RB -> 'up'
+PP -> IN NP
+IN -> 'into'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'clouds'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'where'
+S -> NP VP
+NP -> NP CC NP
+NP -> DT JJ
+DT -> 'a'
+JJ -> 'terrible'
+CC -> 'and'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'fearsome'
+NN -> 'giant'
+VP -> VBZ NP
+VBZ -> 'hoards'
+NP -> NP NP
+NP -> PRP$ JJS NN
+PRP$ -> 'his'
+JJS -> 'greatest'
+NN -> 'treasure'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'golden'
+NN -> 'goose'
+ROOT -> NP
+NP -> INTJ DT JJ NN
+INTJ -> UH
+UH -> 'oh'
+DT -> 'the'
+JJ -> 'golden'
+NN -> 'goose'
+ROOT -> FRAG
+FRAG -> NP
+NP -> RB CD
+RB -> 'just'
+CD -> 'one'
+ROOT -> S
+S -> NP VP
+NP -> NP PP
+NP -> RB CD
+RB -> 'just'
+CD -> 'one'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP$ JJ NNS
+PRP$ -> 'her'
+JJ -> 'golden'
+NNS -> 'eggs'
+VP -> MD VP
+MD -> 'could'
+VP -> VB NP PP
+VB -> 'set'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'life'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN NN
+PRP$ -> 'my'
+NN -> 'destiny'
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB ADVP VP
+MD -> 'can'
+RB -> 'not'
+ADVP -> RB
+RB -> 'really'
+VP -> VB NP SBAR
+VB -> 'explain'
+NP -> PRP
+PRP -> 'it'
+SBAR -> CC S
+CC -> 'but'
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'just'
+VP -> VBP SBAR
+VBP -> 'feel'
+SBAR -> IN S
+IN -> 'like'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP
+VBP -> 'belong'
+ADVP -> RB RB
+RB -> 'up'
+RB -> 'there'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'boy'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'awkward'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP ADVP
+VBZ -> 'is'
+NP -> NP PP
+NP -> NN
+NN -> 'kind'
+PP -> IN NP
+IN -> 'of'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'solo'
+NN -> 'dream'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'need'
+NP -> DT JJ NN
+DT -> 'any'
+JJ -> 'dead'
+NN -> 'weight'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP S
+VBP -> 'know'
+S -> VP
+VP -> VBG NP PRT
+VBG -> 'holding'
+NP -> PRP
+PRP -> 'me'
+PRT -> RP
+RP -> 'down'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBP NP VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+VP -> VBG
+VBG -> 'doing'
+ROOT -> S
+S -> INTJ INTJ NP VP
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'man'
+NP -> DT
+DT -> 'that'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'good'
+ROOT -> S
+S -> NP VP
+NP -> NP SBAR
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'eye'
+NN -> 'thing'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'that'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG NP
+VBG -> 'doing'
+NP -> DT
+DT -> 'that'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> RB JJ
+RB -> 'really'
+JJ -> 'splendid'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'ok'
+VP -> VB SBAR
+VB -> 'let'
+SBAR -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'me'
+ADVP -> RB
+RB -> 'just'
+VP -> VBP PP
+VBP -> 'think'
+PP -> IN NP
+IN -> 'for'
+NP -> DT JJ
+DT -> 'a'
+JJ -> 'second'
+ROOT -> FRAG
+FRAG -> ADVP ADJP
+ADVP -> RB RB
+RB -> 'all'
+RB -> 'right'
+ADJP -> JJ
+JJ -> 'ok'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ ADJP ADVP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'crazy'
+ADVP -> CC
+CC -> 'but'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBG NP
+VBG -> 'considering'
+NP -> DT NN
+DT -> 'a'
+NN -> 'partnership'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'just'
+VP -> VBP S
+VBP -> 'need'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'know'
+NP -> CD NN
+CD -> 'one'
+NN -> 'thing'
+ROOT -> SQ
+SQ -> MD NP VP
+MD -> 'can'
+NP -> PRP
+PRP -> 'you'
+VP -> VB
+VB -> 'commit'
+ROOT -> NP
+NP -> NN
+NN -> 's'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'can'
+VP -> VB
+VB -> 'commit'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'oh'
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'can'
+VP -> VB
+VB -> 'talk'
+ROOT -> SQ
+SQ -> MD NP VP
+MD -> 'could'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP PRT
+VB -> 'help'
+NP -> PRP
+PRP -> 'me'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> NP-TMP NP VP
+NP-TMP -> NP PP
+NP -> JJ JJ NN
+JJ -> 'ok'
+JJ -> 'first'
+NN -> 'rule'
+PP -> IN NP
+IN -> 'of'
+NP -> NN NN
+NN -> 'bean'
+NN -> 'club'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'talk'
+PP -> IN NP
+IN -> 'about'
+NP -> NN NN
+NN -> 'bean'
+NN -> 'club'
+ROOT -> S
+S -> NP VP
+NP -> NP PP
+NP -> JJ NN
+JJ -> 'second'
+NN -> 'rule'
+PP -> IN NP
+IN -> 'of'
+NP -> NN NN
+NN -> 'bean'
+NN -> 'club'
+VP -> VBZ SBAR
+VBZ -> 'is'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'talk'
+PP -> IN NP
+IN -> 'about'
+NP -> NN NN
+NN -> 'bean'
+NN -> 'club'
+ROOT -> S
+S -> NP ADJP
+NP -> PRP
+PRP -> 'you'
+ADJP -> JJ
+JJ -> 'ready'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'ready'
+ROOT -> FRAG
+FRAG -> PP
+PP -> IN S
+IN -> 'from'
+S -> S CC S
+S -> ADVP NP VP
+ADVP -> NP RB
+NP -> DT NN
+DT -> 'this'
+NN -> 'day'
+RB -> 'forth'
+NP -> PRP
+PRP -> 'it'
+VP -> MD VP
+MD -> 'shall'
+VP -> VB VP
+VB -> 'be'
+VP -> VBN ADVP PP
+VBN -> 'known'
+ADVP -> RB JJ
+RB -> 'never'
+JJ -> 'alone'
+PP -> ADVP RB ADJP
+ADVP -> RB
+RB -> 'always'
+RB -> 'together'
+ADJP -> JJ
+JJ -> 'humpty'
+CC -> 'and'
+S -> NP ADVP
+NP -> NN NNS
+NN -> 'puss'
+NNS -> 'brothers'
+ADVP -> RB
+RB -> 'forever'
+ROOT -> S
+S -> CC ADVP NP VP
+CC -> 'and'
+ADVP -> PP IN
+PP -> IN NP
+IN -> 'from'
+NP -> DT NN
+DT -> 'that'
+NN -> 'moment'
+IN -> 'on'
+NP -> PRP
+PRP -> 'we'
+VP -> VBD VP
+VBD -> 'were'
+VP -> VBN PP S
+VBN -> 'united'
+PP -> IN NP
+IN -> 'on'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'great'
+NN -> 'adventure'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'find'
+NP -> DT NN NNS
+DT -> 'the'
+NN -> 'magic'
+NNS -> 'beans'
+ROOT -> S
+S -> VP
+VP -> VB NP PRT
+VB -> 'help'
+NP -> PRP
+PRP -> 'me'
+PRT -> RP
+RP -> 'up'
+ROOT -> FRAG
+FRAG -> NP NP
+NP -> NN
+NN -> 'egg'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> NN
+NN -> 'humpty'
+VP -> VBD NP
+VBD -> 'was'
+NP -> NP ADJP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'brains'
+ADJP -> JJ JJ
+JJ -> 'good'
+JJ -> 'gracious'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'never'
+VP -> VBD NP
+VBD -> 'saw'
+NP -> PRP
+PRP -> 'him'
+ROOT -> FRAG
+FRAG -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> ADVP VBN
+ADVP -> RB
+RB -> 'really'
+VBN -> 'hurt'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'was'
+NP -> DT NN
+DT -> 'the'
+NN -> 'skill'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBN
+VBN -> 'cracked'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP NP
+VBD -> 'got'
+NP -> JJ NNS
+JJ -> 'red'
+NNS -> 'beans'
+NP -> JJ NNS
+JJ -> 'green'
+NNS -> 'beans'
+NP -> NN NNS
+NN -> 'coffee'
+NNS -> 'beans'
+VP -> VBP NP
+VBP -> 'lima'
+NP -> NP PP
+NP -> NNS
+NNS -> 'beans'
+PP -> CC NP
+CC -> 'but'
+NP -> DT NN NNS
+DT -> 'no'
+NN -> 'magic'
+NNS -> 'beans'
+ROOT -> SQ
+SQ -> MD NP VP
+MD -> 'would'
+NP -> PRP
+PRP -> 'you'
+VP -> VB PP
+VB -> 'care'
+PP -> IN NP
+IN -> 'for'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'jelly'
+NN -> 'bean'
+ROOT -> S
+S -> VP
+VP -> VBP NP
+VBP -> 'thank'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> VP
+VP -> VBG SBAR
+VBG -> 'finding'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'them'
+VP -> VBD NP PP
+VBD -> 'meant'
+NP -> NN
+NN -> 'everything'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'us'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'almost'
+VP -> VBD NP
+VBD -> 'forgot'
+NP -> DT ADJP NN
+DT -> 'the'
+ADJP -> RBS JJ
+RBS -> 'most'
+JJ -> 'important'
+NN -> 'thing'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP
+PRP -> 'me'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'puss'
+ROOT -> NP
+NP -> PRP CC PRP
+PRP -> 'me'
+CC -> 'and'
+PRP -> 'you'
+ROOT -> S
+S -> CC NP ADVP VP
+CC -> 'but'
+NP -> PRP
+PRP -> 'we'
+ADVP -> RB
+RB -> 'never'
+VP -> VBD VP
+VBD -> 'did'
+VP -> VB NP
+VB -> 'find'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> CC SBAR VP
+CC -> 'and'
+SBAR -> IN S
+IN -> 'as'
+S -> NP VP
+NP -> NNS
+NNS -> 'years'
+VP -> VBD NP PP
+VBD -> 'passed'
+NP -> DT NN
+DT -> 'the'
+NN -> 'quest'
+PP -> IN NP
+IN -> 'for'
+NP -> JJ NNS
+JJ -> 'magic'
+NNS -> 'beans'
+VP -> VBD ADVP PP
+VBD -> 'seemed'
+ADVP -> RBR CC RBR
+RBR -> 'more'
+CC -> 'and'
+RBR -> 'more'
+PP -> IN NP
+IN -> 'like'
+NP -> NP PP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'dreams'
+PP -> IN NP
+IN -> 'of'
+NP -> DT NN
+DT -> 'a'
+NN -> 'child'
+ROOT -> SBAR
+SBAR -> IN S
+IN -> 'as'
+S -> S CC S
+S -> NP ADJP
+NP -> NNS
+NNS -> 'teenagers'
+ADJP -> JJ
+JJ -> 'humpty'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VP CC ADVP VP
+VP -> VBD PP
+VBD -> 'looked'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'trouble'
+CC -> 'and'
+ADVP -> RB
+RB -> 'often'
+VP -> VBD NP
+VBD -> 'found'
+NP -> PRP
+PRP -> 'it'
+ROOT -> NP
+NP -> NP NP-TMP NP
+NP -> JJ NN
+JJ -> 'third'
+NN -> 'time'
+NP-TMP -> DT NN
+DT -> 'this'
+NN -> 'month'
+NP -> NNP
+NNP -> 'imelda'
+ROOT -> S
+S -> NP VP
+NP -> JJ NN
+JJ -> 'next'
+NN -> 'time'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NN NN
+NN -> 'jail'
+NN -> 'time'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP ADVP NP
+VBP -> 'are'
+ADVP -> RB
+RB -> 'just'
+NP -> NNS
+NNS -> 'kids'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NNS
+NNS -> 'thieves'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> ADJP PP
+ADJP -> JJR
+JJR -> 'better'
+PP -> IN NP
+IN -> 'than'
+NP -> DT
+DT -> 'this'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP PP PP
+VBP -> 'believe'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'with'
+NP -> PDT PRP$ NN
+PDT -> 'all'
+PRP$ -> 'my'
+NN -> 'heart'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'please'
+VP -> VB RB VP
+VB -> 'do'
+RB -> 'not'
+VP -> VB NP PRT
+VB -> 'let'
+NP -> PRP
+PRP -> 'me'
+PRT -> RP
+RP -> 'down'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'hate'
+NP -> DT NN
+DT -> 'this'
+NN -> 'place'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'can'
+RB -> 'not'
+VP -> VB PP S
+VB -> 'wait'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'us'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB ADVP
+VB -> 'get'
+ADVP -> IN PP
+IN -> 'out'
+PP -> IN ADVP
+IN -> 'of'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'throw'
+NP -> DT NN
+DT -> 'a'
+NN -> 'rock'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> MD VP
+MD -> 'will'
+VP -> VB S
+VB -> 'make'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB ADVP
+VB -> 'feel'
+ADVP -> RBR
+RBR -> 'better'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'boy'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'should'
+VP -> VB
+VB -> 'go'
+ROOT -> S
+S -> PP NP VP
+PP -> IN NP
+IN -> 'on'
+NP -> NN
+NN -> 'instinct'
+NP -> PRP
+PRP -> 'i'
+VP -> VBD
+VBD -> 'reacted'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD NP
+VBD -> 'saved'
+NP -> DT NNS NN
+DT -> 'the'
+NNS -> 'comandantes'
+NN -> 'mother'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD NP
+VBD -> 'saved'
+NP -> DT NNS NN
+DT -> 'the'
+NNS -> 'comandantes'
+NN -> 'mother'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'saved'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'mother'
+ROOT -> S
+S -> NP NP VP
+NP -> NN NN
+NN -> 'seor'
+NN -> 'puss'
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT NN
+DT -> 'a'
+NN -> 'hero'
+ROOT -> S
+S -> NP-TMP NP VP
+NP-TMP -> NN
+NN -> 'today'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP SBAR
+VBP -> 'see'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> NN CC NN
+NN -> 'courage'
+CC -> 'and'
+NN -> 'bravery'
+VP -> VBP PP
+VBP -> 'come'
+PP -> IN NP
+IN -> 'in'
+NP -> DT NNS
+DT -> 'all'
+NNS -> 'sizes'
+ROOT -> S
+S -> NP VP
+NP -> RB
+RB -> 'little'
+VP -> VBD SBAR
+VBD -> 'did'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> CD NN
+CD -> 'one'
+NN -> 'moment'
+VP -> MD VP
+MD -> 'would'
+VP -> VB NP
+VB -> 'change'
+NP -> PRP$ JJ NN
+PRP$ -> 'my'
+JJ -> 'whole'
+NN -> 'life'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'these'
+VP -> VBP PP NP
+VBP -> 'are'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'you'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'boy'
+ROOT -> S
+S -> VP
+VP -> VB NP PP
+VB -> 'wear'
+NP -> PRP
+PRP -> 'them'
+PP -> IN NP
+IN -> 'as'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'symbol'
+PP -> IN NP
+IN -> 'of'
+NP -> NN CC NN
+NN -> 'honor'
+CC -> 'and'
+NN -> 'justice'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'make'
+NP -> PRP JJ NN
+PRP -> 'you'
+JJ -> 'proud'
+NN -> 'mama'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'already'
+VP -> VBP NP PP
+VBP -> 'have'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+ROOT -> FRAG
+FRAG -> SBAR
+SBAR -> WHADJP S
+WHADJP -> WRB JJ
+WRB -> 'how'
+JJ -> 'strange'
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBD S
+VBD -> 'was'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP NP
+VB -> 'give'
+NP -> DT NN
+DT -> 'a'
+NN -> 'cat'
+NP -> NP SBAR
+NP -> NNS
+NNS -> 'boots'
+SBAR -> CC FRAG
+CC -> 'but'
+FRAG -> INTJ
+INTJ -> UH
+UH -> 'whoa'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD ADJP
+VBD -> 'looked'
+ADJP -> JJ
+JJ -> 'good'
+ROOT -> S
+S -> CC SBAR NP VP
+CC -> 'and'
+SBAR -> IN S
+IN -> 'as'
+S -> NP VP
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'light'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'path'
+VP -> VBD NP
+VBD -> 'grew'
+NP -> JJR NNS
+JJR -> 'brighter'
+NNS -> 'humptys'
+NP -> NN
+NN -> 'road'
+VP -> VBD ADJP
+VBD -> 'grew'
+ADJP -> RB JJR
+RB -> 'ever'
+JJR -> 'darker'
+ROOT -> S
+S -> NP VP
+NP -> NNS
+NNS -> 'gracias'
+VP -> VBP
+VBP -> 'comandante'
+ROOT -> S
+S -> VP
+VP -> VB ADJP
+VB -> 'be'
+ADJP -> JJ PP
+JJ -> 'careful'
+PP -> IN NP
+IN -> 'of'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'the'
+NN -> 'company'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'keep'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP
+VBP -> 'know'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'never'
+VP -> MD VP
+MD -> 'should'
+VP -> VB VP
+VB -> 'have'
+VP -> VBN NP PP
+VBN -> 'tried'
+NP -> NN
+NN -> 'something'
+PP -> IN NP
+IN -> 'without'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> PRN S
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'are'
+RB -> 'not'
+VP -> VBG NP
+VBG -> 'stealing'
+NP -> NNS
+NNS -> 'lollipops'
+S -> ADVP ADJP
+ADVP -> RB
+RB -> 'anymore'
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ VP
+VBZ -> 'is'
+VP -> VBG ADJP
+VBG -> 'getting'
+ADJP -> JJ
+JJ -> 'serious'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> JJ
+JJ -> 'right'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP S
+VBP -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB ADJP
+VB -> 'be'
+ADJP -> ADJP PP
+ADJP -> JJR
+JJR -> 'smarter'
+PP -> IN NP
+IN -> 'about'
+NP -> DT
+DT -> 'this'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'here'
+VP -> VB
+VB -> 'look'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP S
+VBP -> 'need'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'think'
+NP -> JJR
+JJR -> 'bigger'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBG NP
+VBG -> 'casing'
+NP -> DT NN
+DT -> 'the'
+NN -> 'silversmith'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'perfect'
+ROOT -> S
+S -> NP VP
+NP -> NP PP
+NP -> PRP CC PRP
+PRP -> 'you'
+CC -> 'and'
+PRP -> 'me'
+PP -> IN CC IN NP
+IN -> 'in'
+CC -> 'and'
+IN -> 'out'
+NP -> CD NNS
+CD -> '50'
+NNS -> 'seconds'
+VP -> VBZ
+VBZ -> 'tops'
+ROOT -> SQ
+SQ -> MD NP VP
+MD -> 'will'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP ADVP
+VB -> 'put'
+NP -> DT
+DT -> 'that'
+ADVP -> RB
+RB -> 'away'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'home'
+ROOT -> S
+S -> NP VP
+NP -> DT NNS
+DT -> 'these'
+NNS -> 'people'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN NP PP
+VBN -> 'done'
+NP -> NN
+NN -> 'nothing'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'us'
+ROOT -> NP
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'home'
+ROOT -> S
+S -> INTJ INTJ NP VP
+INTJ -> UH
+UH -> 'ok'
+INTJ -> UH
+UH -> 'yeah'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP ADVP
+VBP -> 'get'
+NP -> PRP
+PRP -> 'it'
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'get'
+NP -> DT JJ NNS
+DT -> 'some'
+JJ -> 'fancy'
+NNS -> 'boots'
+CC -> 'and'
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'now'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> RB JJ PP
+RB -> 'too'
+JJ -> 'good'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ RB ADJP
+VBZ -> 'is'
+RB -> 'not'
+ADJP -> JJ
+JJ -> 'true'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD RB VP
+VBD -> 'were'
+RB -> 'not'
+VP -> VBN ADVP
+VBN -> 'born'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NNS
+NNS -> 'orphans'
+ROOT -> S
+S -> NP PRN VP
+NP -> DT
+DT -> 'all'
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD
+VBD -> 'got'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP SBAR
+NP -> DT JJ
+DT -> 'each'
+JJ -> 'other'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'understand'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> ADJP PP
+ADJP -> JJR
+JJR -> 'better'
+PP -> IN NP
+IN -> 'than'
+NP -> DT
+DT -> 'this'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NNS
+NNS -> 'partners'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NNS
+NNS -> 'brothers'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'am'
+RB -> 'not'
+VP -> VBG ADVP
+VBG -> 'stealing'
+ADVP -> RB
+RB -> 'anymore'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> NN
+NN -> 'humpty'
+VP -> MD RB VP
+MD -> 'would'
+RB -> 'not'
+VP -> VB PRT ADVP
+VB -> 'give'
+PRT -> RP
+RP -> 'up'
+ADVP -> RB RB
+RB -> 'so'
+RB -> 'easily'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP PP
+VBP -> 'am'
+PP -> IN NP
+IN -> 'in'
+NP -> NN NN
+NN -> 'trouble'
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP CC NP
+NP -> NN JJ
+NN -> 'boy'
+JJ -> 'blue'
+CC -> 'and'
+NP -> PRP$ NN
+PRP$ -> 'his'
+NN -> 'gang'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP NP
+VBP -> 'owe'
+NP -> PRP
+PRP -> 'them'
+NP -> DT NN
+DT -> 'some'
+NN -> 'money'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG PP
+VBG -> 'coming'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'just'
+VP -> VB NP PP
+VB -> 'get'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'over'
+NP -> DT NN
+DT -> 'this'
+NN -> 'wall'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD S
+VBD -> 'got'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'go'
+ROOT -> S
+S -> VP
+VP -> VB NP PP
+VB -> 'help'
+NP -> PRP
+PRP -> 'me'
+PP -> RP NP
+RP -> 'up'
+NP -> DT NN
+DT -> 'the'
+NN -> 'wall'
+ROOT -> S
+S -> VP
+VP -> VB NP PP
+VB -> 'get'
+NP -> PRP
+PRP -> 'me'
+PP -> RP NP
+RP -> 'up'
+NP -> DT NN
+DT -> 'the'
+NN -> 'wall'
+ROOT -> NP
+NP -> NN
+NN -> 'hurry'
+ROOT -> NP
+NP -> NN
+NN -> 'hurry'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'ok'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN NP
+VBN -> 'got'
+NP -> NN
+NN -> 'everything'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> VP
+VP -> VB PRT S
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'us'
+VP -> VB
+VB -> 'go'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'how'
+SQ -> MD NP VP
+MD -> 'could'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP PP
+VB -> 'do'
+NP -> DT
+DT -> 'this'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD S
+VBD -> 'did'
+S -> NP NP
+NP -> PRP
+PRP -> 'you'
+NP -> DT NN
+DT -> 'a'
+NN -> 'favor'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD ADVP VP
+MD -> 'can'
+ADVP -> RB
+RB -> 'finally'
+VP -> VB ADVP
+VB -> 'get'
+ADVP -> IN PP
+IN -> 'out'
+PP -> IN ADVP
+IN -> 'of'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'money'
+PP -> IN NP
+IN -> 'of'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'people'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP SBAR
+NP -> DT
+DT -> 'all'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP
+VBP -> 'have'
+ROOT -> NP
+NP -> NP NP
+NP -> PRP$ NN
+PRP$ -> 'you'
+NN -> 'disgrace'
+NP -> DT NNS
+DT -> 'those'
+NNS -> 'boots'
+ROOT -> FRAG
+FRAG -> ADJP S
+ADJP -> JJ
+JJ -> 'comandante'
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'please'
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'can'
+VP -> VB
+VB -> 'explain'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'arrest'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'hurry'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> VP
+VP -> VB PP
+VB -> 'get'
+PP -> IN NP
+IN -> 'to'
+NP -> DT NN
+DT -> 'the'
+NN -> 'bridge'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'tricked'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD S
+VBD -> 'had'
+S -> VP
+VP -> TO
+TO -> 'to'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP NP
+VBD -> 'left'
+NP -> PRP
+PRP -> 'me'
+NP -> DT NN
+DT -> 'no'
+NN -> 'choice'
+ROOT -> NP
+NP -> NN NN
+NN -> 'mama'
+NN -> 'pequeo'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'watch'
+PRT -> RP
+RP -> 'out'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'no'
+ROOT -> NP
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'can'
+RB -> 'not'
+VP -> VB PRT
+VB -> 'get'
+PRT -> RP
+RP -> 'up'
+ROOT -> NP
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'help'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'can'
+RB -> 'not'
+VP -> VB PRT
+VB -> 'get'
+PRT -> RP
+RP -> 'up'
+ROOT -> NP
+NP -> NN
+NN -> 'freeze'
+ROOT -> NP
+NP -> NP PP
+NP -> NN
+NN -> 'puss'
+PP -> IN NP
+IN -> 'save'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'save'
+NP -> PRP
+PRP -> 'yourself'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP
+VBD -> 'got'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'lost'
+NP -> NN
+NN -> 'everything'
+NP -> PRP
+PRP -> 'i'
+VP -> VBD PP
+VBD -> 'cared'
+PP -> IN NP
+IN -> 'about'
+NP -> DT NN
+DT -> 'that'
+NN -> 'day'
+ROOT -> NP
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'brother'
+ROOT -> NP
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'honor'
+ROOT -> NP
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'home'
+ROOT -> S
+S -> NP PRN VP
+NP -> DT
+DT -> 'all'
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD ADVP
+VBD -> 'thought'
+ADVP -> RB
+RB -> 'about'
+VP -> VBD NP
+VBD -> 'was'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'disappointment'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP$ NNS NNS
+PRP$ -> 'my'
+NNS -> 'mamas'
+NNS -> 'eyes'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBG ADVP
+VBG -> 'running'
+ADVP -> RB RB
+RB -> 'ever'
+RB -> 'since'
+ROOT -> S
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'egg'
+VP -> VBD NP
+VBD -> 'betrayed'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP$ NNS
+PRP$ -> 'his'
+NNS -> 'lies'
+VP -> VBD NP NP
+VBD -> 'cost'
+NP -> PRP
+PRP -> 'me'
+NP -> NN
+NN -> 'everything'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'hey'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'awake'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB S
+VB -> 'want'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'fix'
+NP -> DT NN
+DT -> 'the'
+NN -> 'past'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'can'
+RB -> 'not'
+VP -> VB PRT
+VB -> 'get'
+PRT -> RP
+RP -> 'down'
+ROOT -> S
+S -> VP
+VP -> VB
+VB -> 'listen'
+ROOT -> S
+S -> NP-TMP NP VP
+NP-TMP -> DT NN
+DT -> 'a'
+NN -> 'day'
+NP -> DT NN
+DT -> 'a'
+NN -> 'day'
+VP -> VBZ RB VP
+VBZ -> 'does'
+RB -> 'not'
+VP -> VB PP
+VB -> 'go'
+PP -> IN SBAR
+IN -> 'by'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'think'
+PP -> IN SBAR
+IN -> 'about'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD
+VBD -> 'lost'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'lost'
+NP -> PRP$ JJS NN
+PRP$ -> 'my'
+JJS -> 'best'
+NN -> 'friend'
+ROOT -> NP
+NP -> PRP$ JJ NN
+PRP$ -> 'my'
+JJ -> 'only'
+NN -> 'friend'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP ADVP
+VBP -> 'get'
+NP -> PRP
+PRP -> 'it'
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD ADJP
+VBD -> 'got'
+ADJP -> JJ CC JJ
+JJ -> 'greedy'
+CC -> 'and'
+JJ -> 'desperate'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP PRT
+VBP -> 'let'
+NP -> PRP
+PRP -> 'you'
+PRT -> RP
+RP -> 'down'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PRT
+VBD -> 'let'
+NP -> PRP
+PRP -> 'myself'
+PRT -> RP
+RP -> 'down'
+ROOT -> S
+S -> NP PRN VP
+NP -> DT
+DT -> 'all'
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBG PP
+VBG -> 'asking'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'puss'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'second'
+NN -> 'chance'
+ROOT -> S
+S -> VP
+VP -> VB NP SBAR
+VB -> 'give'
+NP -> PRP
+PRP -> 'me'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> NP CC NP
+NP -> JJ NN
+JJ -> 'second'
+NN -> 'chance'
+CC -> 'and'
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB S
+VB -> 'help'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB PRT NP
+VB -> 'pay'
+PRT -> RB
+RB -> 'back'
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardo'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'please'
+VP -> VB
+VB -> 'puss'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'me'
+VP -> VB NP SBAR
+VB -> 'show'
+NP -> PRP
+PRP -> 'you'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'friendship'
+VP -> VBD PP
+VBD -> 'meant'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'do'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'great'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP PP
+VB -> 'do'
+NP -> DT
+DT -> 'this'
+PP -> PP CC PP
+PP -> IN NP
+IN -> 'for'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'mother'
+CC -> 'and'
+PP -> IN NP
+IN -> 'for'
+NP -> NP PP
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardo'
+PP -> RB IN NP
+RB -> 'not'
+IN -> 'for'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP RB NP
+VBP -> 'are'
+RB -> 'not'
+NP -> NNS
+NNS -> 'partners'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP RB NP
+VBP -> 'are'
+RB -> 'not'
+NP -> NNS
+NNS -> 'friends'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'ok'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'promise'
+NP -> DT NN
+DT -> 'this'
+NN -> 'time'
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'will'
+RB -> 'not'
+VP -> VB NP PRT
+VB -> 'let'
+NP -> PRP
+PRP -> 'you'
+PRT -> RP
+RP -> 'down'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'yes'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP ADVP
+VBD -> 'got'
+NP -> PRP$ NN NN
+PRP$ -> 'our'
+NN -> 'bean'
+NN -> 'club'
+ADVP -> RB
+RB -> 'back'
+ROOT -> S
+S -> NP VP
+NP -> NNS
+NNS -> 'humptys'
+VP -> VBP NP
+VBP -> 'plan'
+NP -> JJR NN
+JJR -> 'better'
+NN -> 'work'
+ROOT -> S
+S -> VP
+VP -> VB SBAR
+VB -> 'listen'
+SBAR -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'just'
+VP -> VBP S
+VBP -> 'need'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'worry'
+PP -> IN NP
+IN -> 'about'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'part'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP PRT
+VB -> 'screw'
+NP -> PRP
+PRP -> 'it'
+PRT -> RP
+RP -> 'up'
+ROOT -> SBARQ
+SBARQ -> WHNP
+WHNP -> WP
+WP -> 'what'
+ROOT -> PP
+PP -> ADVP IN NP
+ADVP -> RB
+RB -> 'again'
+IN -> 'with'
+NP -> DT NN
+DT -> 'the'
+NN -> 'mask'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP PP
+VB -> 'need'
+NP -> NN NN
+NN -> 'style'
+NN -> 'advice'
+PP -> IN NP
+IN -> 'from'
+NP -> NN
+NN -> 'mr'
+ROOT -> NP
+NP -> JJ NNS
+JJ -> 'dusty'
+NNS -> 'boots'
+ROOT -> S
+S -> VP
+VP -> VB PP
+VB -> 'come'
+PP -> IN NP
+IN -> 'on'
+NP -> NN
+NN -> 'puss'
+ROOT -> ADVP
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> NP VP
+NP -> PRP$ JJ NNS
+PRP$ -> 'our'
+JJ -> 'biological'
+NNS -> 'clocks'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG NP
+VBG -> 'tickin'
+NP -> NN
+NN -> 'darlin'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD S
+VBD -> 'got'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'big'
+NN -> 'picture'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'problem'
+ROOT -> S
+S -> VP
+VP -> VB
+VB -> 'listen'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PP
+VBD -> 'put'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'lot'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'work'
+PP -> IN NP
+IN -> 'into'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'body'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'look'
+ADJP -> JJ
+JJ -> 'good'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB ADVP VP
+VBP -> 'am'
+RB -> 'not'
+ADVP -> RB
+RB -> 'just'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP ADVP
+VB -> 'throw'
+NP -> DT
+DT -> 'that'
+ADVP -> RB
+RB -> 'away'
+ROOT -> FRAG
+FRAG -> INTJ INTJ INTJ
+INTJ -> UH
+UH -> 'hey'
+INTJ -> UH
+UH -> 'hey'
+INTJ -> UH
+UH -> 'hey'
+ROOT -> SBARQ
+SBARQ -> WHNP
+WHNP -> WP
+WP -> 'what'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB ADJP
+VB -> 'start'
+ADJP -> JJ
+JJ -> 'small'
+ROOT -> INTJ
+INTJ -> NN
+NN -> 'look'
+ROOT -> S
+S -> VP
+VP -> VB SBAR
+VB -> 'let'
+SBAR -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'us'
+ADVP -> RB
+RB -> 'just'
+VP -> VBP S
+VBP -> 'pretend'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'have'
+NP -> DT NN
+DT -> 'a'
+NN -> 'baby'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'excellent'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP S
+VB -> 'have'
+NP -> NN
+NN -> 'time'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP PP
+VB -> 'be'
+PP -> IN NP
+IN -> 'at'
+NP -> NN
+NN -> 'home'
+PP -> IN NP
+IN -> 'with'
+NP -> NP CC NP
+NP -> DT NNS
+DT -> 'no'
+NNS -> 'diapers'
+CC -> 'and'
+NP -> NN NNS
+NN -> 'baby'
+NNS -> 'socks'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB S
+VB -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'jill'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'be'
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'stayathome'
+NN -> 'dad'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP ADVP PP
+VBD -> 'got'
+NP -> CD JJ NNS
+CD -> 'ten'
+JJ -> 'hungry'
+NNS -> 'piggies'
+ADVP -> RB
+RB -> 'there'
+PP -> IN NP
+IN -> 'in'
+NP -> DT NN
+DT -> 'the'
+NN -> 'back'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'can'
+VP -> VB PP
+VB -> 'practice'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'just'
+VP -> VB RB VP
+VB -> 'pull'
+RB -> 'over'
+VP -> VB NP
+VB -> 'feed'
+NP -> PRP
+PRP -> 'them'
+ROOT -> NP
+NP -> NP NP
+NP -> DT JJ NNS
+DT -> 'that'
+JJ -> 'little'
+NNS -> 'hamhocks'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'favorite'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN S
+VBN -> 'got'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PRT
+VB -> 'hurry'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ JJ NN
+DT -> 'a'
+JJ -> 'cute'
+JJ -> 'little'
+NN -> 'bugger'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'why'
+SQ -> VBP NP RB VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+RB -> 'not'
+VP -> VBG NP
+VBG -> 'using'
+NP -> PRP$ NNS
+PRP$ -> 'your'
+NNS -> 'claws'
+ROOT -> FRAG
+FRAG -> PRN
+PRN -> SQ
+SQ -> MD NP INTJ VP
+MD -> 'would'
+NP -> PRP
+PRP -> 'you'
+INTJ -> UH
+UH -> 'please'
+VP -> ADVP VB PRT
+ADVP -> RB
+RB -> 'just'
+VB -> 'shut'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP PP
+VBP -> 'am'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'just'
+VP -> VB NP
+VB -> 'use'
+NP -> PRP$ NNS
+PRP$ -> 'your'
+NNS -> 'claws'
+ROOT -> S
+S -> VP
+VP -> VB ADJP
+VB -> 'be'
+ADJP -> JJ
+JJ -> 'quiet'
+ROOT -> FRAG
+FRAG -> NP
+NP -> PRP$ NNS
+PRP$ -> 'your'
+NNS -> 'claws'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP ADVP
+VB -> 'have'
+NP -> DT NNS
+DT -> 'any'
+NNS -> 'claws'
+ADVP -> RB RB
+RB -> 'all'
+RB -> 'right'
+ROOT -> S
+S -> VP
+VP -> VBD NP
+VBD -> 'was'
+NP -> DT NN
+DT -> 'that'
+NN -> 'hamhock'
+ROOT -> ADVP
+ADVP -> RB RB
+RB -> 'there'
+RB -> 'there'
+ROOT -> NP
+NP -> JJ NML
+JJ -> 'sleepy'
+NML -> ADJP NN NN
+ADJP -> JJ JJ
+JJ -> 'sleepy'
+JJ -> 'big'
+NN -> 'fat'
+NN -> 'piggy'
+ROOT -> S
+S -> VP
+VP -> VB SBAR
+VB -> 'remember'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD S
+VBD -> 'had'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB SBAR
+VB -> 'pretend'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP
+VBD -> 'had'
+NP -> NP NP-TMP
+NP -> DT NN
+DT -> 'that'
+NN -> 'monkey'
+NP-TMP -> CD NN
+CD -> 'one'
+NN -> 'time'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'babysit'
+ROOT -> NP
+NP -> JJ NNS
+JJ -> 'soft'
+NNS -> 'paws'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'when'
+SQ -> VBD NP VP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'have'
+NP -> DT NN
+DT -> 'a'
+NN -> 'monkey'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'well'
+ROOT -> FRAG
+FRAG -> S NP
+S -> SBAR NP VP
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> VP
+VP -> VBD NP-TMP
+VBD -> 'happened'
+NP-TMP -> JJ NN
+JJ -> 'last'
+NN -> 'time'
+NP -> PRP
+PRP -> 'you'
+VP -> VBD PP
+VBD -> 'sat'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP
+PRP -> 'it'
+NP -> NNP
+NNP -> 'jack'
+ROOT -> FRAG
+FRAG -> INTJ NP
+INTJ -> UH
+UH -> 'hello'
+NP -> NP PP
+NP -> NNS
+NNS -> 'beans'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'legend'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'us'
+VP -> VB
+VB -> 'go'
+ROOT -> FRAG
+FRAG -> INTJ INTJ INTJ
+INTJ -> UH
+UH -> 'well'
+INTJ -> UH
+UH -> 'well'
+INTJ -> UH
+UH -> 'well'
+ROOT -> S
+S -> VP GW
+VP -> VB SBAR
+VB -> 'look'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP ADVP
+VBP -> 'have'
+ADVP -> RB
+RB -> 'here'
+GW -> 'jill'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD PP
+VBD -> 'messed'
+PP -> IN NP
+IN -> 'with'
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'baby'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'took'
+NP -> PRP$ NNS
+PRP$ -> 'my'
+NNS -> 'beans'
+ROOT -> NP
+NP -> NN NN
+NN -> 'sausage'
+NN -> 'bomb'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'pay'
+PP -> IN NP
+IN -> 'for'
+NP -> DT
+DT -> 'this'
+ROOT -> NP
+NP -> VBG NNS
+VBG -> 'soulsucking'
+NNS -> 'cats'
+ROOT -> NP
+NP -> NP NP
+NP -> NN
+NN -> 'signal'
+NP -> DT NN
+DT -> 'the'
+NN -> 'egg'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'yes'
+ROOT -> FRAG
+FRAG -> NP ADJP
+NP -> JJ
+JJ -> 'ok'
+ADJP -> JJ
+JJ -> 'ready'
+ROOT -> NP
+NP -> NN
+NN -> 'set'
+ROOT -> S
+S -> VP
+VP -> VB
+VB -> 'go'
+ROOT -> FRAG
+FRAG -> INTJ INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'my'
+INTJ -> UH
+UH -> 'god'
+ROOT -> NP
+NP -> ADJP NN
+ADJP -> RB JJ
+RB -> 'all'
+JJ -> 'right'
+NN -> 'cat'
+ROOT -> S
+S -> VP
+VP -> VB NP NP NP
+VB -> 'give'
+NP -> PRP
+PRP -> 'me'
+NP -> PRP
+PRP -> 'them'
+NP -> NNS
+NNS -> 'beans'
+ROOT -> S
+S -> SQ S
+SQ -> VBZ NP ADJP
+VBZ -> 'is'
+NP -> PRP
+PRP -> 'it'
+ADJP -> JJ
+JJ -> 'true'
+S -> NP ADVP VP
+NP -> DT NN
+DT -> 'a'
+NN -> 'cat'
+ADVP -> RB
+RB -> 'always'
+VP -> VBZ PP
+VBZ -> 'lands'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP$ NNS
+PRP$ -> 'its'
+NNS -> 'feet'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ ADVP NP
+VBZ -> 'is'
+ADVP -> RB
+RB -> 'just'
+NP -> NP VP
+NP -> DT NN
+DT -> 'a'
+NN -> 'rumor'
+VP -> VBN PP
+VBN -> 'spread'
+PP -> IN NP
+IN -> 'by'
+NP -> NNS
+NNS -> 'dogs'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'well'
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'us'
+VP -> VB PRT
+VB -> 'find'
+PRT -> RP
+RP -> 'out'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'see'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'told'
+NP -> PRP
+PRP -> 'you'
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'would'
+RB -> 'not'
+VP -> VB NP PRT
+VB -> 'let'
+NP -> PRP
+PRP -> 'you'
+PRT -> RP
+RP -> 'down'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> IN
+IN -> 'over'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'hey'
+NP -> DT
+DT -> 'that'
+VP -> VBD ADJP
+VBD -> 'was'
+ADJP -> JJ
+JJ -> 'close'
+ROOT -> ADVP
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'we'
+ADVP -> RB
+RB -> 'just'
+VP -> VBD S
+VBD -> 'got'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP PP
+VB -> 'make'
+NP -> PRP
+PRP -> 'it'
+PP -> IN NP
+IN -> 'to'
+NP -> DT NN
+DT -> 'that'
+NN -> 'bridge'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'hang'
+PRT -> RP
+RP -> 'on'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'there'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT NN
+DT -> 'no'
+NN -> 'bridge'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'trust'
+NP -> PRP
+PRP -> 'me'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'die'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'hate'
+NP -> NNS
+NNS -> 'cats'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NN
+NN -> 'war'
+ROOT -> FRAG
+FRAG -> NP S
+NP -> NNS NN
+NNS -> 'giants'
+NN -> 'castle'
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'here'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP
+VBP -> 'come'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'must'
+VP -> VB NP PP
+VB -> 'hand'
+NP -> PRP
+PRP -> 'it'
+PP -> IN NP
+IN -> 'to'
+NP -> DT NN
+DT -> 'the'
+NN -> 'egg'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBD NP
+VBD -> 'was'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'team'
+NN -> 'effort'
+ROOT -> S
+S -> NP ADVP VP
+NP -> JJ
+JJ -> 'humpty'
+ADVP -> RB
+RB -> 'still'
+VP -> VBZ NP
+VBZ -> 'has'
+NP -> PRP$ NNS
+PRP$ -> 'his'
+NNS -> 'claws'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'mean'
+NP -> NNS
+NNS -> 'flaws'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBD SBAR
+VBD -> 'was'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'meant'
+NP -> RB NNS
+RB -> 'not'
+NNS -> 'claws'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ RB NP
+VBZ -> 'is'
+RB -> 'not'
+NP -> DT NN
+DT -> 'a'
+NN -> 'cat'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> RB VP
+RB -> 'not'
+VP -> TO VP
+TO -> 'to'
+VP -> VB SBAR
+VB -> 'say'
+SBAR -> S
+S -> NP VP
+NP -> EX
+EX -> 'there'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> NN JJ
+NN -> 'anything'
+JJ -> 'wrong'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB S
+VB -> 'want'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'talk'
+PP -> IN NP
+IN -> 'about'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> VP
+VP -> VBD NP
+VBD -> 'got'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'ok'
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'should'
+VP -> VB ADJP
+VB -> 'be'
+ADJP -> JJ
+JJ -> 'close'
+ROOT -> S
+S -> VP
+VP -> VB NP PRT PP
+VB -> 'keep'
+NP -> PRP$ NNS
+PRP$ -> 'your'
+NNS -> 'eyes'
+PRT -> RP
+RP -> 'out'
+PP -> IN NP
+IN -> 'for'
+NP -> DT JJ NN NN
+DT -> 'any'
+JJ -> 'strange'
+NN -> 'cloud'
+NN -> 'activity'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBN NP SBAR
+VBN -> 'called'
+NP -> NN NNS
+NN -> 'kitty'
+NNS -> 'softpaws'
+SBAR -> IN S
+IN -> 'because'
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB S
+VB -> 'steal'
+S -> NP ADJP
+NP -> PRP
+PRP -> 'you'
+ADJP -> JJ
+JJ -> 'blind'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD ADVP VP
+MD -> 'will'
+ADVP -> RB
+RB -> 'never'
+VP -> VB SBAR
+VB -> 'know'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD ADVP
+VBD -> 'was'
+ADVP -> RB
+RB -> 'there'
+ROOT -> NP
+NP -> NN
+NN -> 'kitty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB ADJP
+VBP -> 'are'
+RB -> 'not'
+ADJP -> RB JJ SBAR
+RB -> 'as'
+JJ -> 'good'
+SBAR -> IN S
+IN -> 'as'
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP
+VBP -> 'say'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> JJR
+JJR -> 'better'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'respect'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'privacy'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'ok'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'tell'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP SBAR
+VBD -> 'was'
+NP -> RB DT JJ
+RB -> 'just'
+DT -> 'a'
+JJ -> 'stray'
+SBAR -> CC S
+CC -> 'but'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'had'
+NP -> JJ NNS
+JJ -> 'beautiful'
+NNS -> 'claws'
+ROOT -> S
+S -> NP VP
+NP -> NP NP
+NP -> CD NN
+CD -> 'one'
+NN -> 'day'
+NP -> DT ADJP NN
+DT -> 'a'
+ADJP -> RB JJ
+RB -> 'really'
+JJ -> 'nice'
+NN -> 'couple'
+VP -> VBD NP PP
+VBD -> 'took'
+NP -> PRP
+PRP -> 'me'
+PP -> IN
+IN -> 'in'
+ROOT -> S
+S -> VP
+VP -> VBD NP NP NP-TMP
+VBD -> 'gave'
+NP -> PRP
+PRP -> 'me'
+NP -> NN
+NN -> 'milk'
+NP-TMP -> DT NN
+DT -> 'every'
+NN -> 'morning'
+ROOT -> S
+S -> VP
+VP -> VBD NP
+VBD -> 'loved'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'maybe'
+NP -> PRP
+PRP -> 'i'
+VP -> VP CC VP
+VP -> VBD NP
+VBD -> 'scratched'
+NP -> PRP$ NNS
+PRP$ -> 'their'
+NNS -> 'curtains'
+CC -> 'or'
+VP -> VBN S PP
+VBN -> 'played'
+S -> ADJP
+ADJP -> RB JJ
+RB -> 'too'
+JJ -> 'rough'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NN
+DT -> 'the'
+NN -> 'hamster'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB SBAR
+VB -> 'know'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'why'
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBD NP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> PRP
+PRP -> 'they'
+VP -> VBD NP
+VBD -> 'took'
+NP -> PRP$ NNS
+PRP$ -> 'my'
+NNS -> 'claws'
+ROOT -> S
+S -> NP VP
+NP -> NN NNS
+NN -> 'cat'
+NNS -> 'people'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> JJ
+JJ -> 'crazy'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'stop'
+NP -> DT NN
+DT -> 'the'
+NN -> 'coach'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP
+PRP -> 'it'
+ROOT -> SQ
+SQ -> MD NP VP
+MD -> 'can'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'believe'
+NP -> DT NN
+DT -> 'this'
+NN -> 'puss'
+ROOT -> S
+S -> ADVP NP
+ADVP -> RB
+RB -> 'after'
+NP -> PDT DT NNS
+PDT -> 'all'
+DT -> 'these'
+NNS -> 'years'
+ROOT -> ADVP
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP S
+VBP -> 'want'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'plant'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'strange'
+NN -> 'cloud'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'ok'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ VP
+VBZ -> 'is'
+VP -> VBG NP
+VBG -> 'happening'
+NP -> NN
+NN -> 'hurry'
+ROOT -> NP
+NP -> DT NN
+DT -> 'this'
+NN -> 'way'
+ROOT -> FRAG
+FRAG -> INTJ ADJP
+INTJ -> JJ
+JJ -> 'good'
+ADJP -> JJ
+JJ -> 'good'
+ROOT -> S
+S -> VP
+VP -> VB ADVP VP
+VB -> 'come'
+ADVP -> RB
+RB -> 'on'
+VP -> VB PP
+VB -> 'come'
+PP -> IN S
+IN -> 'on'
+S -> VP
+VP -> VBN ADVP
+VBN -> 'come'
+ADVP -> RB
+RB -> 'on'
+ROOT -> FRAG
+FRAG -> NP VP
+NP -> NN
+NN -> 'twentythree'
+VP -> VBN PP
+VBN -> 'divided'
+PP -> IN NP
+IN -> 'by'
+NP -> NN NN
+NN -> 'cloud'
+NN -> 'depth'
+ROOT -> NP
+NP -> NN
+NN -> 'hole'
+ROOT -> ADVP
+ADVP -> RB RB
+RB -> 'right'
+RB -> 'here'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'now'
+VP -> VB NP
+VB -> 'place'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'beans'
+ROOT -> SQ
+SQ -> VP
+VP -> VB NP ADVP INTJ
+VB -> 'place'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'beans'
+ADVP -> RB
+RB -> 'carefully'
+INTJ -> UH
+UH -> 'please'
+ROOT -> ADVP
+ADVP -> RB PP
+RB -> 'not'
+PP -> IN NP
+IN -> 'on'
+NP -> NP PP
+NP -> NN
+NN -> 'top'
+PP -> IN NP
+IN -> 'of'
+NP -> DT JJ
+DT -> 'each'
+JJ -> 'other'
+ROOT -> S
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'magic'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'delicate'
+ROOT -> FRAG
+FRAG -> ADJP
+ADJP -> JJ NP
+JJ -> 'ok'
+NP -> JJ
+JJ -> 'good'
+ROOT -> ADJP
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'good'
+ROOT -> S
+S -> ADVP ADVP VP
+ADVP -> RB
+RB -> 'now'
+ADVP -> RB
+RB -> 'just'
+VP -> VB ADVP
+VB -> 'stand'
+ADVP -> RB
+RB -> 'back'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBZ VP
+VBZ -> 'is'
+VP -> VBG ADVP
+VBG -> 'happening'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'maybe'
+NP -> DT NN
+DT -> 'the'
+NN -> 'magic'
+VP -> VBD PRT PP
+VBD -> 'rubbed'
+PRT -> RP
+RP -> 'off'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'pocket'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'impossible'
+ROOT -> UCP
+UCP -> FRAG S
+FRAG -> JJ
+JJ -> 'ok'
+S -> INTJ VP
+INTJ -> UH
+UH -> 'ok'
+VP -> VB S
+VB -> 'let'
+S -> NP RB VP
+NP -> PRP
+PRP -> 'us'
+RB -> 'not'
+VP -> VB
+VB -> 'panic'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP S
+VBP -> 'know'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VB ADVP SBAR
+VB -> 'read'
+ADVP -> RB
+RB -> 'somewhere'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> NNS
+NNS -> 'plants'
+VP -> VBP NP
+VBP -> 'have'
+NP -> NNS
+NNS -> 'feelings'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'so'
+VP -> VB PRT S
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+S -> VP
+VP -> VB NP S
+VB -> 'say'
+NP -> NN
+NN -> 'something'
+S -> ADJP
+ADJP -> JJ PP
+JJ -> 'nice'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'ok'
+VP -> VB SBAR
+VB -> 'let'
+SBAR -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'me'
+ADVP -> RB
+RB -> 'just'
+VP -> VBP PP
+VBP -> 'think'
+PP -> IN NP
+IN -> 'for'
+NP -> DT JJ
+DT -> 'a'
+JJ -> 'second'
+ROOT -> FRAG
+FRAG -> INTJ NP
+INTJ -> UH
+UH -> 'hi'
+NP -> JJ NN
+JJ -> 'little'
+NN -> 'plant'
+ROOT -> NP
+NP -> NNS
+NNS -> 'guys'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'see'
+NP -> PRP
+PRP -> 'him'
+ROOT -> SQ
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'see'
+NP -> PRP
+PRP -> 'him'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP ADVP
+VB -> 'see'
+NP -> PRP
+PRP -> 'him'
+ADVP -> RB
+RB -> 'anywhere'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'sound'
+ADJP -> JJ
+JJ -> 'weird'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'thin'
+NN -> 'air'
+ROOT -> S
+S -> VP
+VP -> VB PRT PP
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+PP -> IN
+IN -> 'in'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'feels'
+ADJP -> JJ
+JJ -> 'great'
+ROOT -> S
+S -> NP NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'cloud'
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'tickles'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'nose'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ SBAR
+VBZ -> 'is'
+SBAR -> IN S
+IN -> 'because'
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP
+VBP -> 'effervesce'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'who'
+SQ -> VP
+VP -> VBD
+VBD -> 'knew'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+ROOT -> NP
+NP -> NN
+NN -> 'gotcha'
+ROOT -> NP
+NP -> NN
+NN -> 'meow'
+ROOT -> FRAG
+FRAG -> INTJ NP
+INTJ -> UH
+UH -> 'hey'
+NP -> NNS
+NNS -> 'puss'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'you'
+VP -> VB
+VB -> 'think'
+ROOT -> SQ
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'i'
+VP -> VB
+VB -> 'shave'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'me'
+VP -> VB NP NP
+VB -> 'show'
+NP -> PRP
+PRP -> 'you'
+NP -> NN
+NN -> 'something'
+ROOT -> S
+S -> ADVP ADVP NP VP
+ADVP -> RB RB
+RB -> 'somewhere'
+RB -> 'down'
+ADVP -> RB
+RB -> 'there'
+NP -> EX
+EX -> 'there'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NP SBAR
+NP -> CD JJ NNS
+CD -> 'two'
+JJ -> 'little'
+NNS -> 'kids'
+SBAR -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB ADVP NP
+VB -> 'know'
+ADVP -> RB
+RB -> 'maybe'
+NP -> NNS
+NNS -> 'orphans'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG PP
+VBG -> 'laying'
+PP -> IN NP
+IN -> 'on'
+NP -> NP VP
+NP -> DT NN
+DT -> 'a'
+NN -> 'hill'
+VP -> VBG PP
+VBG -> 'staring'
+PP -> IN NP
+IN -> 'at'
+NP -> NP VP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'clouds'
+VP -> VBG PP
+VBG -> 'dreaming'
+PP -> IN NP
+IN -> 'about'
+NP -> DT NN
+DT -> 'the'
+NN -> 'future'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBD NP
+VBD -> 'was'
+NP -> PRP
+PRP -> 'me'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'puss'
+ROOT -> NP
+NP -> PRP CC PRP
+PRP -> 'me'
+CC -> 'and'
+PRP -> 'you'
+ROOT -> NP
+NP -> NNS
+NNS -> 'boys'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'might'
+VP -> VB S
+VB -> 'want'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP PP
+VB -> 'take'
+NP -> DT NN
+DT -> 'a'
+NN -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> DT
+DT -> 'this'
+ROOT -> NP
+NP -> NP NP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'giants'
+NP -> NN
+NN -> 'castle'
+ROOT -> NP
+NP -> NP SBAR
+NP -> JJ NN
+JJ -> 'ok'
+NN -> 'time'
+SBAR -> S
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PRT
+VB -> 'suit'
+PRT -> RP
+RP -> 'up'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB ADJP
+VB -> 'fit'
+ADJP -> JJ PP
+JJ -> 'right'
+PP -> IN PP
+IN -> 'in'
+PP -> IN NP
+IN -> 'with'
+NP -> DT JJ NNS
+DT -> 'the'
+JJ -> 'golden'
+NNS -> 'eggs'
+ROOT -> FRAG
+FRAG -> NP INTJ
+NP -> NP CC NP
+NP -> JJ
+JJ -> 'brilliant'
+CC -> 'or'
+NP -> WP
+WP -> 'what'
+INTJ -> UH
+UH -> 'huh'
+ROOT -> S
+S -> S NP VP
+S -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'are'
+RB -> 'not'
+VP -> VBG NP
+VBG -> 'wearing'
+NP -> NN
+NN -> 'underwear'
+ROOT -> SBARQ
+SBARQ -> WHNP
+WHNP -> WP
+WP -> 'what'
+ROOT -> FRAG
+FRAG -> PRN
+PRN -> SQ
+SQ -> VBP NP ADJP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+ADJP -> JJ
+JJ -> 'embarrassed'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB
+VBP -> 'am'
+RB -> 'not'
+ROOT -> S
+S -> NP VP
+NP -> NN
+NN -> 'puss'
+VP -> VBP SBAR
+VBP -> 'remember'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> NN
+NN -> 'everyone'
+VP -> VBD VP
+VBD -> 'was'
+VP -> VBG PP
+VBG -> 'laughing'
+PP -> IN NP
+IN -> 'at'
+NP -> NN NN
+NN -> 'bean'
+NN -> 'club'
+ROOT -> SBARQ
+SBARQ -> CC WHNP SQ
+CC -> 'and'
+WHNP -> WP
+WP -> 'who'
+SQ -> VBZ VP
+VBZ -> 'is'
+VP -> VBG ADVP
+VBG -> 'laughing'
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP
+VBP -> 'are'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'wow'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'target'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'hey'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP ADVP
+VB -> 'sound'
+PP -> IN NP
+IN -> 'like'
+NP -> DT NN
+DT -> 'an'
+NN -> 'elf'
+ADVP -> RB
+RB -> 'anymore'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ SBAR
+VBZ -> 'is'
+SBAR -> IN S
+IN -> 'because'
+S -> NP VP
+NP -> NP PP
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'air'
+NN -> 'pressure'
+PP -> IN ADVP
+IN -> 'in'
+ADVP -> RB
+RB -> 'here'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'normal'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'us'
+VP -> VB
+VB -> 'go'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> ADVP SBAR
+ADVP -> RB RB
+RB -> 'so'
+RB -> 'here'
+SBAR -> S
+S -> VP
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'the'
+NN -> 'plan'
+SBAR -> S
+S -> NP VP
+NP -> PRP CD
+PRP -> 'you'
+CD -> 'two'
+VP -> VB NP
+VB -> 'get'
+NP -> DT JJ NNS
+DT -> 'the'
+JJ -> 'golden'
+NNS -> 'eggs'
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'fight'
+NP -> DT NN
+DT -> 'the'
+NN -> 'giant'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'there'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT NN S
+DT -> 'no'
+NN -> 'giant'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'fight'
+ROOT -> NP
+NP -> NP VP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'giants'
+VP -> VBN ADJP PP
+VBN -> 'been'
+ADJP -> JJ
+JJ -> 'dead'
+PP -> IN NP
+IN -> 'for'
+NP -> NNS
+NNS -> 'years'
+ROOT -> SBARQ
+SBARQ -> WHNP
+WHNP -> WP
+WP -> 'what'
+ROOT -> SQ
+SQ -> S SQ
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD RB VP
+VBD -> 'did'
+RB -> 'not'
+VP -> VB NP
+VB -> 'do'
+NP -> DT NN
+DT -> 'the'
+NN -> 'reading'
+SQ -> VBD NP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> NP CC NP NML
+NP -> NN
+NN -> 'jack'
+CC -> 'and'
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'beanstalk'
+NN -> 'chapter'
+NML -> CD NN
+CD -> '14'
+NN -> 'giant'
+VP -> VBZ NP
+VBZ -> 'takes'
+NP -> DT JJ NN NN
+DT -> 'a'
+JJ -> 'big'
+NN -> 'dirt'
+NN -> 'nap'
+ROOT -> S
+S -> NP VP
+NP -> NN
+NN -> 'ankle'
+VP -> VBP
+VBP -> 'burn'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBD NP
+VBD -> 'was'
+NP -> DT
+DT -> 'that'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP S
+VBP -> 'call'
+S -> NP NP
+NP -> PRP
+PRP -> 'it'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'great'
+NN -> 'terror'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'the'
+NN -> 'monster'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'that'
+S -> VP
+VP -> VBZ NP
+VBZ -> 'guards'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'golden'
+NN -> 'goose'
+ROOT -> S
+S -> NP VP
+NP -> NN
+NN -> 'legend'
+VP -> VBZ NP SBAR
+VBZ -> 'has'
+NP -> PRP
+PRP -> 'it'
+SBAR -> IN S
+IN -> 'that'
+S -> SBAR NP VP
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP PP
+VBP -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> PRP
+PRP -> 'it'
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'will'
+VP -> VB PP
+VB -> 'turn'
+PP -> IN NP
+IN -> 'to'
+NP -> NN
+NN -> 'stone'
+ROOT -> S
+S -> CC NP ADVP VP
+CC -> 'but'
+NP -> NN
+NN -> 'nobody'
+ADVP -> RB
+RB -> 'really'
+VP -> VBZ SBAR
+VBZ -> 'knows'
+SBAR -> IN S
+IN -> 'because'
+S -> NP VP
+NP -> NNS
+NNS -> 'nobodys'
+VP -> VBD ADVP S
+VBD -> 'walked'
+ADVP -> RB PP
+RB -> 'away'
+PP -> IN NP
+IN -> 'from'
+NP -> PRP
+PRP -> 'it'
+S -> ADJP
+ADJP -> JJ
+JJ -> 'alive'
+ROOT -> S
+S -> VP
+VP -> VP CC VP
+VP -> VB NP
+VB -> 'follow'
+NP -> PRP
+PRP -> 'me'
+CC -> 'and'
+VP -> VB ADJP
+VB -> 'keep'
+ADJP -> JJ
+JJ -> 'quiet'
+ROOT -> NP
+NP -> NN
+NN -> 'shh'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'can'
+RB -> 'not'
+VP -> VB NP
+VB -> 'help'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> NP
+NP -> NP ADJP
+NP -> NNS
+NNS -> 'everythings'
+ADJP -> VBG CC VBG
+VBG -> 'rubbing'
+CC -> 'and'
+VBG -> 'pinching'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'need'
+NP -> NN
+NN -> 'powder'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'how'
+SQ -> VBP NP VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'we'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PRT
+VB -> 'get'
+PRT -> RP
+RP -> 'across'
+ROOT -> NP
+NP -> NN
+NN -> 'champagne'
+ROOT -> NP
+NP -> NNS
+NNS -> 'cheers'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB
+VB -> 'worry'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'protect'
+NP -> PRP
+PRP -> 'you'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBP NP VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'do'
+ROOT -> S
+S -> VP
+VP -> VB NP PP
+VB -> 'hit'
+NP -> PRP
+PRP -> 'it'
+PP -> IN NP
+IN -> 'in'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'head'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NN
+DT -> 'a'
+NN -> 'guitar'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'please'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'stop'
+S -> VP
+VP -> VBG PRT NP
+VBG -> 'bringing'
+PRT -> RP
+RP -> 'up'
+NP -> DT NN
+DT -> 'the'
+NN -> 'guitar'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'catch'
+NP -> PRP
+PRP -> 'me'
+ROOT -> NP
+NP -> NN
+NN -> 'hurry'
+ROOT -> NP
+NP -> NN
+NN -> 'hide'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> PRP
+PRP -> 'it'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> VP
+VP -> VB ADJP
+VB -> 'be'
+ADJP -> JJ
+JJ -> 'quiet'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'am'
+NP -> NN
+NN -> 'hyperventilating'
+ROOT -> S
+S -> PRN NP-TMP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD SBAR
+VBD -> 'said'
+SBAR -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'could'
+RB -> 'not'
+VP -> VB
+VB -> 'breathe'
+CC -> 'and'
+S -> NP ADJP
+NP -> RB PRP
+RB -> 'then'
+PRP -> 'you'
+ADJP -> JJ
+JJ -> 'zipped'
+NP-TMP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'thing'
+PP -> IN NP
+IN -> 'over'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'mouth'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD S
+VBD -> 'got'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP ADVP
+VB -> 'get'
+NP -> PRP
+PRP -> 'it'
+ADVP -> RB
+RB -> 'together'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+ROOT -> NP
+NP -> NP PP
+NP -> JJ NN
+JJ -> 'ok'
+NN -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> DT
+DT -> 'this'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NN NN
+NN -> 'egg'
+NN -> 'paradise'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> RB JJ
+RB -> 'so'
+JJ -> 'beautiful'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'feel'
+SBAR -> IN S
+IN -> 'like'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP
+VBP -> 'belong'
+ADVP -> RB
+RB -> 'here'
+ROOT -> NP
+NP -> JJ NNS
+JJ -> 'golden'
+NNS -> 'eggs'
+ROOT -> S
+S -> VP
+VP -> VB ADJP SBAR
+VB -> 'grab'
+ADJP -> RB JJ
+RB -> 'as'
+JJ -> 'many'
+SBAR -> IN S
+IN -> 'as'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD
+MD -> 'can'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD SBAR
+VBD -> 'thought'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBD VP
+VBD -> 'were'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB PP
+VB -> 'be'
+PP -> IN NP
+IN -> 'like'
+NP -> NN NN
+NN -> 'chicken'
+NN -> 'size'
+ROOT -> SQ
+SQ -> MD NP VP
+MD -> 'can'
+NP -> PRP
+PRP -> 'you'
+VP -> VB S
+VB -> 'imagine'
+S -> VP
+VP -> VBG NP
+VBG -> 'laying'
+NP -> NP PP
+NP -> CD
+CD -> 'one'
+PP -> IN NP
+IN -> 'of'
+NP -> DT
+DT -> 'these'
+ROOT -> NP
+NP -> NN
+NN -> 'ouch'
+ROOT -> NP
+NP -> NN
+NN -> 'puss'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'how'
+SQ -> VBP NP VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'we'
+VP -> VBN S
+VBN -> 'supposed'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP ADVP
+VB -> 'get'
+NP -> DT
+DT -> 'these'
+ADVP -> IN PP
+IN -> 'out'
+PP -> IN ADVP
+IN -> 'of'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB
+VB -> 'know'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'my'
+ROOT -> NP
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'golden'
+NN -> 'goose'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'just'
+VP -> VB PP
+VB -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> PRP
+PRP -> 'her'
+ROOT -> SQ
+SQ -> VBZ RB NP ADJP
+VBZ -> 'is'
+RB -> 'not'
+NP -> PRP
+PRP -> 'she'
+ADJP -> JJ
+JJ -> 'beautiful'
+ROOT -> NP
+NP -> PRP$ JJ NN
+PRP$ -> 'my'
+JJ -> 'sweet'
+NN -> 'darling'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ NP
+VBZ -> 'likes'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'us'
+ADVP -> RB
+RB -> 'just'
+VP -> VB NP
+VB -> 'take'
+NP -> PRP
+PRP -> 'her'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'wait'
+NP -> DT NN
+DT -> 'a'
+NN -> 'minute'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'goose'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'legend'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB SBAR
+VB -> 'know'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> VP
+VP -> VBZ SBAR
+VBZ -> 'happens'
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'take'
+NP -> PRP
+PRP -> 'her'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> VP
+VP -> VBZ SBAR
+VBZ -> 'happens'
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'take'
+NP -> PRP$
+PRP$ -> 'her'
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP
+VBD -> 'got'
+NP -> NN
+NN -> 'nothing'
+ROOT -> NP
+NP -> NP NP
+NP -> NNS
+NNS -> 'guys'
+NP -> NNS
+NNS -> 'guys'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'gold'
+NN -> 'pooper'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG NP
+VBG -> 'taking'
+NP -> PRP
+PRP -> 'it'
+ROOT -> ADVP
+ADVP -> RB RB
+RB -> 'almost'
+RB -> 'there'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'hang'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'hang'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ VP
+VBZ -> 'is'
+VP -> VBG
+VBG -> 'coming'
+ROOT -> NP
+NP -> NN
+NN -> 'run'
+ROOT -> NP
+NP -> NN
+NN -> 'kitty'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBP NP VP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+VP -> VBG
+VBG -> 'doing'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'hang'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> VP
+VP -> VB ADVP NP
+VB -> 'come'
+ADVP -> RB
+RB -> 'here'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> VP
+VP -> VBD NP
+VBD -> 'got'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ ADJP ADVP
+VBZ -> 'is'
+ADJP -> PRP
+PRP -> 'mine'
+ADVP -> RB
+RB -> 'now'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'hello'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'fly'
+S -> ADVP VP
+ADVP -> RB
+RB -> 'little'
+VP -> VBG NP
+VBG -> 'gosling'
+NP -> NN
+NN -> 'fly'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ RB VP
+VBZ -> 'is'
+RB -> 'not'
+VP -> VBN S
+VBN -> 'supposed'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'be'
+NP -> DT NN
+DT -> 'this'
+NN -> 'way'
+ROOT -> NP
+NP -> NN
+NN -> 'puss'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'sorry'
+ROOT -> FRAG
+FRAG -> NP NP
+NP -> NNS
+NNS -> 'thanks'
+NP -> NN
+NN -> 'ginger'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD ADVP VP
+MD -> 'should'
+ADVP -> RB
+RB -> 'maybe'
+VP -> VB NP PRT
+VB -> 'cut'
+NP -> DT
+DT -> 'that'
+PRT -> RP
+RP -> 'down'
+ROOT -> S
+S -> VP
+VP -> VB PP
+VB -> 'look'
+PP -> IN NP
+IN -> 'at'
+NP -> DT
+DT -> 'that'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'finally'
+VP -> VBD NP
+VBD -> 'got'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'that'
+NN -> 'family'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'wanted'
+NP -> NN
+NN -> 'jack'
+ROOT -> SQ
+SQ -> VBD NP VP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'hear'
+NP -> DT
+DT -> 'that'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'he'
+ADVP -> RB
+RB -> 'just'
+VP -> VBD NP NP
+VBD -> 'called'
+NP -> PRP
+PRP -> 'me'
+NP -> NN
+NN -> 'daddy'
+ROOT -> FRAG
+FRAG -> S NP
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ ADVP PP
+VBZ -> 'looks'
+ADVP -> RB
+RB -> 'just'
+PP -> IN NP
+IN -> 'like'
+NP -> PRP
+PRP -> 'you'
+NP -> NNP
+NNP -> 'jack'
+ROOT -> S
+S -> VP
+VP -> VBP NP
+VBP -> 'thank'
+NP -> PRP
+PRP -> 'you'
+ROOT -> SBARQ
+SBARQ -> INTJ WHNP SQ
+INTJ -> UH
+UH -> 'well'
+WHNP -> WP
+WP -> 'what'
+SQ -> VBZ NP
+VBZ -> 'is'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'do'
+VP -> VB SBAR
+VB -> 'believe'
+SBAR -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'cue'
+ROOT -> FRAG
+FRAG -> PP
+PP -> IN S
+IN -> 'to'
+S -> VP
+VP -> VBG PRT NP
+VBG -> 'paying'
+PRT -> RB
+RB -> 'back'
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardo'
+ROOT -> FRAG
+FRAG -> PP
+PP -> IN S
+IN -> 'to'
+S -> VP
+VP -> VBG ADJP
+VBG -> 'being'
+ADJP -> JJ
+JJ -> 'rich'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'old'
+ROOT -> S
+S -> NP
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> INTJ INTJ NP
+INTJ -> UH
+UH -> 'yeah'
+INTJ -> UH
+UH -> 'yeah'
+NP -> NN
+NN -> 'baby'
+ROOT -> FRAG
+FRAG -> NP NP
+NP -> CD
+CD -> 'one'
+NP -> CD NN
+CD -> 'two'
+NN -> 'chachacha'
+ROOT -> NP
+NP -> QP NN
+QP -> CD CD
+CD -> 'three'
+CD -> 'four'
+NN -> 'chachacha'
+ROOT -> FRAG
+FRAG -> NP
+NP -> CD CD
+CD -> 'one'
+CD -> 'two'
+ROOT -> SBARQ
+SBARQ -> WHNP
+WHNP -> WP
+WP -> 'what'
+ROOT -> SINV
+SINV -> ADVP VP NP
+ADVP -> RB
+RB -> 'there'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP PP
+NP -> CD NN
+CD -> 'one'
+NN -> 'word'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'you'
+NP -> NP NP
+NP -> NN NNS
+NN -> 'kitty'
+NNS -> 'softpaws'
+NP -> NN
+NN -> 'mewow'
+ROOT -> FRAG
+FRAG -> PRN NP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP S
+VBP -> 'know'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP PP
+VB -> 'have'
+NP -> PDT DT NN
+PDT -> 'quite'
+DT -> 'a'
+NN -> 'reputation'
+PP -> IN NP
+IN -> 'with'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'ladies'
+NP -> NML NNS
+NML -> NN NN
+NN -> 'mr'
+NN -> 'friskie'
+NNS -> 'twotimes'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP VP
+VBP -> 'have'
+ADVP -> RB
+RB -> 'also'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBN PP
+VBN -> 'known'
+PP -> IN NP
+IN -> 'as'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'furry'
+NN -> 'lover'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> DT
+DT -> 'that'
+VP -> VBD SBAR
+VBD -> 'was'
+SBAR -> IN S
+IN -> 'before'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'met'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB S
+VB -> 'know'
+S -> NP NP
+NP -> PRP
+PRP -> 'me'
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB SBAR
+VBP -> 'am'
+RB -> 'not'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'who'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP
+VBP -> 'am'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB PP
+VBP -> 'am'
+RB -> 'all'
+PP -> IN NP
+IN -> 'about'
+NP -> DT NN
+DT -> 'the'
+NN -> 'score'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> PRN S VP
+PRN -> S
+S -> VP
+VP -> VP CC VP
+VP -> VB NP PP
+VB -> 'look'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'in'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'eyes'
+CC -> 'and'
+VP -> VB NP NP
+VB -> 'tell'
+NP -> PRP
+PRP -> 'me'
+NP -> DT
+DT -> 'all'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADVP
+VBP -> 'care'
+ADVP -> RB
+RB -> 'about'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT NN
+DT -> 'the'
+NN -> 'gold'
+ROOT -> FRAG
+FRAG -> NP INTJ
+NP -> NN NN
+NN -> 'puss'
+NN -> 'kitty'
+INTJ -> UH UH UH
+UH -> 'oh'
+UH -> 'my'
+UH -> 'god'
+ROOT -> NP
+NP -> JJ NNS
+JJ -> 'new'
+NNS -> 'partners'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'fall'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP$ NN NN
+PRP$ -> 'his'
+NN -> 'animal'
+NN -> 'magnetism'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'stay'
+ADJP -> JJ
+JJ -> 'focused'
+ROOT -> SBARQ
+SBARQ -> WHNP
+WHNP -> WP
+WP -> 'what'
+ROOT -> ADVP
+ADVP -> RB
+RB -> 'so'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN VP
+VBN -> 'been'
+VP -> VBG SBAR
+VBG -> 'thinking'
+SBAR -> S
+S -> VP
+VP -> VBP NP SBAR
+VBP -> 'miss'
+NP -> NNS
+NNS -> 'softpaws'
+SBAR -> IN S
+IN -> 'that'
+S -> SBAR NP VP
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'go'
+NP -> PRP$ JJ NNS
+PRP$ -> 'our'
+JJ -> 'separate'
+NNS -> 'ways'
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'can'
+VP -> VB NP ADVP
+VB -> 'go'
+NP -> PRP$ JJ NNS
+PRP$ -> 'our'
+JJ -> 'separate'
+NNS -> 'ways'
+ADVP -> RB
+RB -> 'together'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'puss'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP S
+VBP -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB ADVP
+VB -> 'go'
+ADVP -> RB
+RB -> 'now'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB S
+VB -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP ADVP ADVP
+VB -> 'push'
+NP -> PRP
+PRP -> 'me'
+ADVP -> RB
+RB -> 'away'
+ADVP -> RB
+RB -> 'anymore'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'can'
+VP -> VB NP
+VB -> 'trust'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> VP
+VP -> VB NP PRT PP
+VB -> 'give'
+NP -> PRP
+PRP -> 'it'
+PRT -> RP
+RP -> 'up'
+PP -> IN NP
+IN -> 'for'
+NP -> NP PP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'legends'
+PP -> IN NP
+IN -> 'of'
+NP -> NP CC NP
+NP -> FW FW NN
+FW -> 'san'
+FW -> 'ricardo'
+NN -> 'humpty'
+CC -> 'and'
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBG NP NP
+VBG -> 'calling'
+NP -> PRP
+PRP -> 'it'
+NP -> DT NN NNS
+DT -> 'a'
+NN -> 'night'
+NNS -> 'guys'
+ROOT -> NP
+NP -> NN
+NN -> 'kitty'
+ROOT -> S
+S -> VP
+VP -> VB PRT PP
+VB -> 'stay'
+PRT -> RP
+RP -> 'up'
+PP -> IN NP
+IN -> 'with'
+NP -> PRP
+PRP -> 'us'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'no'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'feel'
+NP -> NP VP
+NP -> DT NN
+DT -> 'a'
+NN -> 'hairball'
+VP -> VBG PRT
+VBG -> 'coming'
+PRT -> RP
+RP -> 'on'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'ok'
+INTJ -> UH
+UH -> 'yeah'
+ROOT -> S
+S -> VP
+VP -> VB NP PP
+VB -> 'have'
+NP -> NN
+NN -> 'fun'
+PP -> IN NP
+IN -> 'with'
+NP -> DT
+DT -> 'that'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'should'
+VP -> VB NP NP
+VB -> 'give'
+NP -> PRP
+PRP -> 'her'
+NP -> DT NN
+DT -> 'some'
+NN -> 'privacy'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'never'
+VP -> VBD SBAR
+VBD -> 'thought'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'would'
+VP -> VB PP
+VB -> 'get'
+PP -> IN ADVP
+IN -> 'to'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB RB
+RB -> 'after'
+RB -> 'all'
+NP -> PRP
+PRP -> 'we'
+VP -> VBD PP S
+VBD -> 'went'
+PP -> IN
+IN -> 'through'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP PRT ADVP
+VB -> 'pull'
+NP -> DT
+DT -> 'this'
+PRT -> RP
+RP -> 'off'
+ADVP -> RB
+RB -> 'together'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ S
+JJ -> 'good'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP ADVP
+VB -> 'have'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'brother'
+ADVP -> RB
+RB -> 'back'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'yep'
+ROOT -> FRAG
+FRAG -> ADJP
+ADJP -> JJ SBAR
+JJ -> 'sure'
+SBAR -> S
+S -> VP
+VP -> VBZ
+VBZ -> 'is'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'well'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP NP-TMP
+VBP -> 'have'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'big'
+NN -> 'day'
+NP-TMP -> NN
+NN -> 'tomorrow'
+ROOT -> NP
+NP -> ADJP NN
+ADJP -> RB JJ
+RB -> 'pretty'
+JJ -> 'exciting'
+NN -> 'stuff'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'should'
+VP -> VB NP
+VB -> 'get'
+NP -> DT NN
+DT -> 'some'
+NN -> 'rest'
+ROOT -> NP
+NP -> JJ NN NN
+JJ -> 'good'
+NN -> 'night'
+NN -> 'humpty'
+ROOT -> NP
+NP -> NN
+NN -> 'canasta'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP ADJP
+VBP -> 'am'
+ADVP -> RB
+RB -> 'still'
+ADJP -> JJ
+JJ -> 'alive'
+ROOT -> NP
+NP -> NN CC NN
+NN -> 'jack'
+CC -> 'and'
+NN -> 'jill'
+ROOT -> NP
+NP -> NN
+NN -> 'kitty'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'find'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> VP
+VP -> VB ADVP
+VB -> 'get'
+ADVP -> IN PP
+IN -> 'out'
+PP -> IN ADVP
+IN -> 'of'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> VP
+VP -> VB VP
+VB -> 'be'
+VP -> VBN
+VBN -> 'gone'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'you'
+VP -> VB
+VB -> 'want'
+ROOT -> NP
+NP -> NN
+NN -> 'gold'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'have'
+NP -> NN
+NN -> 'gold'
+ROOT -> SQ
+SQ -> NP VP
+NP -> NN NNS
+NN -> 'jack'
+NNS -> 'eggs'
+VP -> VBG S
+VBG -> 'trying'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'bribe'
+NP -> PRP
+PRP -> 'us'
+ROOT -> PP
+PP -> IN NP
+IN -> 'with'
+NP -> PRP$ JJ NN
+PRP$ -> 'our'
+JJ -> 'own'
+NN -> 'gold'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> VP
+VP -> VB ADVP
+VB -> 'come'
+ADVP -> RB RB RB
+RB -> 'on'
+RB -> 'now'
+RB -> 'all'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP SBAR
+VBP -> 'want'
+SBAR -> S
+S -> VP
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'little'
+NN -> 'breakfast'
+ROOT -> FRAG
+FRAG -> INTJ INTJ INTJ
+INTJ -> UH
+UH -> 'no'
+INTJ -> UH
+UH -> 'no'
+INTJ -> UH
+UH -> 'please'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'how'
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'like'
+NP -> PRP$ NNS NN
+PRP$ -> 'your'
+NNS -> 'eggs'
+NN -> 'pumpkin'
+ROOT -> FRAG
+FRAG -> NP INTJ
+NP -> JJ
+JJ -> 'humpty'
+INTJ -> UH
+UH -> 'no'
+ROOT -> FRAG
+FRAG -> INTJ NP
+INTJ -> UH
+UH -> 'hello'
+NP -> NN
+NN -> 'puss'
+ROOT -> NP
+NP -> NN
+NN -> 'surprise'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBZ VP
+VBZ -> 'is'
+VP -> VBG PRT
+VBG -> 'going'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'surprise'
+NN -> 'party'
+CC -> 'and'
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'surprise'
+VP -> VBZ PP
+VBZ -> 'is'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> VP
+VP -> VBZ PP PP
+VBZ -> 'looks'
+PP -> IN NP
+IN -> 'like'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'cats'
+PP -> IN PP
+IN -> 'out'
+PP -> IN NP
+IN -> 'of'
+NP -> DT NN
+DT -> 'the'
+NN -> 'bag'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD PP
+VBD -> 'were'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'cahoots'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'yeah'
+ROOT -> S
+S -> NP NP VP
+NP -> PRP
+PRP -> 'they'
+NP -> DT
+DT -> 'all'
+VP -> VBP PP
+VBP -> 'work'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PP
+VBD -> 'spent'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'lot'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'time'
+PP -> IN NP
+IN -> 'in'
+NP -> NP VP
+NP -> NN
+NN -> 'prison'
+VP -> VBG PP
+VBG -> 'preparing'
+PP -> IN NP
+IN -> 'for'
+NP -> DT
+DT -> 'this'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP PRT
+VBD -> 'set'
+NP -> PRP
+PRP -> 'me'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> INTJ INTJ NP VP
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'yeah'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP PRT
+VBP -> 'set'
+NP -> PRP
+PRP -> 'you'
+PRT -> RP
+RP -> 'up'
+ROOT -> ADVP
+ADVP -> RB RB
+RB -> 'of'
+RB -> 'course'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBD RB PP
+VBD -> 'was'
+RB -> 'all'
+PP -> IN S
+IN -> 'about'
+S -> VP
+VP -> VP CC VP
+VP -> VBG NP
+VBG -> 'getting'
+NP -> DT NN
+DT -> 'the'
+NN -> 'gold'
+CC -> 'and'
+VP -> VBG NP
+VBG -> 'clearing'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'name'
+ROOT -> S
+S -> NP VP
+NP -> DT JJ NN
+DT -> 'this'
+JJ -> 'little'
+NN -> 'adventure'
+VP -> VBD PP
+VBD -> 'was'
+PP -> IN NP
+IN -> 'about'
+NP -> CD NN
+CD -> 'one'
+NN -> 'thing'
+ROOT -> NP
+NP -> NN
+NN -> 'revenge'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'never'
+VP -> VBD S
+VBD -> 'knew'
+S -> S CC S
+S -> NP NP
+NP -> PRP
+PRP -> 'it'
+NP -> NN
+NN -> 'puss'
+CC -> 'but'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD ADVP ADVP
+VBD -> 'was'
+ADVP -> RB
+RB -> 'always'
+ADVP -> RB
+RB -> 'there'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD S
+VBD -> 'wanted'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'repay'
+NP -> DT JJ NN NN
+DT -> 'an'
+JJ -> 'old'
+NN -> 'debt'
+NN -> 'puss'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'well'
+NP -> ADVP
+ADVP -> RB
+RB -> 'so'
+VP -> VBD NP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'i'
+ROOT -> SBARQ
+SBARQ -> WHADVP SQ
+WHADVP -> WRB
+WRB -> 'why'
+SQ -> MD NP VP
+MD -> 'would'
+NP -> PRP
+PRP -> 'you'
+VP -> VB NP
+VB -> 'do'
+NP -> DT
+DT -> 'this'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP PP
+VBD -> 'left'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'on'
+NP -> DT NN
+DT -> 'that'
+NN -> 'bridge'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP SBAR
+VBD -> 'abandoned'
+NP -> PRP
+PRP -> 'me'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP ADVP
+VBD -> 'needed'
+NP -> PRP
+PRP -> 'you'
+ADVP -> DT RBS
+DT -> 'the'
+RBS -> 'most'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VP
+VP -> VBD PP ADVP
+VBD -> 'happened'
+PP -> IN NP
+IN -> 'to'
+NP -> NNS
+NNS -> 'brothers'
+ADVP -> RB
+RB -> 'forever'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'trusted'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB RB
+RB -> 'well'
+RB -> 'now'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADVP VP
+VBP -> 'are'
+ADVP -> RB
+RB -> 'finally'
+VP -> VBG S
+VBG -> 'going'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB SBAR
+VB -> 'know'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ SBAR
+VBZ -> 'feels'
+SBAR -> IN S
+IN -> 'like'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP S
+VBP -> 'know'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VP CC VP
+VP -> VB NP
+VB -> 'trust'
+NP -> NN
+NN -> 'someone'
+CC -> 'and'
+VP -> VB S
+VB -> 'have'
+S -> NP VP
+NP -> PRP
+PRP -> 'them'
+VP -> VB NP PP
+VB -> 'stab'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'in'
+NP -> DT NN
+DT -> 'the'
+NN -> 'back'
+ROOT -> NP
+NP -> NNS
+NNS -> 'guards'
+ROOT -> S
+S -> NP-TMP NP VP
+NP-TMP -> NP PP
+NP -> NN
+NN -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP PP
+VBP -> 'are'
+PP -> IN NP
+IN -> 'under'
+NP -> NP PP
+NP -> NN
+NN -> 'arrest'
+PP -> IN NP
+IN -> 'for'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'robbery'
+PP -> IN NP
+IN -> 'of'
+NP -> NP NP
+NP -> DT FW FW
+DT -> 'the'
+FW -> 'san'
+FW -> 'ricardo'
+NP -> NN
+NN -> 'bank'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'consider'
+S -> NP NP
+NP -> DT
+DT -> 'this'
+NP -> NP PP
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'final'
+NN -> 'meeting'
+PP -> IN NP
+IN -> 'of'
+NP -> NN NN
+NN -> 'bean'
+NN -> 'club'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'should'
+VP -> VB NP PP
+VB -> 'scramble'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'with'
+NP -> NNS
+NNS -> 'onions'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD ADVP VP
+MD -> 'should'
+ADVP -> RB
+RB -> 'never'
+VP -> VB VP
+VB -> 'have'
+VP -> VBN ADVP
+VBN -> 'come'
+ADVP -> RB
+RB -> 'back'
+ROOT -> NP
+NP -> NN
+NN -> 'pequeo'
+ROOT -> S
+S -> VP
+VP -> VB
+VB -> 'wait'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP INTJ
+VB -> 'fight'
+NP -> PRP
+PRP -> 'them'
+INTJ -> UH
+UH -> 'please'
+ROOT -> NP
+NP -> NN
+NN -> 'mama'
+ROOT -> S
+S -> VP
+VP -> VB PP
+VB -> 'listen'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'can'
+VP -> VB
+VB -> 'explain'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'puss'
+NP -> DT JJR NN
+DT -> 'no'
+JJR -> 'more'
+NN -> 'running'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'please'
+VP -> VP CC VP
+VP -> VB S
+VB -> 'stop'
+S -> VP
+VP -> VBG NP
+VBG -> 'breaking'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'heart'
+CC -> 'and'
+VP -> VB SBAR
+VB -> 'face'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN
+VBN -> 'done'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP NP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'sorry'
+NP -> NN
+NN -> 'mama'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP PRT
+VBP -> 'let'
+NP -> PRP
+PRP -> 'you'
+PRT -> RP
+RP -> 'down'
+ROOT -> NP
+NP -> NP SBAR
+NP -> NNS
+NNS -> 'paws'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'where'
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'can'
+VP -> VB NP
+VB -> 'see'
+NP -> PRP
+PRP -> 'them'
+ROOT -> S
+S -> VP
+VP -> VB ADVP ADVP
+VB -> 'turn'
+ADVP -> RB
+RB -> 'around'
+ADVP -> RB
+RB -> 'slow'
+ROOT -> FRAG
+FRAG -> ADJP
+ADJP -> JJR
+JJR -> 'slower'
+ROOT -> FRAG
+FRAG -> NP PP
+NP -> NN
+NN -> 'step'
+PP -> IN NP
+IN -> 'into'
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'carrier'
+NN -> 'quietlike'
+ROOT -> NP
+NP -> NN
+NN -> 'attention'
+ROOT -> NP
+NP -> NN NN
+NN -> 'attention'
+NN -> 'everyone'
+ROOT -> SBAR
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD ADVP VP
+MD -> 'could'
+ADVP -> RB
+RB -> 'just'
+VP -> VB PP
+VB -> 'come'
+PP -> IN NP
+IN -> 'in'
+NP -> QP
+QP -> DT JJ JJR
+DT -> 'a'
+JJ -> 'little'
+JJR -> 'closer'
+ROOT -> S
+S -> NP NP VP
+NP -> NNS CC NNS
+NNS -> 'ladies'
+CC -> 'and'
+NNS -> 'gentlemen'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP PP NP
+VBP -> 'present'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'you'
+NP -> NP PP
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'golden'
+NN -> 'goose'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'legend'
+ROOT -> NP
+NP -> NN
+NN -> 'kitty'
+ROOT -> FRAG
+FRAG -> RB NP ADVP
+RB -> 'not'
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'too'
+ROOT -> NP
+NP -> NP PP
+NP -> NN
+NN -> 'gold'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'everyone'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP ADVP
+VBD -> 'got'
+NP -> DT JJ JJ NN
+DT -> 'some'
+JJ -> 'fresh'
+JJ -> 'hot'
+NN -> 'gold'
+ADVP -> RB NP
+RB -> 'here'
+NP -> NNS
+NNS -> 'people'
+ROOT -> FRAG
+FRAG -> NP ADVP
+NP -> NN
+NN -> 'step'
+ADVP -> RB RB
+RB -> 'right'
+RB -> 'up'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'get'
+S -> NP ADJP
+NP -> PRP
+PRP -> 'it'
+ADJP -> JJ
+JJ -> 'hot'
+ROOT -> NP
+NP -> NNS
+NNS -> 'huevos'
+ROOT -> NP
+NP -> NNS
+NNS -> 'huevos'
+ROOT -> NP
+NP -> NNS
+NNS -> 'huevos'
+ROOT -> NP
+NP -> CD NN
+CD -> 'one'
+NN -> 'hat'
+ROOT -> NP
+NP -> CD NN
+CD -> 'one'
+NN -> 'belt'
+ROOT -> FRAG
+FRAG -> CC NP PP
+CC -> 'and'
+NP -> CD NNS
+CD -> 'two'
+NNS -> 'boots'
+PP -> IN NP
+IN -> 'once'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'symbol'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'honor'
+ROOT -> NP
+NP -> NP PP
+NP -> CD NN
+CD -> 'one'
+NN -> 'bottle'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'catnip'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ PP
+VBZ -> 'is'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'glaucoma'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ SBAR
+VBZ -> 'is'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'where'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'belong'
+VP -> VB
+VB -> 'outlaw'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> DT
+DT -> 'this'
+VP -> VBZ SBAR
+VBZ -> 'is'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'where'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'will'
+VP -> VB ADVP
+VB -> 'stay'
+ADVP -> RB
+RB -> 'forever'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'no'
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB PP
+VB -> 'stop'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'account'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'well'
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ SBAR
+VBZ -> 'looks'
+SBAR -> IN S
+IN -> 'like'
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'egg'
+VP -> VBD SBAR
+VBD -> 'got'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD
+VBD -> 'wanted'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG PP
+VBG -> 'talking'
+PP -> IN NP
+IN -> 'about'
+NP -> NN
+NN -> 'humpty'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'say'
+NP -> PRP$ NN
+PRP$ -> 'his'
+NN -> 'name'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD S
+VBD -> 'used'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP PP
+VB -> 'share'
+NP -> DT NN
+DT -> 'this'
+NN -> 'cell'
+PP -> IN NP
+IN -> 'with'
+NP -> DT ADJP NN
+DT -> 'that'
+ADJP -> JJ
+JJ -> 'smelly'
+NN -> 'thing'
+ROOT -> S
+S -> NP VP
+NP -> NP PP
+NP -> JJS NN
+JJS -> 'happiest'
+NN -> 'day'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'life'
+VP -> VBD SBAR
+VBD -> 'was'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD
+VBD -> 'left'
+ROOT -> SBAR
+SBAR -> IN S
+IN -> 'till'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD SBAR
+VBD -> 'realized'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD NP
+VBD -> 'stole'
+NP -> PRP$ NN NNS
+PRP$ -> 'my'
+NN -> 'magic'
+NNS -> 'beans'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'wait'
+S -> VP
+VP -> VB VB
+VB -> 'wait'
+VB -> 'wait'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'had'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'beans'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'who'
+SQ -> VBP NP
+VBP -> 'are'
+NP -> PRP
+PRP -> 'you'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'hey'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'name'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'andy'
+NN -> 'beanstalk'
+ROOT -> S
+S -> NP VP
+NP -> PRP$ NNS
+PRP$ -> 'my'
+NNS -> 'friends'
+VP -> VBP S
+VBP -> 'call'
+S -> NP NP
+NP -> PRP
+PRP -> 'me'
+NP -> NN
+NN -> 'jack'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PP
+VBD -> 'traded'
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'family'
+NN -> 'cow'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP NNS
+PRP -> 'them'
+NNS -> 'beans'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> VP
+VP -> VBN
+VBN -> 'coursen'
+NP -> PRP
+PRP -> 'it'
+VP -> VBD RB NP
+VBD -> 'was'
+RB -> 'not'
+NP -> PRP$ NNS NN
+PRP$ -> 'my'
+NNS -> 'familys'
+NN -> 'cow'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBD NP
+VBD -> 'was'
+NP -> DT JJ NNS NN NN
+DT -> 'some'
+JJ -> 'other'
+NNS -> 'familys'
+NN -> 'family'
+NN -> 'cow'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ SBAR
+VBZ -> 'is'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'why'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PP
+VBD -> 'got'
+NP -> CD
+CD -> 'eight'
+PP -> IN NP
+IN -> 'to'
+NP -> CD
+CD -> 'ten'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'always'
+VP -> VB SBAR
+VB -> 'know'
+SBAR -> WHNP S
+WHNP -> WDT
+WDT -> 'which'
+S -> NP VP
+NP -> NN
+NN -> 'cow'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$
+PRP$ -> 'yours'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'crazy'
+NN -> 'man'
+ROOT -> FRAG
+FRAG -> NP ADVP
+NP -> NN
+NN -> 'wake'
+ADVP -> RP
+RP -> 'up'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP RB
+WP -> 'what'
+RB -> 'else'
+SQ -> VBP NP VP
+VBP -> 'do'
+NP -> PRP
+PRP -> 'you'
+VP -> VB
+VB -> 'know'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP ADVP
+VBP -> 'are'
+NP -> DT NNS
+DT -> 'all'
+NNS -> 'goners'
+ADVP -> NNS PP
+NNS -> 'thanks'
+PP -> IN FRAG
+IN -> 'to'
+FRAG -> ADJP
+ADJP -> NP JJ
+NP -> DT JJ
+DT -> 'that'
+JJ -> 'little'
+JJ -> 'stinky'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP S
+VBD -> 'told'
+NP -> PRP
+PRP -> 'him'
+S -> RB VP
+RB -> 'not'
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'take'
+NP -> NP CC NP
+NP -> DT NN
+DT -> 'the'
+NN -> 'goose'
+CC -> 'but'
+NP -> DT
+DT -> 'all'
+NP -> PRP
+PRP -> 'he'
+VP -> VBD SBAR
+VBD -> 'wanted'
+SBAR -> S
+S -> VP
+VP -> VBD NP
+VBD -> 'was'
+NP -> PRP$ NN
+PRP$ -> 'his'
+NN -> 'revenge'
+ROOT -> S
+S -> VP
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP
+VB -> 'take'
+NP -> DT NN
+DT -> 'the'
+NN -> 'goose'
+ROOT -> SBARQ
+SBARQ -> WHADVP
+WHADVP -> WRB
+WRB -> 'why'
+ROOT -> NP
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'great'
+NN -> 'terror'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NNS NN
+DT -> 'the'
+JJ -> 'golden'
+NNS -> 'gooses'
+NN -> 'mama'
+ROOT -> FRAG
+FRAG -> INTJ INTJ
+INTJ -> UH
+UH -> 'oh'
+INTJ -> UH
+UH -> 'no'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP
+PRP -> 'she'
+VP -> MD VP
+MD -> 'will'
+VP -> VB ADVP PP SBAR
+VB -> 'be'
+ADVP -> RB
+RB -> 'out'
+PP -> IN NP
+IN -> 'for'
+NP -> NN
+NN -> 'blood'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ ADVP PP
+VBZ -> 'comes'
+ADVP -> RB
+RB -> 'back'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP$ NN
+PRP$ -> 'her'
+NN -> 'baby'
+ROOT -> NP
+NP -> NN
+NN -> 'guard'
+ROOT -> SQ
+SQ -> NP VP
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardo'
+VP -> VBZ PP
+VBZ -> 'is'
+PP -> IN NP
+IN -> 'in'
+NP -> JJ NN
+JJ -> 'terrible'
+NN -> 'danger'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'must'
+VP -> VB PP
+VB -> 'listen'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'me'
+ROOT -> FRAG
+FRAG -> ADJP
+ADJP -> JJ NP
+JJ -> 'quiet'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'shut'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'open'
+NP -> DT NN
+DT -> 'the'
+NN -> 'door'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'drop'
+NP -> DT NN
+DT -> 'the'
+NN -> 'weapon'
+ROOT -> ADJP
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'good'
+ROOT -> FRAG
+FRAG -> NP ADVP
+NP -> NN
+NN -> 'step'
+ADVP -> RB
+RB -> 'aside'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'diablo'
+NN -> 'gato'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'nice'
+NN -> 'try'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'hope'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD VP
+MD -> 'can'
+VP -> VB NP
+VB -> 'forgive'
+NP -> PRP
+PRP -> 'me'
+ROOT -> FRAG
+FRAG -> NP VP
+NP -> NN
+NN -> 'apology'
+VP -> VBN
+VBN -> 'accepted'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB ADVP VP
+VBP -> 'do'
+RB -> 'not'
+ADVP -> RB
+RB -> 'really'
+VP -> VB NP
+VB -> 'have'
+NP -> NP PP
+NP -> NN
+NN -> 'time'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP S
+VBP -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP PP
+VB -> 'save'
+NP -> DT NN
+DT -> 'the'
+NN -> 'town'
+PP -> IN NP
+IN -> 'from'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'great'
+NN -> 'terror'
+ROOT -> S
+S -> VP
+VP -> VB NP
+VB -> 'wait'
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> VP
+VP -> VBP RB
+VBP -> 'do'
+RB -> 'not'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'see'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP PP
+VBP -> 'am'
+ADVP -> RB
+RB -> 'here'
+PP -> IN
+IN -> 'because'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADVP SBAR
+VBP -> 'am'
+ADVP -> RB
+RB -> 'here'
+SBAR -> IN S
+IN -> 'because'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD S
+VBD -> 'made'
+S -> NP VP
+NP -> PRP
+PRP -> 'me'
+VP -> VB SBAR
+VB -> 'realize'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> EX
+EX -> 'there'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP SBAR
+NP -> NN
+NN -> 'something'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP PP
+VBP -> 'care'
+PP -> IN NP
+IN -> 'about'
+NP -> QP
+QP -> JJR IN NP
+JJR -> 'more'
+IN -> 'than'
+NP -> NN
+NN -> 'gold'
+ROOT -> NP
+NP -> NN
+NN -> 'something'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'ok'
+ROOT -> NP
+NP -> NN
+NN -> 'someone'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> NP JJ SBAR
+NP -> QP NNS
+QP -> RB CD
+RB -> 'about'
+CD -> 'two'
+NNS -> 'feet'
+JJ -> 'tall'
+SBAR -> S
+S -> VP
+VP -> VBZ NP
+VBZ -> 'wears'
+NP -> JJ NNS
+JJ -> 'high'
+NNS -> 'heels'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'handsome'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'handsome'
+ROOT -> NP
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'real'
+NN -> 'beefcake'
+ROOT -> NP
+NP -> DT NN
+DT -> 'a'
+NN -> 'stallion'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'yes'
+ROOT -> NP
+NP -> NN
+NN -> 'tiger'
+ROOT -> FRAG
+FRAG -> INTJ NP
+INTJ -> UH
+UH -> 'oh'
+NP -> NN
+NN -> 'brother'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> DT
+DT -> 'this'
+VP -> VBZ RB VP
+VBZ -> 'does'
+RB -> 'not'
+VP -> VB NP ADVP
+VB -> 'make'
+NP -> PRP
+PRP -> 'us'
+ADVP -> RB
+RB -> 'even'
+ROOT -> NP
+NP -> NN
+NN -> 'freeze'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'yes'
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ
+VBZ -> 'does'
+ROOT -> S
+S -> INTJ INTJ INTJ NP VP
+INTJ -> UH
+UH -> 'no'
+INTJ -> UH
+UH -> 'no'
+INTJ -> UH
+UH -> 'no'
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ RB
+VBZ -> 'does'
+RB -> 'not'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'saved'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP NP
+VBD -> 'owed'
+NP -> PRP
+PRP -> 'me'
+NP -> CD
+CD -> 'one'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD RB VP
+VBD -> 'did'
+RB -> 'not'
+VP -> VB NP PP
+VB -> 'tell'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'about'
+NP -> NN
+NN -> 'humpty'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB RB
+RB -> 'so'
+RB -> 'now'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP NP
+VBP -> 'owe'
+NP -> PRP
+PRP -> 'me'
+NP -> CD
+CD -> 'two'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'lot'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'work'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP
+VBP -> 'know'
+ROOT -> S
+S -> CC NP VP
+CC -> 'but'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP NP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'worth'
+NP -> PRP
+PRP -> 'it'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP RB VP
+VBP -> 'are'
+RB -> 'not'
+VP -> VBG PRT NP
+VBG -> 'getting'
+PRT -> RB
+RB -> 'away'
+NP -> NP PP
+NP -> NN
+NN -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+ROOT -> NP
+NP -> JJ NNS
+JJ -> 'wrong'
+NNS -> 'boots'
+ROOT -> NP
+NP -> NN
+NN -> 'kitty'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'now'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP ADVP
+VBP -> 'are'
+ADVP -> RB
+RB -> 'even'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP NP
+NP -> PRP$
+PRP$ -> 'your'
+NP -> FW FW NN NN
+FW -> 'san'
+FW -> 'ricardo'
+NN -> 'weather'
+NN -> 'report'
+ROOT -> FRAG
+FRAG -> PRN NP
+PRN -> S
+S -> NP VP
+NP -> NP PP
+NP -> NNS
+NNS -> 'chances'
+PP -> IN NP
+IN -> 'of'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'giant'
+NN -> 'goose'
+VP -> VBG NP
+VBG -> 'destroying'
+NP -> DT NN
+DT -> 'the'
+NN -> 'town'
+NP -> QP NN
+QP -> CD CD
+CD -> 'one'
+CD -> 'hundred'
+NN -> 'percent'
+ROOT -> FRAG
+FRAG -> FRAG FRAG FRAG
+FRAG -> ADVP ADJP
+ADVP -> RB
+RB -> 'never'
+ADJP -> JJ
+JJ -> 'alone'
+FRAG -> ADVP ADJP
+ADVP -> RB
+RB -> 'always'
+ADJP -> RB JJ
+RB -> 'together'
+JJ -> 'humpty'
+FRAG -> CC NP ADVP
+CC -> 'and'
+NP -> NN NNS
+NN -> 'puss'
+NNS -> 'brothers'
+ADVP -> RB
+RB -> 'forever'
+ROOT -> S
+S -> VP
+VP -> VB PP
+VB -> 'come'
+PP -> IN NP
+IN -> 'on'
+NP -> NN
+NN -> 'sweetie'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'us'
+VP -> VB ADVP SBAR
+VB -> 'get'
+ADVP -> IN PP
+IN -> 'out'
+PP -> IN ADVP
+IN -> 'of'
+ADVP -> RB
+RB -> 'here'
+SBAR -> IN S
+IN -> 'before'
+S -> NP VP
+NP -> NN
+NN -> 'mama'
+VP -> VBZ PRT
+VBZ -> 'shows'
+PRT -> RP
+RP -> 'up'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'should'
+VP -> VB NP PP
+VB -> 'make'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'into'
+NP -> DT NN NN NN
+DT -> 'an'
+NN -> 'egg'
+NN -> 'salad'
+NN -> 'sandwich'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'disgusting'
+ROOT -> S
+S -> VP
+VP -> VB NP NP
+VB -> 'give'
+NP -> PRP
+PRP -> 'me'
+NP -> DT NN NN
+DT -> 'the'
+NN -> 'goose'
+NN -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'no'
+VP -> MD VP
+MD -> 'can'
+VP -> VB SBAR
+VB -> 'do'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'afraid'
+ROOT -> S
+S -> S CC S
+S -> VP
+VP -> VB NP PP
+VB -> 'see'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'mamas'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP$ NN
+PRP$ -> 'her'
+NN -> 'way'
+CC -> 'and'
+S -> SBAR NP ADVP VP
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'when'
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ S
+VBZ -> 'gets'
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'here'
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP CC NP
+NP -> FW FW FW
+FW -> 'byebye'
+FW -> 'san'
+FW -> 'ricardo'
+CC -> 'and'
+NP -> NN
+NN -> 'everything'
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'ever'
+VP -> VBD ADVP
+VBD -> 'cared'
+ADVP -> RB
+RB -> 'about'
+ROOT -> S
+S -> PRN SBAR
+PRN -> S
+S -> NP VP
+NP -> NP PP
+NP -> NN
+NN -> 'revenge'
+PP -> IN NP
+IN -> 'on'
+NP -> PRP
+PRP -> 'me'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> CD NN
+CD -> 'one'
+NN -> 'thing'
+SBAR -> CC WHADVP FRAG
+CC -> 'but'
+WHADVP -> WRB
+WRB -> 'why'
+FRAG -> NP
+NP -> NNP
+NNP -> 'imelda'
+ROOT -> X
+X -> ADVP NP
+ADVP -> WRB
+WRB -> 'why'
+NP -> DT NN
+DT -> 'the'
+NN -> 'orphanage'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'our'
+NN -> 'home'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'mean'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'home'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'never'
+VP -> VBD ADVP
+VBD -> 'belonged'
+ADVP -> RB
+RB -> 'here'
+ROOT -> S
+S -> S CC S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBD NP
+VBD -> 'had'
+NP -> DT NN S
+DT -> 'a'
+NN -> 'plan'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB ADVP
+VB -> 'get'
+ADVP -> IN PP
+IN -> 'out'
+PP -> IN ADVP
+IN -> 'of'
+ADVP -> RB
+RB -> 'here'
+CC -> 'but'
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'then'
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'became'
+NP -> DT NN
+DT -> 'a'
+NN -> 'hero'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP PP
+VBD -> 'picked'
+NP -> DT NN
+DT -> 'this'
+NN -> 'place'
+PP -> IN NP
+IN -> 'over'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP PP
+VBD -> 'left'
+NP -> PRP
+PRP -> 'me'
+PP -> IN NP
+IN -> 'with'
+NP -> NN
+NN -> 'nothing'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'sorry'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'hurt'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> CC VP
+CC -> 'but'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB NP PRT PP
+VB -> 'take'
+NP -> PRP
+PRP -> 'it'
+PRT -> RP
+RP -> 'out'
+PP -> IN NP
+IN -> 'on'
+NP -> DT NNS
+DT -> 'these'
+NNS -> 'people'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADJP
+VBP -> 'are'
+ADJP -> ADJP PP
+ADJP -> JJR
+JJR -> 'better'
+PP -> IN NP
+IN -> 'than'
+NP -> DT
+DT -> 'this'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'no'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB
+VBP -> 'am'
+RB -> 'not'
+ROOT -> S
+S -> INTJ VP
+INTJ -> UH
+UH -> 'oh'
+VP -> VB PRT
+VB -> 'come'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'know'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'real'
+NN -> 'humpty'
+ROOT -> S
+S -> NP NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'way'
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'saw'
+NP -> DT NN
+DT -> 'the'
+NN -> 'world'
+ROOT -> NP
+NP -> DT NN
+DT -> 'the'
+NN -> 'inventor'
+ROOT -> NP
+NP -> DT NN
+DT -> 'the'
+NN -> 'dreamer'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> VP
+VP -> VBD PP
+VBD -> 'happened'
+PP -> IN NP
+IN -> 'to'
+NP -> DT NN
+DT -> 'that'
+NN -> 'guy'
+ROOT -> S
+S -> NP
+NP -> PRP
+PRP -> 'i'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> RB JJ
+RB -> 'too'
+JJ -> 'late'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADVP ADJP S
+VBZ -> 'is'
+ADVP -> RB
+RB -> 'never'
+ADJP -> RB JJ
+RB -> 'too'
+JJ -> 'late'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'do'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'right'
+NN -> 'thing'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'together'
+NP -> PRP
+PRP -> 'we'
+VP -> MD VP
+MD -> 'can'
+VP -> VB NP
+VB -> 'save'
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardo'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'can'
+VP -> VB S
+VB -> 'forgive'
+S -> NP ADJP SBAR
+NP -> PRP
+PRP -> 'you'
+ADJP -> JJ
+JJ -> 'humpty'
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP ADVP
+VBP -> 'help'
+NP -> PRP
+PRP -> 'me'
+ADVP -> RB
+RB -> 'now'
+ROOT -> ADVP
+ADVP -> RB
+RB -> 'really'
+ROOT -> S
+S -> PP NP VP
+PP -> IN NP
+IN -> 'after'
+NP -> NN
+NN -> 'everything'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP PP
+VBP -> 'put'
+NP -> PRP
+PRP -> 'you'
+PP -> IN
+IN -> 'through'
+ROOT -> S
+S -> PRN NP VP
+PRN -> S
+S -> VP
+VP -> VB PP
+VB -> 'prove'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP
+PRP -> 'me'
+NP -> EX
+EX -> 'there'
+VP -> VBZ ADVP NP
+VBZ -> 'is'
+ADVP -> RB
+RB -> 'still'
+NP -> NP PP
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'good'
+NN -> 'egg'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP
+PRP -> 'you'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB
+VB -> 'try'
+ROOT -> S
+S -> NP VP
+NP -> NNS
+NNS -> 'goggles'
+VP -> VBP
+VBP -> 'check'
+ROOT -> S
+S -> VP
+VP -> VB NP PP
+VB -> 'get'
+NP -> DT NN
+DT -> 'the'
+NN -> 'baby'
+PP -> IN NP
+IN -> 'over'
+NP -> DT NN
+DT -> 'the'
+NN -> 'bridge'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP S
+VB -> 'get'
+NP -> DT NN
+DT -> 'the'
+NN -> 'mother'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'follow'
+ROOT -> FRAG
+FRAG -> ADJP
+ADJP -> JJ SBAR
+JJ -> 'ok'
+SBAR -> S
+S -> VP
+VP -> VB NP NP
+VB -> 'give'
+NP -> PRP
+PRP -> 'me'
+NP -> DT NN
+DT -> 'a'
+NN -> 'puss'
+ROOT -> NP
+NP -> NN NN
+NN -> 'mama'
+NN -> 'goose'
+ROOT -> S
+S -> VP
+VP -> VB
+VB -> 'wait'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'just'
+VP -> VB S
+VB -> 'follow'
+S -> NP VP
+NP -> PRP CC PRP
+PRP -> 'me'
+CC -> 'and'
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP PP
+VB -> 'lead'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'to'
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'baby'
+ROOT -> INTJ
+INTJ -> UH
+UH -> 'no'
+ROOT -> NP
+NP -> RB DT NN
+RB -> 'not'
+DT -> 'that'
+NN -> 'way'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'pequeo'
+NN -> 'help'
+ROOT -> S
+S -> VP
+VP -> VB PRT
+VB -> 'hang'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'that'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'boy'
+ROOT -> S
+S -> VP
+VP -> VB PP NP
+VB -> 'come'
+PP -> IN NP
+IN -> 'with'
+NP -> PRP
+PRP -> 'me'
+NP -> NN NN
+NN -> 'mama'
+NN -> 'goose'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> WHADVP S
+WHADVP -> WRB
+WRB -> 'where'
+S -> NP VP
+NP -> PRP$ NN
+PRP$ -> 'your'
+NN -> 'baby'
+VP -> VBZ
+VBZ -> 'is'
+ROOT -> ADVP
+ADVP -> RB
+RB -> 'here'
+ROOT -> INTJ
+INTJ -> NN
+NN -> 'look'
+ROOT -> S
+S -> NP VP
+NP -> JJ
+JJ -> 'humpty'
+VP -> VB PRT NP
+VB -> 'pick'
+PRT -> RP
+RP -> 'up'
+NP -> DT NN
+DT -> 'the'
+NN -> 'pace'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBG NP
+VBG -> 'trying'
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'am'
+VP -> VBG
+VBG -> 'trying'
+ROOT -> NP
+NP -> NP SBAR
+NP -> ADJP NN
+ADJP -> JJ
+JJ -> 'sorry'
+NN -> 'egghead'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP NP
+VBP -> 'want'
+NP -> QP NNS
+QP -> JJR IN RB
+JJR -> 'more'
+IN -> 'than'
+RB -> 'just'
+NNS -> 'eggs'
+ROOT -> FRAG
+FRAG -> PRN SBAR
+PRN -> SBAR
+SBAR -> RB WHADVP S
+RB -> 'so'
+WHADVP -> WRB IN
+WRB -> 'how'
+IN -> 'about'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'give'
+NP -> PRP
+PRP -> 'us'
+SBAR -> IN FRAG
+IN -> 'that'
+FRAG -> NP
+NP -> NN
+NN -> 'goose'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> VP
+VP -> VB NP PRT
+VB -> 'get'
+NP -> PRP$
+PRP$ -> 'her'
+PRT -> RP
+RP -> 'off'
+ROOT -> NP
+NP -> JJ NNS
+JJ -> 'nice'
+NNS -> 'moves'
+ROOT -> SBARQ
+SBARQ -> WHNP SQ
+WHNP -> WP
+WP -> 'what'
+SQ -> MD NP VP
+MD -> 'would'
+NP -> PRP
+PRP -> 'you'
+VP -> VB PP
+VB -> 'do'
+PP -> IN NP
+IN -> 'without'
+NP -> PRP
+PRP -> 'me'
+ROOT -> NP
+NP -> NN
+NN -> 'freeze'
+ROOT -> NP
+NP -> NN
+NN -> 'comandante'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'can'
+VP -> VB
+VB -> 'explain'
+ROOT -> S
+S -> NP-TMP NP VP
+NP-TMP -> NP SBAR
+NP -> FW
+FW -> 'gato'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG ADVP PP SBAR
+VBG -> 'going'
+ADVP -> RB
+RB -> 'back'
+PP -> IN NP
+IN -> 'to'
+NP -> NN
+NN -> 'jail'
+SBAR -> IN S
+IN -> 'if'
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'last'
+NN -> 'thing'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP
+VBP -> 'do'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'humpty'
+NN -> 'hurry'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP ADVP ADVP
+VBP -> 'are'
+ADVP -> RB
+RB -> 'almost'
+ADVP -> RB
+RB -> 'there'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'we'
+VP -> VBP ADVP ADVP
+VBP -> 'are'
+ADVP -> RB
+RB -> 'almost'
+ADVP -> RB
+RB -> 'there'
+ROOT -> NP
+NP -> NN NN
+NN -> 'puss'
+NN -> 'help'
+ROOT -> FRAG
+FRAG -> NP PP
+NP -> JJ NN
+JJ -> 'humpty'
+NN -> 'hang'
+PP -> IN
+IN -> 'on'
+ROOT -> NP
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'here'
+NP -> PRP
+PRP -> 'we'
+VP -> VBP ADVP NP
+VBP -> 'are'
+ADVP -> RB
+RB -> 'again'
+NP -> JJ NN
+JJ -> 'right'
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'will'
+RB -> 'not'
+VP -> VB NP PP
+VB -> 'leave'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'behind'
+NP -> DT NN NN
+DT -> 'this'
+NN -> 'time'
+NN -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP NP
+VBP -> 'am'
+ADJP -> JJ
+JJ -> 'sorry'
+NP -> NN
+NN -> 'puss'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP VP
+VBP -> 'have'
+VP -> VBN NP PP
+VBN -> 'made'
+NP -> DT NN
+DT -> 'a'
+NN -> 'mess'
+PP -> IN PP
+IN -> 'out'
+PP -> IN NP
+IN -> 'of'
+NP -> NN
+NN -> 'everything'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'am'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'rotten'
+NN -> 'egg'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB NP
+VBP -> 'am'
+RB -> 'not'
+NP -> DT NN
+DT -> 'a'
+NN -> 'person'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB NP
+VBP -> 'am'
+RB -> 'not'
+NP -> DT NN
+DT -> 'a'
+NN -> 'bird'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB NP
+VBP -> 'am'
+RB -> 'not'
+NP -> RB DT NN
+RB -> 'even'
+DT -> 'a'
+NN -> 'food'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP RB VP
+VBP -> 'do'
+RB -> 'not'
+VP -> VB SBAR
+VB -> 'know'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP
+VBP -> 'am'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP SBAR
+VBP -> 'are'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'what'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP ADVP VP
+VBP -> 'have'
+ADVP -> RB
+RB -> 'always'
+VP -> VBN
+VBN -> 'been'
+ROOT -> NP
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'brother'
+ROOT -> S
+S -> NP ADVP
+NP -> NNS
+NNS -> 'brothers'
+ADVP -> RB
+RB -> 'forever'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD RB VP
+MD -> 'can'
+RB -> 'not'
+VP -> VB NP NP
+VB -> 'save'
+NP -> PRP
+PRP -> 'us'
+NP -> DT
+DT -> 'both'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'yes'
+NP -> PRP
+PRP -> 'i'
+VP -> MD
+MD -> 'can'
+ROOT -> S
+S -> ADVP VP
+ADVP -> RB
+RB -> 'just'
+VP -> VB PRT
+VB -> 'hang'
+PRT -> RP
+RP -> 'on'
+ROOT -> S
+S -> VP
+VP -> VB S
+VB -> 'puss'
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP S
+VBP -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB NP
+VB -> 'save'
+NP -> DT NN
+DT -> 'the'
+NN -> 'baby'
+CC -> 'or'
+S -> NP VP
+NP -> DT NN
+DT -> 'the'
+NN -> 'mama'
+VP -> MD VP
+MD -> 'will'
+VP -> VB NP
+VB -> 'destroy'
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardo'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN S
+DT -> 'the'
+JJ -> 'right'
+NN -> 'thing'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'do'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'will'
+RB -> 'not'
+VP -> VB S
+VB -> 'let'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB ADJP
+VB -> 'go'
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD RB
+MD -> 'will'
+RB -> 'not'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'so'
+NP -> PRP
+PRP -> 'i'
+VP -> MD RB VP
+MD -> 'will'
+RB -> 'not'
+VP -> VB S
+VB -> 'make'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VB
+VB -> 'choose'
+ROOT -> ADJP
+ADJP -> JJ
+JJ -> 'humpty'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP
+VBP -> 'am'
+ADJP -> RB JJ
+RB -> 'very'
+JJ -> 'sorry'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> JJ NN
+JJ -> 'ok'
+NN -> 'humpty'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'i'
+ADVP -> RB
+RB -> 'always'
+VP -> VBD SBAR
+VBD -> 'knew'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD ADJP ADVP
+VBD -> 'were'
+ADJP -> JJ
+JJ -> 'good'
+ADVP -> RB
+RB -> 'inside'
+ROOT -> NP
+NP -> NN NN
+NN -> 'goodbye'
+NN -> 'humpty'
+ROOT -> S
+S -> INTJ NP VP
+INTJ -> UH
+UH -> 'yeah'
+NP -> PRP
+PRP -> 'i'
+VP -> VBP SBAR
+VBP -> 'think'
+SBAR -> S
+S -> S CC S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'wonderful'
+CC -> 'and'
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP
+VBD -> 'got'
+NP -> DT NN NN
+DT -> 'a'
+NN -> 'goose'
+NN -> 'egg'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> PRP
+PRP -> 'him'
+ROOT -> NP
+NP -> NP PP
+NP -> NN
+NN -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD NP PP
+VBD -> 'saved'
+NP -> PRP
+PRP -> 'us'
+PP -> IN NP
+IN -> 'from'
+NP -> DT JJ NN
+DT -> 'the'
+JJ -> 'giant'
+NN -> 'goose'
+ROOT -> S
+S -> NP VP
+NP -> PRP$ NN
+PRP$ -> 'his'
+NN -> 'sword'
+VP -> VBZ PP
+VBZ -> 'is'
+PP -> IN NP
+IN -> 'like'
+NP -> NN
+NN -> 'lightning'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'they'
+VP -> VBP SBAR
+VBP -> 'say'
+SBAR -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ NP
+VBZ -> 'has'
+NP -> CD NNS
+CD -> 'ten'
+NNS -> 'lives'
+ROOT -> S
+S -> NP VP
+NP -> PRP$ NNS
+PRP$ -> 'his'
+NNS -> 'boots'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBN PP
+VBN -> 'made'
+PP -> IN NP
+IN -> 'of'
+NP -> DT JJS JJ NN
+DT -> 'the'
+JJS -> 'finest'
+JJ -> 'corinthian'
+NN -> 'leather'
+ROOT -> S
+S -> NP ADVP VP
+NP -> PRP
+PRP -> 'he'
+ADVP -> RB
+RB -> 'only'
+VP -> VBZ NP
+VBZ -> 'drinks'
+NP -> JJ NN
+JJ -> 'whole'
+NN -> 'milk'
+ROOT -> NP
+NP -> JJ NN
+JJ -> 'good'
+NN -> 'leche'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ S
+VBZ -> 'is'
+S -> NP VP
+NP -> DT
+DT -> 'no'
+VP -> VB
+VB -> 'outlaw'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'he'
+VP -> VBD NP
+VBD -> 'saved'
+NP -> PRP
+PRP -> 'us'
+ROOT -> NP
+NP -> NN
+NN -> 'meow'
+ROOT -> FRAG
+FRAG -> NP NP
+NP -> NP PP
+NP -> DT NN
+DT -> 'a'
+NN -> 'gift'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'you'
+NP -> NN
+NN -> 'mama'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP S
+VBP -> 'have'
+S -> VP
+VP -> TO VP
+TO -> 'to'
+VP -> VB
+VB -> 'go'
+ROOT -> S
+S -> NP VP
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'soldiers'
+VP -> VBP VP
+VBP -> 'are'
+VP -> VBG PP
+VBG -> 'coming'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'me'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP ADJP NP
+VBP -> 'am'
+ADJP -> RB JJ PP
+RB -> 'so'
+JJ -> 'proud'
+PP -> IN NP
+IN -> 'of'
+NP -> PRP
+PRP -> 'you'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'son'
+ROOT -> S
+S -> NP-TMP NP VP
+NP-TMP -> NN
+NN -> 'today'
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP PP
+VBD -> 'faced'
+NP -> DT NN
+DT -> 'the'
+NN -> 'past'
+PP -> IN NP
+IN -> 'with'
+NP -> NN CC NN
+NN -> 'bravery'
+CC -> 'and'
+NN -> 'honor'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBD NP
+VBD -> 'earned'
+NP -> DT NNS
+DT -> 'those'
+NNS -> 'boots'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> DT NNS
+DT -> 'the'
+NNS -> 'people'
+VP -> VBP SBAR
+VBP -> 'know'
+SBAR -> IN S
+IN -> 'that'
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> VBP NP
+VBP -> 'are'
+NP -> NP NP
+NP -> FW FW
+FW -> 'san'
+FW -> 'ricardos'
+NP -> JJS NN
+JJS -> 'greatest'
+NN -> 'hero'
+ROOT -> FRAG
+FRAG -> S NP
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBD NP PP
+VBD -> 'did'
+NP -> PRP
+PRP -> 'it'
+PP -> IN NP
+IN -> 'for'
+NP -> PRP
+PRP -> 'you'
+NP -> NN
+NN -> 'mama'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'you'
+VP -> MD ADVP VP
+MD -> 'will'
+ADVP -> RB
+RB -> 'always'
+VP -> VB PP
+VB -> 'be'
+PP -> IN NP
+IN -> 'in'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'heart'
+ROOT -> FRAG
+FRAG -> CC NP PP
+CC -> 'and'
+NP -> PRP
+PRP -> 'you'
+PP -> IN NP
+IN -> 'in'
+NP -> NN
+NN -> 'mine'
+ROOT -> NP
+NP -> NN
+NN -> 'gato'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB
+RB -> 'there'
+NP -> PRP
+PRP -> 'he'
+VP -> VBZ
+VBZ -> 'is'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'see'
+NP -> PRP
+PRP -> 'him'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> MD VP
+MD -> 'will'
+VP -> VB S
+VB -> 'see'
+S -> NP ADVP NP
+NP -> PRP
+PRP -> 'you'
+ADVP -> RB
+RB -> 'again'
+NP -> NN NNS
+NN -> 'kitty'
+NNS -> 'softpaws'
+ROOT -> S
+S -> ADVP NP VP
+ADVP -> RB IN
+RB -> 'sooner'
+IN -> 'than'
+NP -> PRP
+PRP -> 'you'
+VP -> VBP
+VBP -> 'think'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'she'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> DT JJ NN
+DT -> 'a'
+JJ -> 'bad'
+NN -> 'kitty'
+ROOT -> S
+S -> NP VP
+NP -> DT
+DT -> 'this'
+VP -> VBZ NP
+VBZ -> 'is'
+NP -> NP PP
+NP -> DT NN
+DT -> 'the'
+NN -> 'story'
+PP -> IN NP
+IN -> 'of'
+NP -> NP SBAR
+NP -> DT NN
+DT -> 'a'
+NN -> 'cat'
+SBAR -> WHNP S
+WHNP -> WP
+WP -> 'who'
+S -> VP
+VP -> VBD NP
+VBD -> 'became'
+NP -> DT NN
+DT -> 'a'
+NN -> 'hero'
+ROOT -> NP
+NP -> DT NML NN
+DT -> 'an'
+NML -> S
+S -> VP
+VP -> VB VP
+VB -> 'outlaw'
+VP -> VBN PP
+VBN -> 'dedicated'
+PP -> IN
+IN -> 'to'
+NN -> 'justice'
+ROOT -> FRAG
+FRAG -> CC NP PP
+CC -> 'and'
+NP -> DT NN
+DT -> 'a'
+NN -> 'lover'
+PP -> IN NP
+IN -> 'of'
+NP -> JJ NNS
+JJ -> 'beautiful'
+NNS -> 'women'
+ROOT -> NP
+NP -> DT ADJP NN
+DT -> 'a'
+ADJP -> JJ JJ
+JJ -> 'great'
+JJ -> 'great'
+NN -> 'lover'
+ROOT -> ADVP
+ADVP -> RB
+RB -> 'really'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'it'
+VP -> VBZ ADJP
+VBZ -> 'is'
+ADJP -> JJ
+JJ -> 'crazy'
+ROOT -> S
+S -> NP VP
+NP -> PRP
+PRP -> 'i'
+VP -> VBP NP
+VBP -> 'am'
+NP -> NP PP
+NP -> NNS
+NNS -> 'puss'
+PP -> IN NP
+IN -> 'in'
+NP -> NNS
+NNS -> 'boots'
+ROOT -> S
+S -> CC NP VP
+CC -> 'and'
+NP -> PRP$ NN
+PRP$ -> 'my'
+NN -> 'name'
+VP -> MD VP
+MD -> 'would'
+VP -> VB NP
+VB -> 'become'
+NP -> NN
+NN -> 'legend'
+ROOT -> NP
+NP -> NN
+NN -> 'meow'
